@@ -1,0 +1,4211 @@
+funder,organ,year,pub_count
+BHF,blood vasculature,2013,2
+BHF,blood vasculature,2015,1
+BHF,blood vasculature,2017,1
+BHF,bone marrow,2001,1
+BHF,bone marrow,2003,1
+BHF,bone marrow,2006,1
+BHF,bone marrow,2007,1
+BHF,bone marrow,2008,6
+BHF,bone marrow,2009,9
+BHF,bone marrow,2010,7
+BHF,bone marrow,2011,9
+BHF,bone marrow,2012,9
+BHF,bone marrow,2013,17
+BHF,bone marrow,2014,7
+BHF,bone marrow,2015,12
+BHF,bone marrow,2016,9
+BHF,bone marrow,2017,9
+BHF,bone marrow,2018,10
+BHF,bone marrow,2019,11
+BHF,bone marrow,2020,8
+BHF,bone marrow,2021,8
+BHF,bone marrow,2022,2
+BHF,brain,2003,1
+BHF,brain,2007,1
+BHF,brain,2008,9
+BHF,brain,2009,14
+BHF,brain,2010,13
+BHF,brain,2011,24
+BHF,brain,2012,29
+BHF,brain,2013,33
+BHF,brain,2014,35
+BHF,brain,2015,45
+BHF,brain,2016,48
+BHF,brain,2017,38
+BHF,brain,2018,49
+BHF,brain,2019,63
+BHF,brain,2020,47
+BHF,brain,2021,67
+BHF,brain,2022,65
+BHF,brain,2023,4
+BHF,eye,2009,1
+BHF,eye,2010,2
+BHF,eye,2011,2
+BHF,eye,2013,5
+BHF,eye,2014,1
+BHF,eye,2015,4
+BHF,eye,2016,4
+BHF,eye,2017,2
+BHF,eye,2018,4
+BHF,eye,2019,4
+BHF,eye,2020,6
+BHF,eye,2021,3
+BHF,eye,2022,4
+BHF,heart,1982,1
+BHF,heart,1985,1
+BHF,heart,1999,1
+BHF,heart,2000,1
+BHF,heart,2001,1
+BHF,heart,2002,2
+BHF,heart,2003,10
+BHF,heart,2004,11
+BHF,heart,2005,11
+BHF,heart,2006,12
+BHF,heart,2007,22
+BHF,heart,2008,77
+BHF,heart,2009,117
+BHF,heart,2010,153
+BHF,heart,2011,197
+BHF,heart,2012,215
+BHF,heart,2013,296
+BHF,heart,2014,288
+BHF,heart,2015,316
+BHF,heart,2016,363
+BHF,heart,2017,333
+BHF,heart,2018,402
+BHF,heart,2019,366
+BHF,heart,2020,389
+BHF,heart,2021,457
+BHF,heart,2022,319
+BHF,heart,2023,44
+BHF,kidney,2004,1
+BHF,kidney,2005,2
+BHF,kidney,2007,2
+BHF,kidney,2008,10
+BHF,kidney,2009,16
+BHF,kidney,2010,27
+BHF,kidney,2011,21
+BHF,kidney,2012,24
+BHF,kidney,2013,36
+BHF,kidney,2014,41
+BHF,kidney,2015,37
+BHF,kidney,2016,45
+BHF,kidney,2017,44
+BHF,kidney,2018,48
+BHF,kidney,2019,52
+BHF,kidney,2020,37
+BHF,kidney,2021,55
+BHF,kidney,2022,31
+BHF,kidney,2023,3
+BHF,knee,2012,1
+BHF,knee,2014,1
+BHF,knee,2015,2
+BHF,knee,2016,1
+BHF,knee,2018,1
+BHF,knee,2019,1
+BHF,knee,2020,2
+BHF,knee,2021,2
+BHF,knee,2022,2
+BHF,liver,1999,1
+BHF,liver,2000,2
+BHF,liver,2002,1
+BHF,liver,2003,2
+BHF,liver,2004,2
+BHF,liver,2006,2
+BHF,liver,2007,5
+BHF,liver,2008,14
+BHF,liver,2009,21
+BHF,liver,2010,21
+BHF,liver,2011,21
+BHF,liver,2012,29
+BHF,liver,2013,40
+BHF,liver,2014,35
+BHF,liver,2015,49
+BHF,liver,2016,42
+BHF,liver,2017,43
+BHF,liver,2018,35
+BHF,liver,2019,48
+BHF,liver,2020,63
+BHF,liver,2021,54
+BHF,liver,2022,37
+BHF,liver,2023,7
+BHF,lung,2008,5
+BHF,lung,2009,8
+BHF,lung,2010,20
+BHF,lung,2011,12
+BHF,lung,2012,15
+BHF,lung,2013,22
+BHF,lung,2014,15
+BHF,lung,2015,21
+BHF,lung,2016,19
+BHF,lung,2017,28
+BHF,lung,2018,33
+BHF,lung,2019,36
+BHF,lung,2020,30
+BHF,lung,2021,37
+BHF,lung,2022,24
+BHF,lung,2023,2
+BHF,lymph node,2009,2
+BHF,lymph node,2011,2
+BHF,lymph node,2012,1
+BHF,lymph node,2014,1
+BHF,lymph node,2015,6
+BHF,lymph node,2016,1
+BHF,lymph node,2017,4
+BHF,lymph node,2019,3
+BHF,lymph node,2020,1
+BHF,lymph node,2021,1
+BHF,lymph node,2022,1
+BHF,lymph vasculature,2016,1
+BHF,lymph vasculature,2021,1
+BHF,lymph vasculature,2022,2
+BHF,main bronchus,2015,1
+BHF,muscular system,2011,1
+BHF,ovary,2011,1
+BHF,ovary,2012,2
+BHF,ovary,2013,2
+BHF,ovary,2014,2
+BHF,ovary,2015,2
+BHF,ovary,2016,2
+BHF,ovary,2019,4
+BHF,ovary,2020,4
+BHF,ovary,2021,3
+BHF,ovary,2022,2
+BHF,pancreas,2010,2
+BHF,pancreas,2012,1
+BHF,pancreas,2013,1
+BHF,pancreas,2014,2
+BHF,pancreas,2016,1
+BHF,pancreas,2018,1
+BHF,pancreas,2019,3
+BHF,pancreas,2020,2
+BHF,pancreas,2021,1
+BHF,pancreas,2022,1
+BHF,pelvis,2015,1
+BHF,peripheral nervous system,2007,1
+BHF,peripheral nervous system,2011,1
+BHF,peripheral nervous system,2012,2
+BHF,peripheral nervous system,2014,1
+BHF,peripheral nervous system,2015,1
+BHF,placenta,2006,1
+BHF,placenta,2007,1
+BHF,placenta,2008,1
+BHF,placenta,2010,3
+BHF,placenta,2011,7
+BHF,placenta,2012,8
+BHF,placenta,2013,9
+BHF,placenta,2014,8
+BHF,placenta,2015,14
+BHF,placenta,2016,11
+BHF,placenta,2017,12
+BHF,placenta,2018,13
+BHF,placenta,2019,7
+BHF,placenta,2020,11
+BHF,placenta,2021,21
+BHF,placenta,2022,15
+BHF,placenta,2023,3
+BHF,prostate,2008,1
+BHF,prostate,2010,2
+BHF,prostate,2011,1
+BHF,prostate,2012,1
+BHF,prostate,2013,1
+BHF,prostate,2014,1
+BHF,prostate,2016,2
+BHF,prostate,2017,1
+BHF,prostate,2018,2
+BHF,prostate,2019,3
+BHF,prostate,2020,1
+BHF,prostate,2021,4
+BHF,skeletal,2002,2
+BHF,skeletal,2003,1
+BHF,skeletal,2004,1
+BHF,skeletal,2005,2
+BHF,skeletal,2006,1
+BHF,skeletal,2007,9
+BHF,skeletal,2008,6
+BHF,skeletal,2009,12
+BHF,skeletal,2010,15
+BHF,skeletal,2011,12
+BHF,skeletal,2012,27
+BHF,skeletal,2013,23
+BHF,skeletal,2014,26
+BHF,skeletal,2015,24
+BHF,skeletal,2016,28
+BHF,skeletal,2017,30
+BHF,skeletal,2018,19
+BHF,skeletal,2019,24
+BHF,skeletal,2020,29
+BHF,skeletal,2021,24
+BHF,skeletal,2022,18
+BHF,skeletal,2023,2
+BHF,skin,2008,3
+BHF,skin,2009,1
+BHF,skin,2010,10
+BHF,skin,2011,8
+BHF,skin,2012,12
+BHF,skin,2013,11
+BHF,skin,2014,5
+BHF,skin,2015,8
+BHF,skin,2016,5
+BHF,skin,2017,8
+BHF,skin,2018,15
+BHF,skin,2019,16
+BHF,skin,2020,12
+BHF,skin,2021,5
+BHF,skin,2022,5
+BHF,skin,2023,1
+BHF,small intestine,2008,1
+BHF,small intestine,2010,1
+BHF,small intestine,2018,1
+BHF,spinal cord,2010,2
+BHF,spinal cord,2011,4
+BHF,spinal cord,2013,2
+BHF,spinal cord,2014,2
+BHF,spinal cord,2015,6
+BHF,spinal cord,2018,1
+BHF,spinal cord,2019,3
+BHF,spinal cord,2020,4
+BHF,spinal cord,2022,2
+BHF,spleen,1994,1
+BHF,spleen,1998,1
+BHF,spleen,2000,1
+BHF,spleen,2006,1
+BHF,spleen,2008,2
+BHF,spleen,2009,2
+BHF,spleen,2010,2
+BHF,spleen,2012,5
+BHF,spleen,2013,4
+BHF,spleen,2014,3
+BHF,spleen,2015,7
+BHF,spleen,2016,3
+BHF,spleen,2017,7
+BHF,spleen,2018,4
+BHF,spleen,2019,2
+BHF,spleen,2020,3
+BHF,spleen,2021,3
+BHF,spleen,2022,1
+BHF,thymus,1998,1
+BHF,thymus,2001,1
+BHF,thymus,2009,1
+BHF,thymus,2010,2
+BHF,thymus,2014,1
+BHF,thymus,2016,1
+BHF,thymus,2018,1
+BHF,thymus,2019,2
+BHF,thymus,2021,2
+BHF,trachea,2012,1
+BHF,trachea,2013,2
+BHF,trachea,2015,1
+BHF,trachea,2016,1
+BHF,trachea,2018,2
+BHF,ureter,2011,3
+BHF,ureter,2012,1
+BHF,ureter,2013,2
+BHF,ureter,2014,2
+BHF,ureter,2015,2
+BHF,ureter,2017,2
+BHF,urinary bladder,2008,1
+BHF,urinary bladder,2010,2
+BHF,urinary bladder,2011,1
+BHF,urinary bladder,2013,2
+BHF,urinary bladder,2017,1
+BHF,urinary bladder,2018,1
+BHF,urinary bladder,2022,1
+BHF,uterus,2005,1
+BHF,uterus,2007,1
+BHF,uterus,2008,1
+BHF,uterus,2009,1
+BHF,uterus,2010,2
+BHF,uterus,2011,1
+BHF,uterus,2012,2
+BHF,uterus,2013,1
+BHF,uterus,2014,3
+BHF,uterus,2015,3
+BHF,uterus,2016,2
+BHF,uterus,2017,3
+BHF,uterus,2018,1
+BHF,uterus,2019,1
+BHF,uterus,2020,1
+BHF,uterus,2021,1
+BHF,uterus,2022,1
+CIHR,blood vasculature,2018,1
+CIHR,bone marrow,2002,1
+CIHR,bone marrow,2005,1
+CIHR,bone marrow,2006,2
+CIHR,bone marrow,2009,3
+CIHR,bone marrow,2010,12
+CIHR,bone marrow,2011,21
+CIHR,bone marrow,2012,20
+CIHR,bone marrow,2013,19
+CIHR,bone marrow,2014,13
+CIHR,bone marrow,2015,23
+CIHR,bone marrow,2016,2
+CIHR,bone marrow,2017,1
+CIHR,bone marrow,2018,2
+CIHR,brain,1980,1
+CIHR,brain,1982,1
+CIHR,brain,1984,1
+CIHR,brain,1985,1
+CIHR,brain,1986,1
+CIHR,brain,1989,1
+CIHR,brain,1992,1
+CIHR,brain,1996,2
+CIHR,brain,1997,2
+CIHR,brain,1999,2
+CIHR,brain,2000,5
+CIHR,brain,2001,1
+CIHR,brain,2002,6
+CIHR,brain,2003,5
+CIHR,brain,2004,7
+CIHR,brain,2005,6
+CIHR,brain,2006,12
+CIHR,brain,2007,8
+CIHR,brain,2008,7
+CIHR,brain,2009,27
+CIHR,brain,2010,143
+CIHR,brain,2011,150
+CIHR,brain,2012,176
+CIHR,brain,2013,197
+CIHR,brain,2014,233
+CIHR,brain,2015,272
+CIHR,brain,2016,129
+CIHR,brain,2017,15
+CIHR,brain,2018,26
+CIHR,brain,2019,18
+CIHR,brain,2020,1
+CIHR,brain,2023,3
+CIHR,eye,2004,1
+CIHR,eye,2007,2
+CIHR,eye,2009,2
+CIHR,eye,2010,10
+CIHR,eye,2011,20
+CIHR,eye,2012,28
+CIHR,eye,2013,18
+CIHR,eye,2014,23
+CIHR,eye,2015,24
+CIHR,eye,2016,8
+CIHR,eye,2017,1
+CIHR,eye,2018,2
+CIHR,eye,2019,1
+CIHR,fallopian tube,2011,1
+CIHR,fallopian tube,2012,1
+CIHR,fallopian tube,2014,1
+CIHR,fallopian tube,2015,1
+CIHR,heart,1987,2
+CIHR,heart,1989,3
+CIHR,heart,1990,3
+CIHR,heart,1991,4
+CIHR,heart,1992,2
+CIHR,heart,1993,2
+CIHR,heart,1994,1
+CIHR,heart,1997,2
+CIHR,heart,1999,1
+CIHR,heart,2000,3
+CIHR,heart,2001,2
+CIHR,heart,2002,1
+CIHR,heart,2003,4
+CIHR,heart,2004,6
+CIHR,heart,2005,5
+CIHR,heart,2006,1
+CIHR,heart,2007,4
+CIHR,heart,2008,1
+CIHR,heart,2009,20
+CIHR,heart,2010,78
+CIHR,heart,2011,91
+CIHR,heart,2012,101
+CIHR,heart,2013,105
+CIHR,heart,2014,103
+CIHR,heart,2015,116
+CIHR,heart,2016,42
+CIHR,heart,2017,3
+CIHR,heart,2018,4
+CIHR,heart,2019,3
+CIHR,heart,2023,1
+CIHR,kidney,1999,4
+CIHR,kidney,2000,1
+CIHR,kidney,2001,2
+CIHR,kidney,2002,1
+CIHR,kidney,2003,1
+CIHR,kidney,2004,2
+CIHR,kidney,2005,6
+CIHR,kidney,2006,2
+CIHR,kidney,2007,3
+CIHR,kidney,2008,1
+CIHR,kidney,2009,4
+CIHR,kidney,2010,42
+CIHR,kidney,2011,38
+CIHR,kidney,2012,37
+CIHR,kidney,2013,49
+CIHR,kidney,2014,45
+CIHR,kidney,2015,66
+CIHR,kidney,2016,24
+CIHR,kidney,2017,3
+CIHR,kidney,2018,7
+CIHR,kidney,2019,4
+CIHR,knee,2002,1
+CIHR,knee,2003,2
+CIHR,knee,2004,2
+CIHR,knee,2005,2
+CIHR,knee,2007,3
+CIHR,knee,2008,2
+CIHR,knee,2009,1
+CIHR,knee,2010,5
+CIHR,knee,2011,10
+CIHR,knee,2012,18
+CIHR,knee,2013,15
+CIHR,knee,2014,14
+CIHR,knee,2015,25
+CIHR,knee,2016,11
+CIHR,knee,2018,4
+CIHR,knee,2019,2
+CIHR,knee,2020,1
+CIHR,knee,2023,1
+CIHR,large intestine,2013,1
+CIHR,large intestine,2016,2
+CIHR,liver,1983,1
+CIHR,liver,1999,1
+CIHR,liver,2000,1
+CIHR,liver,2001,3
+CIHR,liver,2003,4
+CIHR,liver,2004,4
+CIHR,liver,2005,8
+CIHR,liver,2006,10
+CIHR,liver,2007,5
+CIHR,liver,2008,1
+CIHR,liver,2009,11
+CIHR,liver,2010,77
+CIHR,liver,2011,73
+CIHR,liver,2012,84
+CIHR,liver,2013,104
+CIHR,liver,2014,108
+CIHR,liver,2015,139
+CIHR,liver,2016,64
+CIHR,liver,2018,19
+CIHR,liver,2019,11
+CIHR,liver,2020,2
+CIHR,liver,2023,2
+CIHR,lung,1990,1
+CIHR,lung,1998,1
+CIHR,lung,1999,5
+CIHR,lung,2000,4
+CIHR,lung,2002,2
+CIHR,lung,2003,7
+CIHR,lung,2004,4
+CIHR,lung,2005,3
+CIHR,lung,2006,5
+CIHR,lung,2007,4
+CIHR,lung,2008,1
+CIHR,lung,2009,5
+CIHR,lung,2010,55
+CIHR,lung,2011,42
+CIHR,lung,2012,49
+CIHR,lung,2013,59
+CIHR,lung,2014,61
+CIHR,lung,2015,101
+CIHR,lung,2016,26
+CIHR,lung,2017,1
+CIHR,lung,2018,5
+CIHR,lung,2019,5
+CIHR,lung,2023,1
+CIHR,lymph node,2005,1
+CIHR,lymph node,2006,1
+CIHR,lymph node,2009,2
+CIHR,lymph node,2010,8
+CIHR,lymph node,2011,6
+CIHR,lymph node,2012,7
+CIHR,lymph node,2013,7
+CIHR,lymph node,2014,3
+CIHR,lymph node,2015,4
+CIHR,lymph node,2016,2
+CIHR,lymph node,2018,1
+CIHR,ovary,1984,1
+CIHR,ovary,2003,2
+CIHR,ovary,2004,1
+CIHR,ovary,2005,1
+CIHR,ovary,2006,1
+CIHR,ovary,2007,2
+CIHR,ovary,2010,2
+CIHR,ovary,2011,4
+CIHR,ovary,2012,8
+CIHR,ovary,2013,2
+CIHR,ovary,2014,5
+CIHR,ovary,2015,6
+CIHR,ovary,2016,3
+CIHR,ovary,2018,1
+CIHR,ovary,2019,1
+CIHR,pancreas,2004,2
+CIHR,pancreas,2006,1
+CIHR,pancreas,2009,2
+CIHR,pancreas,2010,6
+CIHR,pancreas,2011,8
+CIHR,pancreas,2012,7
+CIHR,pancreas,2013,4
+CIHR,pancreas,2014,6
+CIHR,pancreas,2015,12
+CIHR,pancreas,2016,2
+CIHR,pancreas,2023,1
+CIHR,pelvis,2011,2
+CIHR,pelvis,2015,1
+CIHR,pelvis,2018,1
+CIHR,peripheral nervous system,1999,1
+CIHR,peripheral nervous system,2000,1
+CIHR,peripheral nervous system,2004,1
+CIHR,peripheral nervous system,2009,3
+CIHR,peripheral nervous system,2010,2
+CIHR,peripheral nervous system,2011,1
+CIHR,peripheral nervous system,2012,2
+CIHR,peripheral nervous system,2014,4
+CIHR,peripheral nervous system,2015,1
+CIHR,peripheral nervous system,2018,1
+CIHR,placenta,1999,1
+CIHR,placenta,2001,1
+CIHR,placenta,2003,1
+CIHR,placenta,2004,1
+CIHR,placenta,2006,2
+CIHR,placenta,2009,4
+CIHR,placenta,2010,13
+CIHR,placenta,2011,26
+CIHR,placenta,2012,25
+CIHR,placenta,2013,30
+CIHR,placenta,2014,21
+CIHR,placenta,2015,27
+CIHR,placenta,2016,12
+CIHR,placenta,2018,3
+CIHR,placenta,2019,1
+CIHR,prostate,2000,1
+CIHR,prostate,2009,3
+CIHR,prostate,2010,10
+CIHR,prostate,2011,9
+CIHR,prostate,2012,18
+CIHR,prostate,2013,17
+CIHR,prostate,2014,12
+CIHR,prostate,2015,18
+CIHR,prostate,2016,6
+CIHR,prostate,2017,2
+CIHR,prostate,2018,3
+CIHR,prostate,2019,5
+CIHR,skeletal,1999,2
+CIHR,skeletal,2001,2
+CIHR,skeletal,2002,2
+CIHR,skeletal,2003,3
+CIHR,skeletal,2004,10
+CIHR,skeletal,2005,7
+CIHR,skeletal,2006,1
+CIHR,skeletal,2007,6
+CIHR,skeletal,2008,3
+CIHR,skeletal,2009,7
+CIHR,skeletal,2010,44
+CIHR,skeletal,2011,47
+CIHR,skeletal,2012,43
+CIHR,skeletal,2013,41
+CIHR,skeletal,2014,57
+CIHR,skeletal,2015,74
+CIHR,skeletal,2016,32
+CIHR,skeletal,2017,3
+CIHR,skeletal,2018,6
+CIHR,skeletal,2019,3
+CIHR,skeletal,2022,1
+CIHR,skin,1985,1
+CIHR,skin,1991,2
+CIHR,skin,1993,1
+CIHR,skin,1994,1
+CIHR,skin,1999,3
+CIHR,skin,2003,1
+CIHR,skin,2007,1
+CIHR,skin,2009,6
+CIHR,skin,2010,33
+CIHR,skin,2011,25
+CIHR,skin,2012,20
+CIHR,skin,2013,31
+CIHR,skin,2014,36
+CIHR,skin,2015,46
+CIHR,skin,2016,15
+CIHR,skin,2017,1
+CIHR,skin,2018,3
+CIHR,skin,2019,1
+CIHR,skin,2023,1
+CIHR,small intestine,2009,1
+CIHR,small intestine,2010,5
+CIHR,small intestine,2011,4
+CIHR,small intestine,2012,3
+CIHR,small intestine,2013,4
+CIHR,small intestine,2014,7
+CIHR,small intestine,2015,3
+CIHR,small intestine,2016,2
+CIHR,spinal cord,1979,2
+CIHR,spinal cord,1981,1
+CIHR,spinal cord,1982,4
+CIHR,spinal cord,1983,5
+CIHR,spinal cord,1984,3
+CIHR,spinal cord,1985,3
+CIHR,spinal cord,1987,1
+CIHR,spinal cord,1988,3
+CIHR,spinal cord,1989,4
+CIHR,spinal cord,1990,6
+CIHR,spinal cord,1991,4
+CIHR,spinal cord,1992,4
+CIHR,spinal cord,1993,7
+CIHR,spinal cord,1994,4
+CIHR,spinal cord,1995,2
+CIHR,spinal cord,1996,2
+CIHR,spinal cord,1997,6
+CIHR,spinal cord,1998,4
+CIHR,spinal cord,1999,5
+CIHR,spinal cord,2000,2
+CIHR,spinal cord,2001,1
+CIHR,spinal cord,2002,2
+CIHR,spinal cord,2004,5
+CIHR,spinal cord,2005,3
+CIHR,spinal cord,2006,2
+CIHR,spinal cord,2007,8
+CIHR,spinal cord,2009,6
+CIHR,spinal cord,2010,22
+CIHR,spinal cord,2011,28
+CIHR,spinal cord,2012,15
+CIHR,spinal cord,2013,22
+CIHR,spinal cord,2014,34
+CIHR,spinal cord,2015,27
+CIHR,spinal cord,2016,11
+CIHR,spinal cord,2017,4
+CIHR,spleen,2002,1
+CIHR,spleen,2003,2
+CIHR,spleen,2004,2
+CIHR,spleen,2005,2
+CIHR,spleen,2006,2
+CIHR,spleen,2010,13
+CIHR,spleen,2011,11
+CIHR,spleen,2012,13
+CIHR,spleen,2013,7
+CIHR,spleen,2014,12
+CIHR,spleen,2015,10
+CIHR,spleen,2016,3
+CIHR,thymus,1999,1
+CIHR,thymus,2003,1
+CIHR,thymus,2009,3
+CIHR,thymus,2010,6
+CIHR,thymus,2011,7
+CIHR,thymus,2012,7
+CIHR,thymus,2013,7
+CIHR,thymus,2014,3
+CIHR,thymus,2015,3
+CIHR,thymus,2016,1
+CIHR,trachea,2002,1
+CIHR,trachea,2010,5
+CIHR,trachea,2011,5
+CIHR,trachea,2012,5
+CIHR,trachea,2013,5
+CIHR,trachea,2014,4
+CIHR,trachea,2015,6
+CIHR,ureter,2011,2
+CIHR,ureter,2015,1
+CIHR,urinary bladder,2009,1
+CIHR,urinary bladder,2010,1
+CIHR,urinary bladder,2011,4
+CIHR,urinary bladder,2012,1
+CIHR,urinary bladder,2013,9
+CIHR,urinary bladder,2014,1
+CIHR,urinary bladder,2015,4
+CIHR,urinary bladder,2016,4
+CIHR,urinary bladder,2018,2
+CIHR,urinary bladder,2019,1
+CIHR,uterus,1984,1
+CIHR,uterus,2002,1
+CIHR,uterus,2003,3
+CIHR,uterus,2004,2
+CIHR,uterus,2005,3
+CIHR,uterus,2007,1
+CIHR,uterus,2009,2
+CIHR,uterus,2010,8
+CIHR,uterus,2011,1
+CIHR,uterus,2012,5
+CIHR,uterus,2013,3
+CIHR,uterus,2014,2
+CIHR,uterus,2015,4
+CIHR,uterus,2016,1
+DFG,blood vasculature,2021,1
+DFG,bone marrow,2017,2
+DFG,bone marrow,2018,5
+DFG,bone marrow,2019,5
+DFG,bone marrow,2020,11
+DFG,bone marrow,2021,9
+DFG,bone marrow,2022,2
+DFG,bone marrow,2023,2
+DFG,brain,2017,14
+DFG,brain,2018,56
+DFG,brain,2019,108
+DFG,brain,2020,118
+DFG,brain,2021,94
+DFG,brain,2022,100
+DFG,brain,2023,37
+DFG,eye,2017,1
+DFG,eye,2018,4
+DFG,eye,2019,13
+DFG,eye,2020,14
+DFG,eye,2021,14
+DFG,eye,2022,10
+DFG,eye,2023,7
+DFG,fallopian tube,2020,1
+DFG,heart,2017,5
+DFG,heart,2018,13
+DFG,heart,2019,23
+DFG,heart,2020,26
+DFG,heart,2021,41
+DFG,heart,2022,29
+DFG,heart,2023,7
+DFG,kidney,2017,4
+DFG,kidney,2018,11
+DFG,kidney,2019,26
+DFG,kidney,2020,22
+DFG,kidney,2021,33
+DFG,kidney,2022,43
+DFG,kidney,2023,10
+DFG,knee,2017,1
+DFG,knee,2019,5
+DFG,knee,2020,3
+DFG,knee,2021,11
+DFG,knee,2022,3
+DFG,knee,2023,2
+DFG,large intestine,2019,1
+DFG,large intestine,2021,1
+DFG,large intestine,2022,1
+DFG,liver,2017,4
+DFG,liver,2018,27
+DFG,liver,2019,46
+DFG,liver,2020,73
+DFG,liver,2021,79
+DFG,liver,2022,66
+DFG,liver,2023,9
+DFG,lung,2017,3
+DFG,lung,2018,14
+DFG,lung,2019,17
+DFG,lung,2020,19
+DFG,lung,2021,43
+DFG,lung,2022,43
+DFG,lung,2023,5
+DFG,lymph node,2018,2
+DFG,lymph node,2019,4
+DFG,lymph node,2020,2
+DFG,lymph node,2021,3
+DFG,lymph node,2022,2
+DFG,lymph node,2023,1
+DFG,lymph vasculature,2019,1
+DFG,ovary,2017,1
+DFG,ovary,2021,2
+DFG,ovary,2022,2
+DFG,pancreas,2018,2
+DFG,pancreas,2020,2
+DFG,pancreas,2021,2
+DFG,pancreas,2022,4
+DFG,pelvis,2020,1
+DFG,pelvis,2022,1
+DFG,peripheral nervous system,2019,1
+DFG,peripheral nervous system,2020,1
+DFG,peripheral nervous system,2021,2
+DFG,peripheral nervous system,2022,1
+DFG,peripheral nervous system,2023,1
+DFG,placenta,2018,3
+DFG,placenta,2019,4
+DFG,placenta,2020,5
+DFG,placenta,2021,6
+DFG,placenta,2022,2
+DFG,placenta,2023,1
+DFG,prostate,2017,1
+DFG,prostate,2018,7
+DFG,prostate,2019,7
+DFG,prostate,2020,7
+DFG,prostate,2021,9
+DFG,prostate,2022,16
+DFG,prostate,2023,4
+DFG,skeletal,2017,2
+DFG,skeletal,2018,7
+DFG,skeletal,2019,13
+DFG,skeletal,2020,12
+DFG,skeletal,2021,13
+DFG,skeletal,2022,19
+DFG,skeletal,2023,6
+DFG,skin,2017,1
+DFG,skin,2018,17
+DFG,skin,2019,24
+DFG,skin,2020,30
+DFG,skin,2021,27
+DFG,skin,2022,22
+DFG,skin,2023,3
+DFG,small intestine,2019,1
+DFG,small intestine,2020,3
+DFG,small intestine,2021,1
+DFG,small intestine,2023,1
+DFG,spinal cord,2017,2
+DFG,spinal cord,2018,2
+DFG,spinal cord,2020,9
+DFG,spinal cord,2021,5
+DFG,spinal cord,2022,2
+DFG,spinal cord,2023,2
+DFG,spleen,2019,3
+DFG,spleen,2020,1
+DFG,spleen,2021,4
+DFG,spleen,2022,1
+DFG,thymus,2018,2
+DFG,thymus,2019,1
+DFG,thymus,2020,1
+DFG,thymus,2021,1
+DFG,thymus,2022,1
+DFG,thymus,2023,1
+DFG,trachea,2019,3
+DFG,trachea,2020,2
+DFG,trachea,2021,2
+DFG,trachea,2022,2
+DFG,ureter,2019,1
+DFG,ureter,2021,1
+DFG,ureter,2022,2
+DFG,urinary bladder,2017,1
+DFG,urinary bladder,2018,3
+DFG,urinary bladder,2020,3
+DFG,urinary bladder,2021,4
+DFG,urinary bladder,2022,5
+DFG,urinary bladder,2023,1
+HHMI,bone marrow,2011,1
+HHMI,bone marrow,2014,1
+HHMI,bone marrow,2018,1
+HHMI,brain,2008,3
+HHMI,brain,2009,4
+HHMI,brain,2010,3
+HHMI,brain,2011,3
+HHMI,brain,2012,4
+HHMI,brain,2013,6
+HHMI,brain,2014,6
+HHMI,brain,2015,5
+HHMI,brain,2016,4
+HHMI,brain,2017,3
+HHMI,brain,2018,7
+HHMI,brain,2019,4
+HHMI,brain,2020,3
+HHMI,brain,2021,5
+HHMI,brain,2023,1
+HHMI,eye,2008,3
+HHMI,eye,2009,1
+HHMI,eye,2011,1
+HHMI,eye,2013,2
+HHMI,eye,2015,2
+HHMI,eye,2021,1
+HHMI,heart,2008,1
+HHMI,heart,2009,1
+HHMI,heart,2011,1
+HHMI,heart,2012,1
+HHMI,heart,2013,2
+HHMI,heart,2014,1
+HHMI,heart,2015,2
+HHMI,heart,2016,3
+HHMI,heart,2017,1
+HHMI,heart,2018,1
+HHMI,heart,2019,1
+HHMI,heart,2022,2
+HHMI,kidney,2011,1
+HHMI,kidney,2012,2
+HHMI,kidney,2018,2
+HHMI,knee,2015,1
+HHMI,large intestine,2016,1
+HHMI,liver,2008,3
+HHMI,liver,2009,2
+HHMI,liver,2012,1
+HHMI,liver,2014,1
+HHMI,liver,2015,1
+HHMI,liver,2016,1
+HHMI,liver,2018,3
+HHMI,liver,2019,6
+HHMI,liver,2021,2
+HHMI,liver,2022,1
+HHMI,liver,2023,1
+HHMI,lung,2009,1
+HHMI,lung,2012,1
+HHMI,lung,2013,1
+HHMI,lung,2014,1
+HHMI,lung,2015,1
+HHMI,lung,2019,3
+HHMI,lung,2020,1
+HHMI,lung,2021,1
+HHMI,lung,2022,2
+HHMI,lymph node,2021,1
+HHMI,lymph node,2022,1
+HHMI,ovary,2008,1
+HHMI,ovary,2009,1
+HHMI,ovary,2016,1
+HHMI,ovary,2018,1
+HHMI,ovary,2021,1
+HHMI,pancreas,2014,1
+HHMI,placenta,2010,2
+HHMI,placenta,2011,1
+HHMI,placenta,2012,3
+HHMI,placenta,2015,1
+HHMI,prostate,2008,1
+HHMI,prostate,2009,1
+HHMI,prostate,2011,1
+HHMI,prostate,2013,1
+HHMI,prostate,2015,1
+HHMI,skeletal,2008,1
+HHMI,skeletal,2009,1
+HHMI,skeletal,2010,2
+HHMI,skeletal,2011,3
+HHMI,skeletal,2013,1
+HHMI,skeletal,2015,1
+HHMI,skeletal,2016,1
+HHMI,skeletal,2019,1
+HHMI,skeletal,2021,2
+HHMI,skin,2008,1
+HHMI,skin,2015,1
+HHMI,skin,2018,2
+HHMI,skin,2019,1
+HHMI,skin,2021,1
+HHMI,skin,2022,1
+HHMI,small intestine,2016,1
+HHMI,spinal cord,2009,1
+HHMI,spinal cord,2013,2
+HHMI,spinal cord,2014,1
+HHMI,spinal cord,2018,1
+HHMI,urinary bladder,2014,1
+HHMI,uterus,2010,1
+JSPS,bone marrow,2017,3
+JSPS,bone marrow,2018,10
+JSPS,bone marrow,2019,14
+JSPS,bone marrow,2020,13
+JSPS,bone marrow,2021,19
+JSPS,bone marrow,2022,8
+JSPS,bone marrow,2023,5
+JSPS,brain,2017,9
+JSPS,brain,2018,79
+JSPS,brain,2019,106
+JSPS,brain,2020,109
+JSPS,brain,2021,152
+JSPS,brain,2022,152
+JSPS,brain,2023,41
+JSPS,eye,2017,1
+JSPS,eye,2018,15
+JSPS,eye,2019,10
+JSPS,eye,2020,26
+JSPS,eye,2021,31
+JSPS,eye,2022,34
+JSPS,eye,2023,4
+JSPS,fallopian tube,2019,1
+JSPS,fallopian tube,2020,3
+JSPS,fallopian tube,2022,3
+JSPS,fallopian tube,2023,2
+JSPS,heart,2017,5
+JSPS,heart,2018,37
+JSPS,heart,2019,41
+JSPS,heart,2020,66
+JSPS,heart,2021,65
+JSPS,heart,2022,64
+JSPS,heart,2023,22
+JSPS,kidney,2017,3
+JSPS,kidney,2018,33
+JSPS,kidney,2019,53
+JSPS,kidney,2020,63
+JSPS,kidney,2021,76
+JSPS,kidney,2022,76
+JSPS,kidney,2023,17
+JSPS,knee,2018,5
+JSPS,knee,2019,16
+JSPS,knee,2020,12
+JSPS,knee,2021,15
+JSPS,knee,2022,24
+JSPS,knee,2023,8
+JSPS,large intestine,2018,1
+JSPS,large intestine,2020,1
+JSPS,large intestine,2021,2
+JSPS,large intestine,2022,1
+JSPS,liver,2017,1
+JSPS,liver,2018,49
+JSPS,liver,2019,81
+JSPS,liver,2020,122
+JSPS,liver,2021,160
+JSPS,liver,2022,155
+JSPS,liver,2023,43
+JSPS,lung,2017,3
+JSPS,lung,2018,44
+JSPS,lung,2019,66
+JSPS,lung,2020,94
+JSPS,lung,2021,97
+JSPS,lung,2022,105
+JSPS,lung,2023,45
+JSPS,lymph node,2018,15
+JSPS,lymph node,2019,13
+JSPS,lymph node,2020,21
+JSPS,lymph node,2021,19
+JSPS,lymph node,2022,22
+JSPS,lymph node,2023,9
+JSPS,muscular system,2022,2
+JSPS,ovary,2018,7
+JSPS,ovary,2019,7
+JSPS,ovary,2020,11
+JSPS,ovary,2021,8
+JSPS,ovary,2022,7
+JSPS,ovary,2023,1
+JSPS,pancreas,2018,6
+JSPS,pancreas,2019,9
+JSPS,pancreas,2020,5
+JSPS,pancreas,2021,7
+JSPS,pancreas,2022,6
+JSPS,pancreas,2023,1
+JSPS,pelvis,2018,4
+JSPS,pelvis,2019,2
+JSPS,pelvis,2020,5
+JSPS,pelvis,2021,2
+JSPS,pelvis,2022,1
+JSPS,peripheral nervous system,2018,1
+JSPS,peripheral nervous system,2019,5
+JSPS,peripheral nervous system,2020,2
+JSPS,peripheral nervous system,2021,4
+JSPS,peripheral nervous system,2022,2
+JSPS,peripheral nervous system,2023,1
+JSPS,placenta,2018,1
+JSPS,placenta,2019,9
+JSPS,placenta,2020,6
+JSPS,placenta,2021,6
+JSPS,placenta,2022,17
+JSPS,placenta,2023,7
+JSPS,prostate,2018,7
+JSPS,prostate,2019,19
+JSPS,prostate,2020,15
+JSPS,prostate,2021,29
+JSPS,prostate,2022,28
+JSPS,prostate,2023,12
+JSPS,skeletal,2017,7
+JSPS,skeletal,2018,35
+JSPS,skeletal,2019,56
+JSPS,skeletal,2020,60
+JSPS,skeletal,2021,79
+JSPS,skeletal,2022,87
+JSPS,skeletal,2023,26
+JSPS,skin,2017,2
+JSPS,skin,2018,19
+JSPS,skin,2019,35
+JSPS,skin,2020,44
+JSPS,skin,2021,48
+JSPS,skin,2022,39
+JSPS,skin,2023,15
+JSPS,small intestine,2018,2
+JSPS,small intestine,2019,4
+JSPS,small intestine,2020,9
+JSPS,small intestine,2021,6
+JSPS,small intestine,2022,4
+JSPS,spinal cord,2017,2
+JSPS,spinal cord,2018,8
+JSPS,spinal cord,2019,18
+JSPS,spinal cord,2020,8
+JSPS,spinal cord,2021,20
+JSPS,spinal cord,2022,10
+JSPS,spinal cord,2023,7
+JSPS,spleen,2018,5
+JSPS,spleen,2019,3
+JSPS,spleen,2020,4
+JSPS,spleen,2021,5
+JSPS,spleen,2022,4
+JSPS,spleen,2023,2
+JSPS,thymus,2018,4
+JSPS,thymus,2019,2
+JSPS,thymus,2020,1
+JSPS,thymus,2021,4
+JSPS,thymus,2022,5
+JSPS,thymus,2023,1
+JSPS,trachea,2017,1
+JSPS,trachea,2018,5
+JSPS,trachea,2019,5
+JSPS,trachea,2020,8
+JSPS,trachea,2021,6
+JSPS,trachea,2022,7
+JSPS,trachea,2023,1
+JSPS,ureter,2018,4
+JSPS,ureter,2019,4
+JSPS,ureter,2020,3
+JSPS,ureter,2023,3
+JSPS,urinary bladder,2018,9
+JSPS,urinary bladder,2019,11
+JSPS,urinary bladder,2020,11
+JSPS,urinary bladder,2021,17
+JSPS,urinary bladder,2022,24
+JSPS,urinary bladder,2023,3
+JSPS,uterus,2018,4
+JSPS,uterus,2019,3
+JSPS,uterus,2020,6
+JSPS,uterus,2021,3
+JSPS,uterus,2022,1
+JSPS,uterus,2023,2
+MRC,blood vasculature,2007,1
+MRC,blood vasculature,2017,1
+MRC,bone marrow,1994,1
+MRC,bone marrow,1996,1
+MRC,bone marrow,2004,2
+MRC,bone marrow,2005,5
+MRC,bone marrow,2006,23
+MRC,bone marrow,2007,39
+MRC,bone marrow,2008,29
+MRC,bone marrow,2009,25
+MRC,bone marrow,2010,34
+MRC,bone marrow,2011,39
+MRC,bone marrow,2012,35
+MRC,bone marrow,2013,43
+MRC,bone marrow,2014,22
+MRC,bone marrow,2015,37
+MRC,bone marrow,2016,41
+MRC,bone marrow,2017,43
+MRC,bone marrow,2018,37
+MRC,bone marrow,2019,38
+MRC,bone marrow,2020,34
+MRC,bone marrow,2021,38
+MRC,bone marrow,2022,16
+MRC,bone marrow,2023,4
+MRC,brain,1978,1
+MRC,brain,1989,1
+MRC,brain,1992,1
+MRC,brain,1993,1
+MRC,brain,1994,4
+MRC,brain,1995,2
+MRC,brain,1996,6
+MRC,brain,1997,5
+MRC,brain,1998,8
+MRC,brain,1999,22
+MRC,brain,2000,26
+MRC,brain,2001,16
+MRC,brain,2002,38
+MRC,brain,2003,52
+MRC,brain,2004,78
+MRC,brain,2005,120
+MRC,brain,2006,411
+MRC,brain,2007,444
+MRC,brain,2008,492
+MRC,brain,2009,558
+MRC,brain,2010,576
+MRC,brain,2011,615
+MRC,brain,2012,703
+MRC,brain,2013,733
+MRC,brain,2014,731
+MRC,brain,2015,704
+MRC,brain,2016,724
+MRC,brain,2017,744
+MRC,brain,2018,731
+MRC,brain,2019,727
+MRC,brain,2020,691
+MRC,brain,2021,751
+MRC,brain,2022,536
+MRC,brain,2023,95
+MRC,eye,1989,1
+MRC,eye,1991,1
+MRC,eye,1992,1
+MRC,eye,1994,1
+MRC,eye,1995,3
+MRC,eye,1996,2
+MRC,eye,1997,5
+MRC,eye,1998,6
+MRC,eye,1999,5
+MRC,eye,2000,1
+MRC,eye,2001,8
+MRC,eye,2002,8
+MRC,eye,2003,5
+MRC,eye,2004,11
+MRC,eye,2005,7
+MRC,eye,2006,53
+MRC,eye,2007,61
+MRC,eye,2008,63
+MRC,eye,2009,58
+MRC,eye,2010,47
+MRC,eye,2011,82
+MRC,eye,2012,64
+MRC,eye,2013,93
+MRC,eye,2014,72
+MRC,eye,2015,83
+MRC,eye,2016,52
+MRC,eye,2017,79
+MRC,eye,2018,68
+MRC,eye,2019,63
+MRC,eye,2020,62
+MRC,eye,2021,73
+MRC,eye,2022,45
+MRC,eye,2023,5
+MRC,fallopian tube,2006,2
+MRC,fallopian tube,2009,1
+MRC,fallopian tube,2010,3
+MRC,fallopian tube,2011,5
+MRC,fallopian tube,2012,6
+MRC,fallopian tube,2013,4
+MRC,fallopian tube,2014,4
+MRC,fallopian tube,2015,1
+MRC,fallopian tube,2016,4
+MRC,fallopian tube,2017,2
+MRC,fallopian tube,2018,3
+MRC,fallopian tube,2019,2
+MRC,fallopian tube,2020,2
+MRC,fallopian tube,2021,2
+MRC,fallopian tube,2022,1
+MRC,heart,1975,4
+MRC,heart,1982,1
+MRC,heart,1985,1
+MRC,heart,1989,1
+MRC,heart,1991,2
+MRC,heart,1992,1
+MRC,heart,1993,1
+MRC,heart,1994,1
+MRC,heart,1995,1
+MRC,heart,1996,1
+MRC,heart,1997,4
+MRC,heart,1998,5
+MRC,heart,1999,5
+MRC,heart,2000,1
+MRC,heart,2001,12
+MRC,heart,2002,7
+MRC,heart,2003,8
+MRC,heart,2004,20
+MRC,heart,2005,26
+MRC,heart,2006,78
+MRC,heart,2007,111
+MRC,heart,2008,120
+MRC,heart,2009,119
+MRC,heart,2010,156
+MRC,heart,2011,149
+MRC,heart,2012,172
+MRC,heart,2013,183
+MRC,heart,2014,215
+MRC,heart,2015,213
+MRC,heart,2016,234
+MRC,heart,2017,218
+MRC,heart,2018,227
+MRC,heart,2019,235
+MRC,heart,2020,243
+MRC,heart,2021,297
+MRC,heart,2022,230
+MRC,heart,2023,36
+MRC,kidney,1990,1
+MRC,kidney,1992,1
+MRC,kidney,1993,2
+MRC,kidney,1994,2
+MRC,kidney,1995,5
+MRC,kidney,1997,1
+MRC,kidney,1998,2
+MRC,kidney,2000,4
+MRC,kidney,2001,1
+MRC,kidney,2002,1
+MRC,kidney,2003,2
+MRC,kidney,2004,12
+MRC,kidney,2005,10
+MRC,kidney,2006,49
+MRC,kidney,2007,61
+MRC,kidney,2008,65
+MRC,kidney,2009,73
+MRC,kidney,2010,106
+MRC,kidney,2011,93
+MRC,kidney,2012,116
+MRC,kidney,2013,123
+MRC,kidney,2014,120
+MRC,kidney,2015,125
+MRC,kidney,2016,137
+MRC,kidney,2017,147
+MRC,kidney,2018,154
+MRC,kidney,2019,141
+MRC,kidney,2020,145
+MRC,kidney,2021,153
+MRC,kidney,2022,129
+MRC,kidney,2023,17
+MRC,knee,2002,1
+MRC,knee,2003,1
+MRC,knee,2004,1
+MRC,knee,2005,2
+MRC,knee,2006,13
+MRC,knee,2007,16
+MRC,knee,2008,18
+MRC,knee,2009,18
+MRC,knee,2010,18
+MRC,knee,2011,22
+MRC,knee,2012,19
+MRC,knee,2013,21
+MRC,knee,2014,35
+MRC,knee,2015,42
+MRC,knee,2016,37
+MRC,knee,2017,38
+MRC,knee,2018,28
+MRC,knee,2019,43
+MRC,knee,2020,28
+MRC,knee,2021,29
+MRC,knee,2022,23
+MRC,knee,2023,6
+MRC,large intestine,2007,2
+MRC,large intestine,2010,1
+MRC,large intestine,2014,2
+MRC,large intestine,2016,1
+MRC,large intestine,2018,1
+MRC,large intestine,2019,1
+MRC,large intestine,2022,1
+MRC,liver,1975,3
+MRC,liver,1992,1
+MRC,liver,1994,3
+MRC,liver,1995,1
+MRC,liver,1996,2
+MRC,liver,1997,5
+MRC,liver,1998,5
+MRC,liver,1999,5
+MRC,liver,2000,5
+MRC,liver,2001,4
+MRC,liver,2002,3
+MRC,liver,2003,10
+MRC,liver,2004,13
+MRC,liver,2005,30
+MRC,liver,2006,86
+MRC,liver,2007,126
+MRC,liver,2008,158
+MRC,liver,2009,150
+MRC,liver,2010,190
+MRC,liver,2011,195
+MRC,liver,2012,247
+MRC,liver,2013,289
+MRC,liver,2014,321
+MRC,liver,2015,377
+MRC,liver,2016,380
+MRC,liver,2017,365
+MRC,liver,2018,340
+MRC,liver,2019,409
+MRC,liver,2020,371
+MRC,liver,2021,403
+MRC,liver,2022,287
+MRC,liver,2023,40
+MRC,lung,1978,1
+MRC,lung,1980,1
+MRC,lung,1982,3
+MRC,lung,1983,2
+MRC,lung,1984,1
+MRC,lung,1987,1
+MRC,lung,1989,1
+MRC,lung,1990,1
+MRC,lung,1992,1
+MRC,lung,1993,3
+MRC,lung,1994,2
+MRC,lung,1998,2
+MRC,lung,1999,1
+MRC,lung,2000,3
+MRC,lung,2001,3
+MRC,lung,2002,2
+MRC,lung,2003,3
+MRC,lung,2004,9
+MRC,lung,2005,17
+MRC,lung,2006,41
+MRC,lung,2007,56
+MRC,lung,2008,77
+MRC,lung,2009,103
+MRC,lung,2010,103
+MRC,lung,2011,140
+MRC,lung,2012,148
+MRC,lung,2013,153
+MRC,lung,2014,191
+MRC,lung,2015,194
+MRC,lung,2016,169
+MRC,lung,2017,203
+MRC,lung,2018,188
+MRC,lung,2019,210
+MRC,lung,2020,210
+MRC,lung,2021,239
+MRC,lung,2022,150
+MRC,lung,2023,33
+MRC,lymph node,2001,1
+MRC,lymph node,2003,1
+MRC,lymph node,2005,3
+MRC,lymph node,2006,14
+MRC,lymph node,2007,14
+MRC,lymph node,2008,20
+MRC,lymph node,2009,17
+MRC,lymph node,2010,16
+MRC,lymph node,2011,19
+MRC,lymph node,2012,18
+MRC,lymph node,2013,13
+MRC,lymph node,2014,22
+MRC,lymph node,2015,24
+MRC,lymph node,2016,27
+MRC,lymph node,2017,16
+MRC,lymph node,2018,18
+MRC,lymph node,2019,15
+MRC,lymph node,2020,15
+MRC,lymph node,2021,15
+MRC,lymph node,2022,15
+MRC,lymph node,2023,2
+MRC,lymph vasculature,2006,1
+MRC,lymph vasculature,2019,2
+MRC,lymph vasculature,2021,1
+MRC,lymph vasculature,2022,1
+MRC,muscular system,2008,1
+MRC,muscular system,2009,1
+MRC,muscular system,2011,1
+MRC,muscular system,2012,1
+MRC,muscular system,2013,1
+MRC,muscular system,2016,6
+MRC,muscular system,2017,4
+MRC,muscular system,2020,1
+MRC,muscular system,2021,2
+MRC,ovary,1982,1
+MRC,ovary,1984,1
+MRC,ovary,1990,2
+MRC,ovary,1991,1
+MRC,ovary,1993,1
+MRC,ovary,1998,1
+MRC,ovary,2000,1
+MRC,ovary,2001,1
+MRC,ovary,2002,2
+MRC,ovary,2003,1
+MRC,ovary,2005,1
+MRC,ovary,2006,7
+MRC,ovary,2007,12
+MRC,ovary,2008,20
+MRC,ovary,2009,20
+MRC,ovary,2010,14
+MRC,ovary,2011,30
+MRC,ovary,2012,36
+MRC,ovary,2013,35
+MRC,ovary,2014,34
+MRC,ovary,2015,19
+MRC,ovary,2016,27
+MRC,ovary,2017,18
+MRC,ovary,2018,19
+MRC,ovary,2019,30
+MRC,ovary,2020,27
+MRC,ovary,2021,18
+MRC,ovary,2022,19
+MRC,pancreas,2001,1
+MRC,pancreas,2002,1
+MRC,pancreas,2004,1
+MRC,pancreas,2005,4
+MRC,pancreas,2006,11
+MRC,pancreas,2007,20
+MRC,pancreas,2008,11
+MRC,pancreas,2009,12
+MRC,pancreas,2010,14
+MRC,pancreas,2011,14
+MRC,pancreas,2012,15
+MRC,pancreas,2013,14
+MRC,pancreas,2014,19
+MRC,pancreas,2015,23
+MRC,pancreas,2016,16
+MRC,pancreas,2017,12
+MRC,pancreas,2018,19
+MRC,pancreas,2019,22
+MRC,pancreas,2020,20
+MRC,pancreas,2021,26
+MRC,pancreas,2022,10
+MRC,pancreas,2023,2
+MRC,pelvis,2006,3
+MRC,pelvis,2007,1
+MRC,pelvis,2008,2
+MRC,pelvis,2009,2
+MRC,pelvis,2010,4
+MRC,pelvis,2011,3
+MRC,pelvis,2012,1
+MRC,pelvis,2013,2
+MRC,pelvis,2014,3
+MRC,pelvis,2015,2
+MRC,pelvis,2016,4
+MRC,pelvis,2018,1
+MRC,pelvis,2019,2
+MRC,pelvis,2020,3
+MRC,pelvis,2021,1
+MRC,pelvis,2022,1
+MRC,peripheral nervous system,1981,1
+MRC,peripheral nervous system,2001,2
+MRC,peripheral nervous system,2005,1
+MRC,peripheral nervous system,2006,4
+MRC,peripheral nervous system,2007,6
+MRC,peripheral nervous system,2008,8
+MRC,peripheral nervous system,2009,5
+MRC,peripheral nervous system,2010,6
+MRC,peripheral nervous system,2011,7
+MRC,peripheral nervous system,2012,5
+MRC,peripheral nervous system,2013,3
+MRC,peripheral nervous system,2014,9
+MRC,peripheral nervous system,2015,8
+MRC,peripheral nervous system,2016,5
+MRC,peripheral nervous system,2017,7
+MRC,peripheral nervous system,2018,6
+MRC,peripheral nervous system,2019,8
+MRC,peripheral nervous system,2020,8
+MRC,peripheral nervous system,2021,7
+MRC,peripheral nervous system,2022,6
+MRC,placenta,2000,1
+MRC,placenta,2001,1
+MRC,placenta,2002,3
+MRC,placenta,2004,1
+MRC,placenta,2006,12
+MRC,placenta,2007,14
+MRC,placenta,2008,11
+MRC,placenta,2009,15
+MRC,placenta,2010,27
+MRC,placenta,2011,26
+MRC,placenta,2012,29
+MRC,placenta,2013,34
+MRC,placenta,2014,26
+MRC,placenta,2015,26
+MRC,placenta,2016,28
+MRC,placenta,2017,36
+MRC,placenta,2018,38
+MRC,placenta,2019,51
+MRC,placenta,2020,43
+MRC,placenta,2021,57
+MRC,placenta,2022,37
+MRC,placenta,2023,9
+MRC,prostate,2001,1
+MRC,prostate,2002,1
+MRC,prostate,2003,2
+MRC,prostate,2004,2
+MRC,prostate,2005,3
+MRC,prostate,2006,39
+MRC,prostate,2007,62
+MRC,prostate,2008,100
+MRC,prostate,2009,94
+MRC,prostate,2010,99
+MRC,prostate,2011,78
+MRC,prostate,2012,75
+MRC,prostate,2013,82
+MRC,prostate,2014,68
+MRC,prostate,2015,87
+MRC,prostate,2016,73
+MRC,prostate,2017,79
+MRC,prostate,2018,76
+MRC,prostate,2019,49
+MRC,prostate,2020,75
+MRC,prostate,2021,67
+MRC,prostate,2022,56
+MRC,prostate,2023,11
+MRC,skeletal,1995,1
+MRC,skeletal,1998,2
+MRC,skeletal,1999,5
+MRC,skeletal,2000,5
+MRC,skeletal,2001,4
+MRC,skeletal,2002,4
+MRC,skeletal,2003,7
+MRC,skeletal,2004,19
+MRC,skeletal,2005,25
+MRC,skeletal,2006,81
+MRC,skeletal,2007,70
+MRC,skeletal,2008,108
+MRC,skeletal,2009,114
+MRC,skeletal,2010,110
+MRC,skeletal,2011,110
+MRC,skeletal,2012,128
+MRC,skeletal,2013,181
+MRC,skeletal,2014,183
+MRC,skeletal,2015,171
+MRC,skeletal,2016,149
+MRC,skeletal,2017,154
+MRC,skeletal,2018,159
+MRC,skeletal,2019,147
+MRC,skeletal,2020,136
+MRC,skeletal,2021,135
+MRC,skeletal,2022,99
+MRC,skeletal,2023,16
+MRC,skin,1975,2
+MRC,skin,1991,1
+MRC,skin,1994,1
+MRC,skin,1997,1
+MRC,skin,1999,1
+MRC,skin,2000,3
+MRC,skin,2001,1
+MRC,skin,2003,6
+MRC,skin,2004,4
+MRC,skin,2005,10
+MRC,skin,2006,58
+MRC,skin,2007,59
+MRC,skin,2008,73
+MRC,skin,2009,88
+MRC,skin,2010,95
+MRC,skin,2011,122
+MRC,skin,2012,126
+MRC,skin,2013,143
+MRC,skin,2014,133
+MRC,skin,2015,110
+MRC,skin,2016,105
+MRC,skin,2017,100
+MRC,skin,2018,101
+MRC,skin,2019,98
+MRC,skin,2020,90
+MRC,skin,2021,101
+MRC,skin,2022,52
+MRC,skin,2023,6
+MRC,small intestine,2000,1
+MRC,small intestine,2004,1
+MRC,small intestine,2006,4
+MRC,small intestine,2007,4
+MRC,small intestine,2008,5
+MRC,small intestine,2009,7
+MRC,small intestine,2010,5
+MRC,small intestine,2011,3
+MRC,small intestine,2012,6
+MRC,small intestine,2013,6
+MRC,small intestine,2014,3
+MRC,small intestine,2015,9
+MRC,small intestine,2016,10
+MRC,small intestine,2017,8
+MRC,small intestine,2018,6
+MRC,small intestine,2019,11
+MRC,small intestine,2020,6
+MRC,small intestine,2021,8
+MRC,small intestine,2022,4
+MRC,small intestine,2023,1
+MRC,spinal cord,1997,1
+MRC,spinal cord,2000,1
+MRC,spinal cord,2002,2
+MRC,spinal cord,2003,2
+MRC,spinal cord,2004,4
+MRC,spinal cord,2005,11
+MRC,spinal cord,2006,18
+MRC,spinal cord,2007,24
+MRC,spinal cord,2008,32
+MRC,spinal cord,2009,34
+MRC,spinal cord,2010,32
+MRC,spinal cord,2011,27
+MRC,spinal cord,2012,36
+MRC,spinal cord,2013,28
+MRC,spinal cord,2014,50
+MRC,spinal cord,2015,47
+MRC,spinal cord,2016,32
+MRC,spinal cord,2017,30
+MRC,spinal cord,2018,44
+MRC,spinal cord,2019,37
+MRC,spinal cord,2020,31
+MRC,spinal cord,2021,34
+MRC,spinal cord,2022,18
+MRC,spinal cord,2023,6
+MRC,spleen,1995,1
+MRC,spleen,1996,1
+MRC,spleen,2000,1
+MRC,spleen,2001,1
+MRC,spleen,2002,1
+MRC,spleen,2003,2
+MRC,spleen,2004,8
+MRC,spleen,2005,6
+MRC,spleen,2006,14
+MRC,spleen,2007,21
+MRC,spleen,2008,23
+MRC,spleen,2009,26
+MRC,spleen,2010,24
+MRC,spleen,2011,25
+MRC,spleen,2012,27
+MRC,spleen,2013,10
+MRC,spleen,2014,23
+MRC,spleen,2015,18
+MRC,spleen,2016,15
+MRC,spleen,2017,12
+MRC,spleen,2018,15
+MRC,spleen,2019,13
+MRC,spleen,2020,15
+MRC,spleen,2021,10
+MRC,spleen,2022,5
+MRC,thymus,2002,1
+MRC,thymus,2003,3
+MRC,thymus,2004,1
+MRC,thymus,2005,5
+MRC,thymus,2006,10
+MRC,thymus,2007,27
+MRC,thymus,2008,22
+MRC,thymus,2009,23
+MRC,thymus,2010,15
+MRC,thymus,2011,17
+MRC,thymus,2012,17
+MRC,thymus,2013,17
+MRC,thymus,2014,22
+MRC,thymus,2015,9
+MRC,thymus,2016,18
+MRC,thymus,2017,9
+MRC,thymus,2018,14
+MRC,thymus,2019,4
+MRC,thymus,2020,8
+MRC,thymus,2021,15
+MRC,thymus,2022,3
+MRC,trachea,2005,1
+MRC,trachea,2006,3
+MRC,trachea,2007,3
+MRC,trachea,2008,2
+MRC,trachea,2009,2
+MRC,trachea,2010,1
+MRC,trachea,2011,7
+MRC,trachea,2012,6
+MRC,trachea,2013,9
+MRC,trachea,2014,10
+MRC,trachea,2015,9
+MRC,trachea,2016,8
+MRC,trachea,2017,8
+MRC,trachea,2018,5
+MRC,trachea,2019,4
+MRC,trachea,2020,3
+MRC,trachea,2021,4
+MRC,trachea,2022,4
+MRC,ureter,2003,1
+MRC,ureter,2004,1
+MRC,ureter,2007,1
+MRC,ureter,2008,2
+MRC,ureter,2010,5
+MRC,ureter,2011,4
+MRC,ureter,2012,1
+MRC,ureter,2013,6
+MRC,ureter,2014,1
+MRC,ureter,2015,3
+MRC,ureter,2016,2
+MRC,ureter,2017,4
+MRC,ureter,2018,6
+MRC,ureter,2019,3
+MRC,ureter,2020,2
+MRC,ureter,2021,3
+MRC,ureter,2022,3
+MRC,urinary bladder,2006,9
+MRC,urinary bladder,2007,7
+MRC,urinary bladder,2008,4
+MRC,urinary bladder,2009,11
+MRC,urinary bladder,2010,7
+MRC,urinary bladder,2011,19
+MRC,urinary bladder,2012,20
+MRC,urinary bladder,2013,22
+MRC,urinary bladder,2014,18
+MRC,urinary bladder,2015,19
+MRC,urinary bladder,2016,16
+MRC,urinary bladder,2017,15
+MRC,urinary bladder,2018,11
+MRC,urinary bladder,2019,21
+MRC,urinary bladder,2020,17
+MRC,urinary bladder,2021,10
+MRC,urinary bladder,2022,10
+MRC,urinary bladder,2023,1
+MRC,uterus,2001,1
+MRC,uterus,2002,2
+MRC,uterus,2003,1
+MRC,uterus,2004,1
+MRC,uterus,2005,1
+MRC,uterus,2006,3
+MRC,uterus,2007,6
+MRC,uterus,2008,4
+MRC,uterus,2009,3
+MRC,uterus,2010,5
+MRC,uterus,2011,5
+MRC,uterus,2012,3
+MRC,uterus,2013,6
+MRC,uterus,2014,12
+MRC,uterus,2015,6
+MRC,uterus,2016,7
+MRC,uterus,2017,3
+MRC,uterus,2018,4
+MRC,uterus,2019,8
+MRC,uterus,2020,7
+MRC,uterus,2021,13
+MRC,uterus,2022,5
+NIH,blood vasculature,1983,1
+NIH,blood vasculature,1987,1
+NIH,blood vasculature,1988,1
+NIH,blood vasculature,1989,2
+NIH,blood vasculature,1991,1
+NIH,blood vasculature,1993,1
+NIH,blood vasculature,1995,1
+NIH,blood vasculature,1996,1
+NIH,blood vasculature,1999,3
+NIH,blood vasculature,2000,2
+NIH,blood vasculature,2001,1
+NIH,blood vasculature,2003,1
+NIH,blood vasculature,2006,2
+NIH,blood vasculature,2007,2
+NIH,blood vasculature,2008,1
+NIH,blood vasculature,2009,4
+NIH,blood vasculature,2010,2
+NIH,blood vasculature,2011,3
+NIH,blood vasculature,2012,5
+NIH,blood vasculature,2013,7
+NIH,blood vasculature,2014,4
+NIH,blood vasculature,2015,3
+NIH,blood vasculature,2016,3
+NIH,blood vasculature,2018,4
+NIH,blood vasculature,2019,3
+NIH,blood vasculature,2020,6
+NIH,blood vasculature,2021,5
+NIH,blood vasculature,2022,2
+NIH,blood vasculature,2023,1
+NIH,bone marrow,1966,1
+NIH,bone marrow,1967,1
+NIH,bone marrow,1968,2
+NIH,bone marrow,1970,1
+NIH,bone marrow,1971,2
+NIH,bone marrow,1972,1
+NIH,bone marrow,1975,5
+NIH,bone marrow,1977,3
+NIH,bone marrow,1978,4
+NIH,bone marrow,1979,21
+NIH,bone marrow,1980,168
+NIH,bone marrow,1981,433
+NIH,bone marrow,1982,464
+NIH,bone marrow,1983,439
+NIH,bone marrow,1984,477
+NIH,bone marrow,1985,538
+NIH,bone marrow,1986,495
+NIH,bone marrow,1987,527
+NIH,bone marrow,1988,507
+NIH,bone marrow,1989,556
+NIH,bone marrow,1990,558
+NIH,bone marrow,1991,585
+NIH,bone marrow,1992,602
+NIH,bone marrow,1993,563
+NIH,bone marrow,1994,591
+NIH,bone marrow,1995,583
+NIH,bone marrow,1996,553
+NIH,bone marrow,1997,510
+NIH,bone marrow,1998,473
+NIH,bone marrow,1999,452
+NIH,bone marrow,2000,501
+NIH,bone marrow,2001,557
+NIH,bone marrow,2002,512
+NIH,bone marrow,2003,535
+NIH,bone marrow,2004,533
+NIH,bone marrow,2005,526
+NIH,bone marrow,2006,555
+NIH,bone marrow,2007,596
+NIH,bone marrow,2008,584
+NIH,bone marrow,2009,649
+NIH,bone marrow,2010,672
+NIH,bone marrow,2011,760
+NIH,bone marrow,2012,694
+NIH,bone marrow,2013,780
+NIH,bone marrow,2014,679
+NIH,bone marrow,2015,676
+NIH,bone marrow,2016,560
+NIH,bone marrow,2017,516
+NIH,bone marrow,2018,504
+NIH,bone marrow,2019,442
+NIH,bone marrow,2020,437
+NIH,bone marrow,2021,349
+NIH,bone marrow,2022,228
+NIH,bone marrow,2023,38
+NIH,brain,1964,1
+NIH,brain,1966,1
+NIH,brain,1967,1
+NIH,brain,1968,2
+NIH,brain,1969,1
+NIH,brain,1970,3
+NIH,brain,1971,1
+NIH,brain,1972,2
+NIH,brain,1973,2
+NIH,brain,1974,5
+NIH,brain,1975,7
+NIH,brain,1976,14
+NIH,brain,1977,11
+NIH,brain,1978,16
+NIH,brain,1979,47
+NIH,brain,1980,688
+NIH,brain,1981,1622
+NIH,brain,1982,1595
+NIH,brain,1983,1726
+NIH,brain,1984,1850
+NIH,brain,1985,1886
+NIH,brain,1986,1923
+NIH,brain,1987,1853
+NIH,brain,1988,1995
+NIH,brain,1989,2024
+NIH,brain,1990,2325
+NIH,brain,1991,2226
+NIH,brain,1992,2432
+NIH,brain,1993,2422
+NIH,brain,1994,2581
+NIH,brain,1995,2513
+NIH,brain,1996,2416
+NIH,brain,1997,2467
+NIH,brain,1998,2598
+NIH,brain,1999,2749
+NIH,brain,2000,2680
+NIH,brain,2001,2814
+NIH,brain,2002,2716
+NIH,brain,2003,2974
+NIH,brain,2004,3375
+NIH,brain,2005,3754
+NIH,brain,2006,3949
+NIH,brain,2007,4297
+NIH,brain,2008,4928
+NIH,brain,2009,5458
+NIH,brain,2010,5426
+NIH,brain,2011,5729
+NIH,brain,2012,6193
+NIH,brain,2013,6476
+NIH,brain,2014,6344
+NIH,brain,2015,6364
+NIH,brain,2016,6049
+NIH,brain,2017,5738
+NIH,brain,2018,6151
+NIH,brain,2019,6126
+NIH,brain,2020,5958
+NIH,brain,2021,6200
+NIH,brain,2022,4771
+NIH,brain,2023,822
+NIH,eye,1966,1
+NIH,eye,1973,1
+NIH,eye,1974,1
+NIH,eye,1978,7
+NIH,eye,1979,17
+NIH,eye,1980,212
+NIH,eye,1981,390
+NIH,eye,1982,394
+NIH,eye,1983,451
+NIH,eye,1984,430
+NIH,eye,1985,485
+NIH,eye,1986,473
+NIH,eye,1987,523
+NIH,eye,1988,475
+NIH,eye,1989,488
+NIH,eye,1990,549
+NIH,eye,1991,552
+NIH,eye,1992,623
+NIH,eye,1993,549
+NIH,eye,1994,564
+NIH,eye,1995,584
+NIH,eye,1996,562
+NIH,eye,1997,607
+NIH,eye,1998,636
+NIH,eye,1999,653
+NIH,eye,2000,634
+NIH,eye,2001,645
+NIH,eye,2002,689
+NIH,eye,2003,711
+NIH,eye,2004,701
+NIH,eye,2005,722
+NIH,eye,2006,878
+NIH,eye,2007,789
+NIH,eye,2008,891
+NIH,eye,2009,852
+NIH,eye,2010,844
+NIH,eye,2011,921
+NIH,eye,2012,854
+NIH,eye,2013,897
+NIH,eye,2014,841
+NIH,eye,2015,835
+NIH,eye,2016,798
+NIH,eye,2017,707
+NIH,eye,2018,716
+NIH,eye,2019,694
+NIH,eye,2020,692
+NIH,eye,2021,727
+NIH,eye,2022,543
+NIH,eye,2023,72
+NIH,fallopian tube,1974,1
+NIH,fallopian tube,1980,17
+NIH,fallopian tube,1981,32
+NIH,fallopian tube,1982,15
+NIH,fallopian tube,1983,17
+NIH,fallopian tube,1984,21
+NIH,fallopian tube,1985,17
+NIH,fallopian tube,1986,12
+NIH,fallopian tube,1987,15
+NIH,fallopian tube,1988,7
+NIH,fallopian tube,1989,21
+NIH,fallopian tube,1990,18
+NIH,fallopian tube,1991,9
+NIH,fallopian tube,1992,9
+NIH,fallopian tube,1993,22
+NIH,fallopian tube,1994,12
+NIH,fallopian tube,1995,22
+NIH,fallopian tube,1996,12
+NIH,fallopian tube,1997,24
+NIH,fallopian tube,1998,17
+NIH,fallopian tube,1999,14
+NIH,fallopian tube,2000,12
+NIH,fallopian tube,2001,13
+NIH,fallopian tube,2002,12
+NIH,fallopian tube,2003,11
+NIH,fallopian tube,2004,10
+NIH,fallopian tube,2005,6
+NIH,fallopian tube,2006,10
+NIH,fallopian tube,2007,23
+NIH,fallopian tube,2008,19
+NIH,fallopian tube,2009,23
+NIH,fallopian tube,2010,28
+NIH,fallopian tube,2011,32
+NIH,fallopian tube,2012,28
+NIH,fallopian tube,2013,30
+NIH,fallopian tube,2014,34
+NIH,fallopian tube,2015,38
+NIH,fallopian tube,2016,39
+NIH,fallopian tube,2017,19
+NIH,fallopian tube,2018,32
+NIH,fallopian tube,2019,36
+NIH,fallopian tube,2020,35
+NIH,fallopian tube,2021,30
+NIH,fallopian tube,2022,24
+NIH,fallopian tube,2023,5
+NIH,heart,1963,1
+NIH,heart,1964,1
+NIH,heart,1966,1
+NIH,heart,1967,2
+NIH,heart,1968,2
+NIH,heart,1969,3
+NIH,heart,1970,2
+NIH,heart,1971,6
+NIH,heart,1972,3
+NIH,heart,1973,1
+NIH,heart,1974,7
+NIH,heart,1975,4
+NIH,heart,1976,3
+NIH,heart,1977,3
+NIH,heart,1978,28
+NIH,heart,1979,36
+NIH,heart,1980,531
+NIH,heart,1981,1288
+NIH,heart,1982,1428
+NIH,heart,1983,1426
+NIH,heart,1984,1460
+NIH,heart,1985,1464
+NIH,heart,1986,1395
+NIH,heart,1987,1463
+NIH,heart,1988,1477
+NIH,heart,1989,1590
+NIH,heart,1990,1549
+NIH,heart,1991,1494
+NIH,heart,1992,1383
+NIH,heart,1993,1490
+NIH,heart,1994,1419
+NIH,heart,1995,1435
+NIH,heart,1996,1289
+NIH,heart,1997,1405
+NIH,heart,1998,1349
+NIH,heart,1999,1311
+NIH,heart,2000,1448
+NIH,heart,2001,1444
+NIH,heart,2002,1497
+NIH,heart,2003,1615
+NIH,heart,2004,1628
+NIH,heart,2005,1826
+NIH,heart,2006,1808
+NIH,heart,2007,1983
+NIH,heart,2008,2192
+NIH,heart,2009,2270
+NIH,heart,2010,2419
+NIH,heart,2011,2526
+NIH,heart,2012,2661
+NIH,heart,2013,2710
+NIH,heart,2014,2772
+NIH,heart,2015,2672
+NIH,heart,2016,2641
+NIH,heart,2017,2512
+NIH,heart,2018,2419
+NIH,heart,2019,2554
+NIH,heart,2020,2750
+NIH,heart,2021,2626
+NIH,heart,2022,2183
+NIH,heart,2023,363
+NIH,kidney,1964,1
+NIH,kidney,1965,3
+NIH,kidney,1966,2
+NIH,kidney,1967,1
+NIH,kidney,1968,5
+NIH,kidney,1969,4
+NIH,kidney,1970,9
+NIH,kidney,1971,13
+NIH,kidney,1972,10
+NIH,kidney,1973,13
+NIH,kidney,1974,8
+NIH,kidney,1975,4
+NIH,kidney,1976,2
+NIH,kidney,1977,9
+NIH,kidney,1978,22
+NIH,kidney,1979,12
+NIH,kidney,1980,404
+NIH,kidney,1981,934
+NIH,kidney,1982,890
+NIH,kidney,1983,880
+NIH,kidney,1984,991
+NIH,kidney,1985,938
+NIH,kidney,1986,860
+NIH,kidney,1987,953
+NIH,kidney,1988,1127
+NIH,kidney,1989,1192
+NIH,kidney,1990,1330
+NIH,kidney,1991,1384
+NIH,kidney,1992,1285
+NIH,kidney,1993,1347
+NIH,kidney,1994,1326
+NIH,kidney,1995,1390
+NIH,kidney,1996,1236
+NIH,kidney,1997,1198
+NIH,kidney,1998,1202
+NIH,kidney,1999,1134
+NIH,kidney,2000,1124
+NIH,kidney,2001,1146
+NIH,kidney,2002,1287
+NIH,kidney,2003,1311
+NIH,kidney,2004,1340
+NIH,kidney,2005,1401
+NIH,kidney,2006,1378
+NIH,kidney,2007,1530
+NIH,kidney,2008,1708
+NIH,kidney,2009,1728
+NIH,kidney,2010,1859
+NIH,kidney,2011,1927
+NIH,kidney,2012,2061
+NIH,kidney,2013,2115
+NIH,kidney,2014,1991
+NIH,kidney,2015,2115
+NIH,kidney,2016,2049
+NIH,kidney,2017,2042
+NIH,kidney,2018,1928
+NIH,kidney,2019,2050
+NIH,kidney,2020,2055
+NIH,kidney,2021,1931
+NIH,kidney,2022,1519
+NIH,kidney,2023,246
+NIH,knee,1980,1
+NIH,knee,1981,7
+NIH,knee,1982,10
+NIH,knee,1983,9
+NIH,knee,1984,9
+NIH,knee,1985,9
+NIH,knee,1986,8
+NIH,knee,1987,6
+NIH,knee,1988,15
+NIH,knee,1989,17
+NIH,knee,1990,22
+NIH,knee,1991,19
+NIH,knee,1992,14
+NIH,knee,1993,12
+NIH,knee,1994,22
+NIH,knee,1995,21
+NIH,knee,1996,37
+NIH,knee,1997,34
+NIH,knee,1998,39
+NIH,knee,1999,41
+NIH,knee,2000,38
+NIH,knee,2001,58
+NIH,knee,2002,59
+NIH,knee,2003,62
+NIH,knee,2004,66
+NIH,knee,2005,78
+NIH,knee,2006,76
+NIH,knee,2007,104
+NIH,knee,2008,106
+NIH,knee,2009,143
+NIH,knee,2010,182
+NIH,knee,2011,166
+NIH,knee,2012,202
+NIH,knee,2013,205
+NIH,knee,2014,171
+NIH,knee,2015,184
+NIH,knee,2016,190
+NIH,knee,2017,187
+NIH,knee,2018,191
+NIH,knee,2019,193
+NIH,knee,2020,193
+NIH,knee,2021,207
+NIH,knee,2022,186
+NIH,knee,2023,30
+NIH,large intestine,1980,4
+NIH,large intestine,1981,6
+NIH,large intestine,1982,8
+NIH,large intestine,1983,8
+NIH,large intestine,1984,8
+NIH,large intestine,1985,4
+NIH,large intestine,1986,4
+NIH,large intestine,1987,5
+NIH,large intestine,1988,9
+NIH,large intestine,1989,9
+NIH,large intestine,1990,4
+NIH,large intestine,1991,6
+NIH,large intestine,1992,5
+NIH,large intestine,1993,12
+NIH,large intestine,1994,5
+NIH,large intestine,1995,9
+NIH,large intestine,1996,7
+NIH,large intestine,1997,10
+NIH,large intestine,1998,5
+NIH,large intestine,1999,3
+NIH,large intestine,2000,10
+NIH,large intestine,2001,8
+NIH,large intestine,2002,5
+NIH,large intestine,2003,4
+NIH,large intestine,2004,6
+NIH,large intestine,2005,8
+NIH,large intestine,2006,7
+NIH,large intestine,2007,5
+NIH,large intestine,2008,8
+NIH,large intestine,2009,11
+NIH,large intestine,2010,8
+NIH,large intestine,2011,9
+NIH,large intestine,2012,15
+NIH,large intestine,2013,12
+NIH,large intestine,2014,9
+NIH,large intestine,2015,8
+NIH,large intestine,2016,9
+NIH,large intestine,2017,3
+NIH,large intestine,2018,6
+NIH,large intestine,2019,8
+NIH,large intestine,2020,11
+NIH,large intestine,2021,8
+NIH,large intestine,2022,5
+NIH,liver,1960,1
+NIH,liver,1961,1
+NIH,liver,1964,4
+NIH,liver,1965,1
+NIH,liver,1967,4
+NIH,liver,1968,3
+NIH,liver,1969,4
+NIH,liver,1970,7
+NIH,liver,1971,12
+NIH,liver,1972,8
+NIH,liver,1973,7
+NIH,liver,1974,7
+NIH,liver,1975,7
+NIH,liver,1976,15
+NIH,liver,1977,17
+NIH,liver,1978,28
+NIH,liver,1979,43
+NIH,liver,1980,803
+NIH,liver,1981,1639
+NIH,liver,1982,1643
+NIH,liver,1983,1655
+NIH,liver,1984,1723
+NIH,liver,1985,1699
+NIH,liver,1986,1651
+NIH,liver,1987,1722
+NIH,liver,1988,1767
+NIH,liver,1989,2034
+NIH,liver,1990,2033
+NIH,liver,1991,2082
+NIH,liver,1992,1962
+NIH,liver,1993,1972
+NIH,liver,1994,1884
+NIH,liver,1995,1912
+NIH,liver,1996,1764
+NIH,liver,1997,1682
+NIH,liver,1998,1667
+NIH,liver,1999,1597
+NIH,liver,2000,1650
+NIH,liver,2001,1539
+NIH,liver,2002,1624
+NIH,liver,2003,1666
+NIH,liver,2004,1781
+NIH,liver,2005,1971
+NIH,liver,2006,2087
+NIH,liver,2007,2267
+NIH,liver,2008,2652
+NIH,liver,2009,2743
+NIH,liver,2010,3104
+NIH,liver,2011,3278
+NIH,liver,2012,3433
+NIH,liver,2013,3592
+NIH,liver,2014,3615
+NIH,liver,2015,3758
+NIH,liver,2016,3721
+NIH,liver,2017,3494
+NIH,liver,2018,3547
+NIH,liver,2019,3608
+NIH,liver,2020,3836
+NIH,liver,2021,3934
+NIH,liver,2022,3205
+NIH,liver,2023,569
+NIH,lung,1962,1
+NIH,lung,1965,1
+NIH,lung,1967,1
+NIH,lung,1968,1
+NIH,lung,1969,1
+NIH,lung,1970,1
+NIH,lung,1971,1
+NIH,lung,1972,4
+NIH,lung,1974,3
+NIH,lung,1975,1
+NIH,lung,1976,1
+NIH,lung,1977,10
+NIH,lung,1978,11
+NIH,lung,1979,5
+NIH,lung,1980,413
+NIH,lung,1981,977
+NIH,lung,1982,1012
+NIH,lung,1983,1078
+NIH,lung,1984,1075
+NIH,lung,1985,1048
+NIH,lung,1986,974
+NIH,lung,1987,1005
+NIH,lung,1988,978
+NIH,lung,1989,960
+NIH,lung,1990,945
+NIH,lung,1991,955
+NIH,lung,1992,969
+NIH,lung,1993,946
+NIH,lung,1994,1015
+NIH,lung,1995,1045
+NIH,lung,1996,1038
+NIH,lung,1997,1077
+NIH,lung,1998,1067
+NIH,lung,1999,1087
+NIH,lung,2000,1211
+NIH,lung,2001,1178
+NIH,lung,2002,1247
+NIH,lung,2003,1258
+NIH,lung,2004,1350
+NIH,lung,2005,1569
+NIH,lung,2006,1628
+NIH,lung,2007,1716
+NIH,lung,2008,1932
+NIH,lung,2009,1929
+NIH,lung,2010,2154
+NIH,lung,2011,2367
+NIH,lung,2012,2539
+NIH,lung,2013,2640
+NIH,lung,2014,2721
+NIH,lung,2015,2655
+NIH,lung,2016,2577
+NIH,lung,2017,2410
+NIH,lung,2018,2402
+NIH,lung,2019,2477
+NIH,lung,2020,2654
+NIH,lung,2021,2655
+NIH,lung,2022,2160
+NIH,lung,2023,360
+NIH,lymph node,1968,1
+NIH,lymph node,1969,1
+NIH,lymph node,1970,2
+NIH,lymph node,1974,1
+NIH,lymph node,1975,1
+NIH,lymph node,1976,3
+NIH,lymph node,1979,6
+NIH,lymph node,1980,70
+NIH,lymph node,1981,209
+NIH,lymph node,1982,188
+NIH,lymph node,1983,167
+NIH,lymph node,1984,164
+NIH,lymph node,1985,167
+NIH,lymph node,1986,187
+NIH,lymph node,1987,162
+NIH,lymph node,1988,143
+NIH,lymph node,1989,153
+NIH,lymph node,1990,190
+NIH,lymph node,1991,198
+NIH,lymph node,1992,178
+NIH,lymph node,1993,161
+NIH,lymph node,1994,187
+NIH,lymph node,1995,196
+NIH,lymph node,1996,188
+NIH,lymph node,1997,180
+NIH,lymph node,1998,200
+NIH,lymph node,1999,214
+NIH,lymph node,2000,230
+NIH,lymph node,2001,241
+NIH,lymph node,2002,213
+NIH,lymph node,2003,238
+NIH,lymph node,2004,205
+NIH,lymph node,2005,247
+NIH,lymph node,2006,267
+NIH,lymph node,2007,252
+NIH,lymph node,2008,277
+NIH,lymph node,2009,305
+NIH,lymph node,2010,316
+NIH,lymph node,2011,319
+NIH,lymph node,2012,369
+NIH,lymph node,2013,386
+NIH,lymph node,2014,346
+NIH,lymph node,2015,354
+NIH,lymph node,2016,359
+NIH,lymph node,2017,296
+NIH,lymph node,2018,286
+NIH,lymph node,2019,284
+NIH,lymph node,2020,313
+NIH,lymph node,2021,259
+NIH,lymph node,2022,199
+NIH,lymph node,2023,36
+NIH,lymph vasculature,1982,1
+NIH,lymph vasculature,1987,1
+NIH,lymph vasculature,1990,2
+NIH,lymph vasculature,2002,2
+NIH,lymph vasculature,2003,2
+NIH,lymph vasculature,2004,1
+NIH,lymph vasculature,2005,1
+NIH,lymph vasculature,2007,2
+NIH,lymph vasculature,2008,4
+NIH,lymph vasculature,2009,2
+NIH,lymph vasculature,2010,2
+NIH,lymph vasculature,2011,2
+NIH,lymph vasculature,2012,2
+NIH,lymph vasculature,2013,6
+NIH,lymph vasculature,2014,4
+NIH,lymph vasculature,2015,3
+NIH,lymph vasculature,2016,5
+NIH,lymph vasculature,2017,2
+NIH,lymph vasculature,2018,4
+NIH,lymph vasculature,2019,7
+NIH,lymph vasculature,2020,5
+NIH,lymph vasculature,2021,3
+NIH,lymph vasculature,2022,2
+NIH,main bronchus,2018,1
+NIH,main bronchus,2020,1
+NIH,muscular system,1981,1
+NIH,muscular system,1983,6
+NIH,muscular system,1984,2
+NIH,muscular system,1985,4
+NIH,muscular system,1986,1
+NIH,muscular system,1987,3
+NIH,muscular system,1988,4
+NIH,muscular system,1989,7
+NIH,muscular system,1990,3
+NIH,muscular system,1991,2
+NIH,muscular system,1993,2
+NIH,muscular system,1994,3
+NIH,muscular system,1995,1
+NIH,muscular system,1996,4
+NIH,muscular system,1998,1
+NIH,muscular system,1999,4
+NIH,muscular system,2000,4
+NIH,muscular system,2001,1
+NIH,muscular system,2002,1
+NIH,muscular system,2003,4
+NIH,muscular system,2004,3
+NIH,muscular system,2005,5
+NIH,muscular system,2006,6
+NIH,muscular system,2007,6
+NIH,muscular system,2008,5
+NIH,muscular system,2009,3
+NIH,muscular system,2010,5
+NIH,muscular system,2011,6
+NIH,muscular system,2012,4
+NIH,muscular system,2013,7
+NIH,muscular system,2014,9
+NIH,muscular system,2015,8
+NIH,muscular system,2016,2
+NIH,muscular system,2017,3
+NIH,muscular system,2018,6
+NIH,muscular system,2019,2
+NIH,muscular system,2020,4
+NIH,muscular system,2021,7
+NIH,muscular system,2022,7
+NIH,muscular system,2023,2
+NIH,ovary,1962,1
+NIH,ovary,1963,1
+NIH,ovary,1975,2
+NIH,ovary,1976,4
+NIH,ovary,1978,4
+NIH,ovary,1979,3
+NIH,ovary,1980,94
+NIH,ovary,1981,244
+NIH,ovary,1982,264
+NIH,ovary,1983,261
+NIH,ovary,1984,242
+NIH,ovary,1985,238
+NIH,ovary,1986,240
+NIH,ovary,1987,218
+NIH,ovary,1988,180
+NIH,ovary,1989,244
+NIH,ovary,1990,230
+NIH,ovary,1991,244
+NIH,ovary,1992,195
+NIH,ovary,1993,178
+NIH,ovary,1994,156
+NIH,ovary,1995,184
+NIH,ovary,1996,193
+NIH,ovary,1997,209
+NIH,ovary,1998,178
+NIH,ovary,1999,184
+NIH,ovary,2000,176
+NIH,ovary,2001,185
+NIH,ovary,2002,209
+NIH,ovary,2003,173
+NIH,ovary,2004,173
+NIH,ovary,2005,197
+NIH,ovary,2006,215
+NIH,ovary,2007,201
+NIH,ovary,2008,201
+NIH,ovary,2009,224
+NIH,ovary,2010,208
+NIH,ovary,2011,226
+NIH,ovary,2012,236
+NIH,ovary,2013,223
+NIH,ovary,2014,222
+NIH,ovary,2015,218
+NIH,ovary,2016,204
+NIH,ovary,2017,171
+NIH,ovary,2018,168
+NIH,ovary,2019,197
+NIH,ovary,2020,201
+NIH,ovary,2021,169
+NIH,ovary,2022,118
+NIH,ovary,2023,25
+NIH,pancreas,1969,1
+NIH,pancreas,1971,1
+NIH,pancreas,1972,1
+NIH,pancreas,1973,1
+NIH,pancreas,1976,1
+NIH,pancreas,1977,1
+NIH,pancreas,1978,3
+NIH,pancreas,1979,5
+NIH,pancreas,1980,64
+NIH,pancreas,1981,129
+NIH,pancreas,1982,104
+NIH,pancreas,1983,106
+NIH,pancreas,1984,118
+NIH,pancreas,1985,87
+NIH,pancreas,1986,83
+NIH,pancreas,1987,116
+NIH,pancreas,1988,149
+NIH,pancreas,1989,166
+NIH,pancreas,1990,197
+NIH,pancreas,1991,218
+NIH,pancreas,1992,195
+NIH,pancreas,1993,161
+NIH,pancreas,1994,167
+NIH,pancreas,1995,147
+NIH,pancreas,1996,163
+NIH,pancreas,1997,151
+NIH,pancreas,1998,114
+NIH,pancreas,1999,136
+NIH,pancreas,2000,123
+NIH,pancreas,2001,135
+NIH,pancreas,2002,112
+NIH,pancreas,2003,115
+NIH,pancreas,2004,142
+NIH,pancreas,2005,141
+NIH,pancreas,2006,148
+NIH,pancreas,2007,158
+NIH,pancreas,2008,163
+NIH,pancreas,2009,187
+NIH,pancreas,2010,196
+NIH,pancreas,2011,182
+NIH,pancreas,2012,252
+NIH,pancreas,2013,243
+NIH,pancreas,2014,243
+NIH,pancreas,2015,207
+NIH,pancreas,2016,231
+NIH,pancreas,2017,190
+NIH,pancreas,2018,175
+NIH,pancreas,2019,192
+NIH,pancreas,2020,219
+NIH,pancreas,2021,208
+NIH,pancreas,2022,116
+NIH,pancreas,2023,20
+NIH,pelvis,1980,7
+NIH,pelvis,1981,6
+NIH,pelvis,1982,13
+NIH,pelvis,1983,10
+NIH,pelvis,1984,14
+NIH,pelvis,1985,14
+NIH,pelvis,1986,9
+NIH,pelvis,1987,9
+NIH,pelvis,1988,10
+NIH,pelvis,1989,9
+NIH,pelvis,1990,11
+NIH,pelvis,1991,7
+NIH,pelvis,1992,11
+NIH,pelvis,1993,13
+NIH,pelvis,1994,10
+NIH,pelvis,1995,10
+NIH,pelvis,1996,12
+NIH,pelvis,1997,8
+NIH,pelvis,1998,15
+NIH,pelvis,1999,19
+NIH,pelvis,2000,17
+NIH,pelvis,2001,16
+NIH,pelvis,2002,13
+NIH,pelvis,2003,13
+NIH,pelvis,2004,20
+NIH,pelvis,2005,18
+NIH,pelvis,2006,17
+NIH,pelvis,2007,21
+NIH,pelvis,2008,24
+NIH,pelvis,2009,24
+NIH,pelvis,2010,22
+NIH,pelvis,2011,29
+NIH,pelvis,2012,25
+NIH,pelvis,2013,29
+NIH,pelvis,2014,28
+NIH,pelvis,2015,34
+NIH,pelvis,2016,31
+NIH,pelvis,2017,45
+NIH,pelvis,2018,33
+NIH,pelvis,2019,47
+NIH,pelvis,2020,36
+NIH,pelvis,2021,26
+NIH,pelvis,2022,34
+NIH,pelvis,2023,6
+NIH,peripheral nervous system,1980,12
+NIH,peripheral nervous system,1981,27
+NIH,peripheral nervous system,1982,36
+NIH,peripheral nervous system,1983,39
+NIH,peripheral nervous system,1984,30
+NIH,peripheral nervous system,1985,43
+NIH,peripheral nervous system,1986,36
+NIH,peripheral nervous system,1987,37
+NIH,peripheral nervous system,1988,23
+NIH,peripheral nervous system,1989,32
+NIH,peripheral nervous system,1990,37
+NIH,peripheral nervous system,1991,44
+NIH,peripheral nervous system,1992,35
+NIH,peripheral nervous system,1993,33
+NIH,peripheral nervous system,1994,63
+NIH,peripheral nervous system,1995,63
+NIH,peripheral nervous system,1996,64
+NIH,peripheral nervous system,1997,51
+NIH,peripheral nervous system,1998,57
+NIH,peripheral nervous system,1999,50
+NIH,peripheral nervous system,2000,50
+NIH,peripheral nervous system,2001,62
+NIH,peripheral nervous system,2002,57
+NIH,peripheral nervous system,2003,50
+NIH,peripheral nervous system,2004,44
+NIH,peripheral nervous system,2005,64
+NIH,peripheral nervous system,2006,92
+NIH,peripheral nervous system,2007,99
+NIH,peripheral nervous system,2008,93
+NIH,peripheral nervous system,2009,75
+NIH,peripheral nervous system,2010,85
+NIH,peripheral nervous system,2011,88
+NIH,peripheral nervous system,2012,80
+NIH,peripheral nervous system,2013,101
+NIH,peripheral nervous system,2014,89
+NIH,peripheral nervous system,2015,88
+NIH,peripheral nervous system,2016,85
+NIH,peripheral nervous system,2017,87
+NIH,peripheral nervous system,2018,77
+NIH,peripheral nervous system,2019,82
+NIH,peripheral nervous system,2020,88
+NIH,peripheral nervous system,2021,89
+NIH,peripheral nervous system,2022,73
+NIH,peripheral nervous system,2023,7
+NIH,placenta,1967,1
+NIH,placenta,1969,1
+NIH,placenta,1970,1
+NIH,placenta,1975,3
+NIH,placenta,1977,2
+NIH,placenta,1978,6
+NIH,placenta,1979,8
+NIH,placenta,1980,68
+NIH,placenta,1981,177
+NIH,placenta,1982,153
+NIH,placenta,1983,148
+NIH,placenta,1984,148
+NIH,placenta,1985,184
+NIH,placenta,1986,167
+NIH,placenta,1987,175
+NIH,placenta,1988,190
+NIH,placenta,1989,223
+NIH,placenta,1990,240
+NIH,placenta,1991,186
+NIH,placenta,1992,179
+NIH,placenta,1993,199
+NIH,placenta,1994,160
+NIH,placenta,1995,205
+NIH,placenta,1996,171
+NIH,placenta,1997,159
+NIH,placenta,1998,147
+NIH,placenta,1999,116
+NIH,placenta,2000,135
+NIH,placenta,2001,135
+NIH,placenta,2002,143
+NIH,placenta,2003,142
+NIH,placenta,2004,153
+NIH,placenta,2005,155
+NIH,placenta,2006,177
+NIH,placenta,2007,186
+NIH,placenta,2008,217
+NIH,placenta,2009,209
+NIH,placenta,2010,198
+NIH,placenta,2011,212
+NIH,placenta,2012,225
+NIH,placenta,2013,267
+NIH,placenta,2014,230
+NIH,placenta,2015,246
+NIH,placenta,2016,244
+NIH,placenta,2017,280
+NIH,placenta,2018,274
+NIH,placenta,2019,323
+NIH,placenta,2020,343
+NIH,placenta,2021,375
+NIH,placenta,2022,369
+NIH,placenta,2023,66
+NIH,prostate,1963,1
+NIH,prostate,1973,1
+NIH,prostate,1975,1
+NIH,prostate,1976,1
+NIH,prostate,1977,2
+NIH,prostate,1978,5
+NIH,prostate,1980,45
+NIH,prostate,1981,101
+NIH,prostate,1982,95
+NIH,prostate,1983,90
+NIH,prostate,1984,92
+NIH,prostate,1985,86
+NIH,prostate,1986,86
+NIH,prostate,1987,83
+NIH,prostate,1988,91
+NIH,prostate,1989,77
+NIH,prostate,1990,96
+NIH,prostate,1991,103
+NIH,prostate,1992,114
+NIH,prostate,1993,159
+NIH,prostate,1994,202
+NIH,prostate,1995,225
+NIH,prostate,1996,259
+NIH,prostate,1997,285
+NIH,prostate,1998,309
+NIH,prostate,1999,367
+NIH,prostate,2000,390
+NIH,prostate,2001,486
+NIH,prostate,2002,482
+NIH,prostate,2003,560
+NIH,prostate,2004,620
+NIH,prostate,2005,629
+NIH,prostate,2006,717
+NIH,prostate,2007,819
+NIH,prostate,2008,965
+NIH,prostate,2009,920
+NIH,prostate,2010,1010
+NIH,prostate,2011,1012
+NIH,prostate,2012,1116
+NIH,prostate,2013,1147
+NIH,prostate,2014,1068
+NIH,prostate,2015,1041
+NIH,prostate,2016,1033
+NIH,prostate,2017,942
+NIH,prostate,2018,901
+NIH,prostate,2019,917
+NIH,prostate,2020,835
+NIH,prostate,2021,883
+NIH,prostate,2022,749
+NIH,prostate,2023,107
+NIH,skeletal,1970,1
+NIH,skeletal,1976,3
+NIH,skeletal,1977,2
+NIH,skeletal,1978,3
+NIH,skeletal,1979,2
+NIH,skeletal,1980,72
+NIH,skeletal,1981,139
+NIH,skeletal,1982,159
+NIH,skeletal,1983,168
+NIH,skeletal,1984,175
+NIH,skeletal,1985,189
+NIH,skeletal,1986,243
+NIH,skeletal,1987,225
+NIH,skeletal,1988,253
+NIH,skeletal,1989,263
+NIH,skeletal,1990,306
+NIH,skeletal,1991,323
+NIH,skeletal,1992,331
+NIH,skeletal,1993,309
+NIH,skeletal,1994,443
+NIH,skeletal,1995,750
+NIH,skeletal,1996,807
+NIH,skeletal,1997,822
+NIH,skeletal,1998,920
+NIH,skeletal,1999,962
+NIH,skeletal,2000,1091
+NIH,skeletal,2001,1160
+NIH,skeletal,2002,1188
+NIH,skeletal,2003,1146
+NIH,skeletal,2004,1230
+NIH,skeletal,2005,1309
+NIH,skeletal,2006,1127
+NIH,skeletal,2007,1212
+NIH,skeletal,2008,1146
+NIH,skeletal,2009,1283
+NIH,skeletal,2010,1279
+NIH,skeletal,2011,1393
+NIH,skeletal,2012,1427
+NIH,skeletal,2013,1462
+NIH,skeletal,2014,1315
+NIH,skeletal,2015,1359
+NIH,skeletal,2016,1224
+NIH,skeletal,2017,1160
+NIH,skeletal,2018,1057
+NIH,skeletal,2019,1059
+NIH,skeletal,2020,1042
+NIH,skeletal,2021,1001
+NIH,skeletal,2022,740
+NIH,skeletal,2023,106
+NIH,skin,1966,3
+NIH,skin,1967,3
+NIH,skin,1968,2
+NIH,skin,1970,3
+NIH,skin,1971,2
+NIH,skin,1972,1
+NIH,skin,1973,6
+NIH,skin,1974,3
+NIH,skin,1975,4
+NIH,skin,1976,3
+NIH,skin,1977,7
+NIH,skin,1978,8
+NIH,skin,1979,12
+NIH,skin,1980,262
+NIH,skin,1981,633
+NIH,skin,1982,656
+NIH,skin,1983,689
+NIH,skin,1984,686
+NIH,skin,1985,690
+NIH,skin,1986,667
+NIH,skin,1987,616
+NIH,skin,1988,607
+NIH,skin,1989,669
+NIH,skin,1990,616
+NIH,skin,1991,675
+NIH,skin,1992,624
+NIH,skin,1993,680
+NIH,skin,1994,623
+NIH,skin,1995,713
+NIH,skin,1996,638
+NIH,skin,1997,595
+NIH,skin,1998,587
+NIH,skin,1999,592
+NIH,skin,2000,579
+NIH,skin,2001,626
+NIH,skin,2002,636
+NIH,skin,2003,680
+NIH,skin,2004,672
+NIH,skin,2005,751
+NIH,skin,2006,788
+NIH,skin,2007,878
+NIH,skin,2008,907
+NIH,skin,2009,1028
+NIH,skin,2010,1057
+NIH,skin,2011,1085
+NIH,skin,2012,1129
+NIH,skin,2013,1111
+NIH,skin,2014,1201
+NIH,skin,2015,1201
+NIH,skin,2016,1084
+NIH,skin,2017,1009
+NIH,skin,2018,970
+NIH,skin,2019,963
+NIH,skin,2020,958
+NIH,skin,2021,993
+NIH,skin,2022,723
+NIH,skin,2023,106
+NIH,small intestine,1970,1
+NIH,small intestine,1972,1
+NIH,small intestine,1973,1
+NIH,small intestine,1975,1
+NIH,small intestine,1977,2
+NIH,small intestine,1979,5
+NIH,small intestine,1980,21
+NIH,small intestine,1981,56
+NIH,small intestine,1982,70
+NIH,small intestine,1983,84
+NIH,small intestine,1984,91
+NIH,small intestine,1985,72
+NIH,small intestine,1986,55
+NIH,small intestine,1987,71
+NIH,small intestine,1988,112
+NIH,small intestine,1989,109
+NIH,small intestine,1990,114
+NIH,small intestine,1991,110
+NIH,small intestine,1992,115
+NIH,small intestine,1993,114
+NIH,small intestine,1994,139
+NIH,small intestine,1995,110
+NIH,small intestine,1996,147
+NIH,small intestine,1997,111
+NIH,small intestine,1998,103
+NIH,small intestine,1999,89
+NIH,small intestine,2000,114
+NIH,small intestine,2001,101
+NIH,small intestine,2002,95
+NIH,small intestine,2003,83
+NIH,small intestine,2004,86
+NIH,small intestine,2005,99
+NIH,small intestine,2006,116
+NIH,small intestine,2007,97
+NIH,small intestine,2008,95
+NIH,small intestine,2009,88
+NIH,small intestine,2010,99
+NIH,small intestine,2011,123
+NIH,small intestine,2012,129
+NIH,small intestine,2013,134
+NIH,small intestine,2014,106
+NIH,small intestine,2015,115
+NIH,small intestine,2016,84
+NIH,small intestine,2017,87
+NIH,small intestine,2018,94
+NIH,small intestine,2019,90
+NIH,small intestine,2020,90
+NIH,small intestine,2021,82
+NIH,small intestine,2022,45
+NIH,small intestine,2023,5
+NIH,spinal cord,1971,3
+NIH,spinal cord,1972,1
+NIH,spinal cord,1978,3
+NIH,spinal cord,1979,6
+NIH,spinal cord,1980,135
+NIH,spinal cord,1981,290
+NIH,spinal cord,1982,316
+NIH,spinal cord,1983,327
+NIH,spinal cord,1984,319
+NIH,spinal cord,1985,334
+NIH,spinal cord,1986,339
+NIH,spinal cord,1987,320
+NIH,spinal cord,1988,387
+NIH,spinal cord,1989,353
+NIH,spinal cord,1990,384
+NIH,spinal cord,1991,371
+NIH,spinal cord,1992,343
+NIH,spinal cord,1993,384
+NIH,spinal cord,1994,351
+NIH,spinal cord,1995,355
+NIH,spinal cord,1996,353
+NIH,spinal cord,1997,345
+NIH,spinal cord,1998,325
+NIH,spinal cord,1999,376
+NIH,spinal cord,2000,397
+NIH,spinal cord,2001,385
+NIH,spinal cord,2002,409
+NIH,spinal cord,2003,394
+NIH,spinal cord,2004,398
+NIH,spinal cord,2005,408
+NIH,spinal cord,2006,455
+NIH,spinal cord,2007,452
+NIH,spinal cord,2008,468
+NIH,spinal cord,2009,534
+NIH,spinal cord,2010,490
+NIH,spinal cord,2011,482
+NIH,spinal cord,2012,535
+NIH,spinal cord,2013,515
+NIH,spinal cord,2014,510
+NIH,spinal cord,2015,481
+NIH,spinal cord,2016,492
+NIH,spinal cord,2017,429
+NIH,spinal cord,2018,432
+NIH,spinal cord,2019,374
+NIH,spinal cord,2020,378
+NIH,spinal cord,2021,430
+NIH,spinal cord,2022,327
+NIH,spinal cord,2023,44
+NIH,spleen,1965,1
+NIH,spleen,1968,1
+NIH,spleen,1969,2
+NIH,spleen,1970,4
+NIH,spleen,1971,2
+NIH,spleen,1972,1
+NIH,spleen,1973,2
+NIH,spleen,1974,2
+NIH,spleen,1975,3
+NIH,spleen,1976,1
+NIH,spleen,1977,2
+NIH,spleen,1978,6
+NIH,spleen,1979,10
+NIH,spleen,1980,231
+NIH,spleen,1981,507
+NIH,spleen,1982,485
+NIH,spleen,1983,411
+NIH,spleen,1984,439
+NIH,spleen,1985,427
+NIH,spleen,1986,324
+NIH,spleen,1987,373
+NIH,spleen,1988,357
+NIH,spleen,1989,375
+NIH,spleen,1990,400
+NIH,spleen,1991,380
+NIH,spleen,1992,370
+NIH,spleen,1993,372
+NIH,spleen,1994,384
+NIH,spleen,1995,361
+NIH,spleen,1996,340
+NIH,spleen,1997,301
+NIH,spleen,1998,331
+NIH,spleen,1999,349
+NIH,spleen,2000,369
+NIH,spleen,2001,404
+NIH,spleen,2002,354
+NIH,spleen,2003,380
+NIH,spleen,2004,381
+NIH,spleen,2005,372
+NIH,spleen,2006,340
+NIH,spleen,2007,370
+NIH,spleen,2008,338
+NIH,spleen,2009,374
+NIH,spleen,2010,324
+NIH,spleen,2011,320
+NIH,spleen,2012,307
+NIH,spleen,2013,326
+NIH,spleen,2014,303
+NIH,spleen,2015,278
+NIH,spleen,2016,211
+NIH,spleen,2017,209
+NIH,spleen,2018,187
+NIH,spleen,2019,168
+NIH,spleen,2020,146
+NIH,spleen,2021,126
+NIH,spleen,2022,50
+NIH,spleen,2023,4
+NIH,thymus,1968,1
+NIH,thymus,1969,1
+NIH,thymus,1970,1
+NIH,thymus,1972,2
+NIH,thymus,1973,2
+NIH,thymus,1974,2
+NIH,thymus,1975,1
+NIH,thymus,1976,1
+NIH,thymus,1977,2
+NIH,thymus,1978,5
+NIH,thymus,1979,6
+NIH,thymus,1980,115
+NIH,thymus,1981,231
+NIH,thymus,1982,203
+NIH,thymus,1983,179
+NIH,thymus,1984,221
+NIH,thymus,1985,199
+NIH,thymus,1986,150
+NIH,thymus,1987,171
+NIH,thymus,1988,171
+NIH,thymus,1989,166
+NIH,thymus,1990,183
+NIH,thymus,1991,196
+NIH,thymus,1992,175
+NIH,thymus,1993,210
+NIH,thymus,1994,202
+NIH,thymus,1995,214
+NIH,thymus,1996,166
+NIH,thymus,1997,228
+NIH,thymus,1998,195
+NIH,thymus,1999,196
+NIH,thymus,2000,195
+NIH,thymus,2001,200
+NIH,thymus,2002,193
+NIH,thymus,2003,171
+NIH,thymus,2004,169
+NIH,thymus,2005,175
+NIH,thymus,2006,172
+NIH,thymus,2007,177
+NIH,thymus,2008,164
+NIH,thymus,2009,204
+NIH,thymus,2010,177
+NIH,thymus,2011,162
+NIH,thymus,2012,138
+NIH,thymus,2013,127
+NIH,thymus,2014,97
+NIH,thymus,2015,110
+NIH,thymus,2016,110
+NIH,thymus,2017,77
+NIH,thymus,2018,75
+NIH,thymus,2019,72
+NIH,thymus,2020,68
+NIH,thymus,2021,62
+NIH,thymus,2022,48
+NIH,thymus,2023,13
+NIH,trachea,1967,1
+NIH,trachea,1977,4
+NIH,trachea,1979,4
+NIH,trachea,1980,60
+NIH,trachea,1981,97
+NIH,trachea,1982,112
+NIH,trachea,1983,137
+NIH,trachea,1984,130
+NIH,trachea,1985,125
+NIH,trachea,1986,128
+NIH,trachea,1987,127
+NIH,trachea,1988,155
+NIH,trachea,1989,143
+NIH,trachea,1990,144
+NIH,trachea,1991,150
+NIH,trachea,1992,150
+NIH,trachea,1993,173
+NIH,trachea,1994,155
+NIH,trachea,1995,170
+NIH,trachea,1996,146
+NIH,trachea,1997,144
+NIH,trachea,1998,142
+NIH,trachea,1999,117
+NIH,trachea,2000,138
+NIH,trachea,2001,135
+NIH,trachea,2002,120
+NIH,trachea,2003,102
+NIH,trachea,2004,117
+NIH,trachea,2005,101
+NIH,trachea,2006,108
+NIH,trachea,2007,100
+NIH,trachea,2008,89
+NIH,trachea,2009,95
+NIH,trachea,2010,109
+NIH,trachea,2011,115
+NIH,trachea,2012,105
+NIH,trachea,2013,113
+NIH,trachea,2014,100
+NIH,trachea,2015,99
+NIH,trachea,2016,85
+NIH,trachea,2017,87
+NIH,trachea,2018,86
+NIH,trachea,2019,95
+NIH,trachea,2020,131
+NIH,trachea,2021,98
+NIH,trachea,2022,62
+NIH,trachea,2023,7
+NIH,ureter,1975,1
+NIH,ureter,1980,8
+NIH,ureter,1981,20
+NIH,ureter,1982,10
+NIH,ureter,1983,19
+NIH,ureter,1984,13
+NIH,ureter,1985,20
+NIH,ureter,1986,18
+NIH,ureter,1987,15
+NIH,ureter,1988,17
+NIH,ureter,1989,20
+NIH,ureter,1990,22
+NIH,ureter,1991,21
+NIH,ureter,1992,18
+NIH,ureter,1993,16
+NIH,ureter,1994,10
+NIH,ureter,1995,15
+NIH,ureter,1996,18
+NIH,ureter,1997,13
+NIH,ureter,1998,28
+NIH,ureter,1999,26
+NIH,ureter,2000,24
+NIH,ureter,2001,26
+NIH,ureter,2002,26
+NIH,ureter,2003,32
+NIH,ureter,2004,36
+NIH,ureter,2005,30
+NIH,ureter,2006,30
+NIH,ureter,2007,34
+NIH,ureter,2008,29
+NIH,ureter,2009,44
+NIH,ureter,2010,55
+NIH,ureter,2011,54
+NIH,ureter,2012,52
+NIH,ureter,2013,48
+NIH,ureter,2014,54
+NIH,ureter,2015,54
+NIH,ureter,2016,58
+NIH,ureter,2017,58
+NIH,ureter,2018,43
+NIH,ureter,2019,49
+NIH,ureter,2020,46
+NIH,ureter,2021,39
+NIH,ureter,2022,34
+NIH,ureter,2023,4
+NIH,urinary bladder,1970,1
+NIH,urinary bladder,1971,1
+NIH,urinary bladder,1974,1
+NIH,urinary bladder,1975,1
+NIH,urinary bladder,1978,2
+NIH,urinary bladder,1979,3
+NIH,urinary bladder,1980,45
+NIH,urinary bladder,1981,131
+NIH,urinary bladder,1982,119
+NIH,urinary bladder,1983,130
+NIH,urinary bladder,1984,148
+NIH,urinary bladder,1985,132
+NIH,urinary bladder,1986,130
+NIH,urinary bladder,1987,127
+NIH,urinary bladder,1988,116
+NIH,urinary bladder,1989,141
+NIH,urinary bladder,1990,136
+NIH,urinary bladder,1991,163
+NIH,urinary bladder,1992,144
+NIH,urinary bladder,1993,142
+NIH,urinary bladder,1994,167
+NIH,urinary bladder,1995,149
+NIH,urinary bladder,1996,146
+NIH,urinary bladder,1997,162
+NIH,urinary bladder,1998,131
+NIH,urinary bladder,1999,138
+NIH,urinary bladder,2000,162
+NIH,urinary bladder,2001,156
+NIH,urinary bladder,2002,153
+NIH,urinary bladder,2003,163
+NIH,urinary bladder,2004,188
+NIH,urinary bladder,2005,198
+NIH,urinary bladder,2006,232
+NIH,urinary bladder,2007,235
+NIH,urinary bladder,2008,263
+NIH,urinary bladder,2009,253
+NIH,urinary bladder,2010,231
+NIH,urinary bladder,2011,235
+NIH,urinary bladder,2012,260
+NIH,urinary bladder,2013,295
+NIH,urinary bladder,2014,297
+NIH,urinary bladder,2015,265
+NIH,urinary bladder,2016,307
+NIH,urinary bladder,2017,251
+NIH,urinary bladder,2018,252
+NIH,urinary bladder,2019,260
+NIH,urinary bladder,2020,245
+NIH,urinary bladder,2021,237
+NIH,urinary bladder,2022,232
+NIH,urinary bladder,2023,34
+NIH,uterus,1970,1
+NIH,uterus,1975,4
+NIH,uterus,1977,2
+NIH,uterus,1978,4
+NIH,uterus,1979,5
+NIH,uterus,1980,70
+NIH,uterus,1981,156
+NIH,uterus,1982,145
+NIH,uterus,1983,160
+NIH,uterus,1984,138
+NIH,uterus,1985,134
+NIH,uterus,1986,144
+NIH,uterus,1987,141
+NIH,uterus,1988,114
+NIH,uterus,1989,125
+NIH,uterus,1990,120
+NIH,uterus,1991,127
+NIH,uterus,1992,162
+NIH,uterus,1993,128
+NIH,uterus,1994,86
+NIH,uterus,1995,113
+NIH,uterus,1996,104
+NIH,uterus,1997,129
+NIH,uterus,1998,124
+NIH,uterus,1999,110
+NIH,uterus,2000,113
+NIH,uterus,2001,131
+NIH,uterus,2002,106
+NIH,uterus,2003,102
+NIH,uterus,2004,112
+NIH,uterus,2005,118
+NIH,uterus,2006,106
+NIH,uterus,2007,112
+NIH,uterus,2008,93
+NIH,uterus,2009,109
+NIH,uterus,2010,96
+NIH,uterus,2011,92
+NIH,uterus,2012,108
+NIH,uterus,2013,87
+NIH,uterus,2014,82
+NIH,uterus,2015,84
+NIH,uterus,2016,72
+NIH,uterus,2017,63
+NIH,uterus,2018,81
+NIH,uterus,2019,84
+NIH,uterus,2020,83
+NIH,uterus,2021,61
+NIH,uterus,2022,39
+NIH,uterus,2023,13
+NSF,blood vasculature,2023,1
+NSF,bone marrow,2017,1
+NSF,bone marrow,2018,8
+NSF,bone marrow,2019,6
+NSF,bone marrow,2020,7
+NSF,bone marrow,2021,11
+NSF,bone marrow,2022,7
+NSF,bone marrow,2023,3
+NSF,brain,2012,3
+NSF,brain,2013,2
+NSF,brain,2014,1
+NSF,brain,2015,7
+NSF,brain,2016,9
+NSF,brain,2017,12
+NSF,brain,2018,77
+NSF,brain,2019,119
+NSF,brain,2020,110
+NSF,brain,2021,100
+NSF,brain,2022,129
+NSF,brain,2023,56
+NSF,eye,2017,5
+NSF,eye,2018,8
+NSF,eye,2019,19
+NSF,eye,2020,21
+NSF,eye,2021,13
+NSF,eye,2022,22
+NSF,eye,2023,6
+NSF,fallopian tube,2020,1
+NSF,fallopian tube,2021,1
+NSF,heart,2016,2
+NSF,heart,2017,2
+NSF,heart,2018,18
+NSF,heart,2019,38
+NSF,heart,2020,20
+NSF,heart,2021,28
+NSF,heart,2022,39
+NSF,heart,2023,15
+NSF,kidney,2007,1
+NSF,kidney,2016,1
+NSF,kidney,2017,1
+NSF,kidney,2018,21
+NSF,kidney,2019,26
+NSF,kidney,2020,26
+NSF,kidney,2021,39
+NSF,kidney,2022,29
+NSF,kidney,2023,14
+NSF,knee,2017,1
+NSF,knee,2018,6
+NSF,knee,2019,6
+NSF,knee,2020,3
+NSF,knee,2021,4
+NSF,knee,2022,7
+NSF,knee,2023,3
+NSF,liver,2012,1
+NSF,liver,2013,2
+NSF,liver,2014,3
+NSF,liver,2015,3
+NSF,liver,2016,7
+NSF,liver,2017,9
+NSF,liver,2018,52
+NSF,liver,2019,89
+NSF,liver,2020,73
+NSF,liver,2021,96
+NSF,liver,2022,101
+NSF,liver,2023,44
+NSF,lung,2015,3
+NSF,lung,2016,1
+NSF,lung,2017,3
+NSF,lung,2018,31
+NSF,lung,2019,22
+NSF,lung,2020,49
+NSF,lung,2021,78
+NSF,lung,2022,49
+NSF,lung,2023,28
+NSF,lymph node,2017,2
+NSF,lymph node,2018,6
+NSF,lymph node,2019,4
+NSF,lymph node,2020,4
+NSF,lymph node,2021,10
+NSF,lymph node,2022,5
+NSF,lymph node,2023,1
+NSF,lymph vasculature,2023,2
+NSF,muscular system,2018,1
+NSF,muscular system,2022,1
+NSF,muscular system,2023,1
+NSF,ovary,2018,4
+NSF,ovary,2019,8
+NSF,ovary,2020,7
+NSF,ovary,2021,7
+NSF,ovary,2022,3
+NSF,ovary,2023,1
+NSF,pancreas,2020,4
+NSF,pancreas,2021,3
+NSF,pancreas,2022,3
+NSF,pancreas,2023,2
+NSF,pelvis,2018,3
+NSF,pelvis,2022,2
+NSF,peripheral nervous system,2018,1
+NSF,peripheral nervous system,2020,2
+NSF,peripheral nervous system,2022,2
+NSF,placenta,2018,2
+NSF,placenta,2019,2
+NSF,placenta,2020,4
+NSF,placenta,2021,10
+NSF,placenta,2022,3
+NSF,placenta,2023,3
+NSF,prostate,2017,1
+NSF,prostate,2018,7
+NSF,prostate,2019,5
+NSF,prostate,2020,6
+NSF,prostate,2021,19
+NSF,prostate,2022,23
+NSF,prostate,2023,11
+NSF,skeletal,2013,3
+NSF,skeletal,2015,1
+NSF,skeletal,2016,2
+NSF,skeletal,2017,4
+NSF,skeletal,2018,18
+NSF,skeletal,2019,17
+NSF,skeletal,2020,28
+NSF,skeletal,2021,27
+NSF,skeletal,2022,28
+NSF,skeletal,2023,13
+NSF,skin,2013,1
+NSF,skin,2015,3
+NSF,skin,2016,1
+NSF,skin,2017,7
+NSF,skin,2018,22
+NSF,skin,2019,34
+NSF,skin,2020,26
+NSF,skin,2021,28
+NSF,skin,2022,27
+NSF,skin,2023,11
+NSF,small intestine,2019,1
+NSF,small intestine,2021,1
+NSF,small intestine,2022,1
+NSF,spinal cord,2012,1
+NSF,spinal cord,2018,8
+NSF,spinal cord,2019,6
+NSF,spinal cord,2020,15
+NSF,spinal cord,2021,16
+NSF,spinal cord,2022,12
+NSF,spinal cord,2023,7
+NSF,spleen,2018,4
+NSF,spleen,2019,2
+NSF,spleen,2021,5
+NSF,spleen,2022,3
+NSF,thymus,2018,1
+NSF,thymus,2019,2
+NSF,thymus,2020,2
+NSF,thymus,2021,2
+NSF,thymus,2022,1
+NSF,trachea,2018,1
+NSF,trachea,2019,1
+NSF,trachea,2020,1
+NSF,trachea,2022,3
+NSF,ureter,2018,1
+NSF,ureter,2019,1
+NSF,ureter,2021,3
+NSF,ureter,2022,2
+NSF,urinary bladder,2017,1
+NSF,urinary bladder,2018,5
+NSF,urinary bladder,2019,3
+NSF,urinary bladder,2020,3
+NSF,urinary bladder,2021,8
+NSF,urinary bladder,2022,8
+NSF,urinary bladder,2023,2
+NSF,uterus,2018,1
+NSF,uterus,2019,1
+NSF,uterus,2021,2
+NSF,uterus,2022,2
+NSFC,blood vasculature,2022,1
+NSFC,bone marrow,2017,10
+NSFC,bone marrow,2018,30
+NSFC,bone marrow,2019,51
+NSFC,bone marrow,2020,57
+NSFC,bone marrow,2021,61
+NSFC,bone marrow,2022,71
+NSFC,bone marrow,2023,25
+NSFC,brain,2017,75
+NSFC,brain,2018,306
+NSFC,brain,2019,459
+NSFC,brain,2020,513
+NSFC,brain,2021,574
+NSFC,brain,2022,658
+NSFC,brain,2023,279
+NSFC,eye,2017,4
+NSFC,eye,2018,29
+NSFC,eye,2019,71
+NSFC,eye,2020,96
+NSFC,eye,2021,81
+NSFC,eye,2022,109
+NSFC,eye,2023,43
+NSFC,fallopian tube,2017,1
+NSFC,fallopian tube,2018,2
+NSFC,fallopian tube,2019,2
+NSFC,fallopian tube,2020,3
+NSFC,fallopian tube,2021,6
+NSFC,fallopian tube,2022,2
+NSFC,fallopian tube,2023,1
+NSFC,heart,2017,10
+NSFC,heart,2018,85
+NSFC,heart,2019,140
+NSFC,heart,2020,185
+NSFC,heart,2021,223
+NSFC,heart,2022,210
+NSFC,heart,2023,80
+NSFC,kidney,2017,9
+NSFC,kidney,2018,132
+NSFC,kidney,2019,185
+NSFC,kidney,2020,260
+NSFC,kidney,2021,281
+NSFC,kidney,2022,307
+NSFC,kidney,2023,96
+NSFC,knee,2017,7
+NSFC,knee,2018,27
+NSFC,knee,2019,53
+NSFC,knee,2020,52
+NSFC,knee,2021,69
+NSFC,knee,2022,90
+NSFC,knee,2023,30
+NSFC,liver,2013,1
+NSFC,liver,2016,1
+NSFC,liver,2017,60
+NSFC,liver,2018,394
+NSFC,liver,2019,784
+NSFC,liver,2020,708
+NSFC,liver,2021,949
+NSFC,liver,2022,1198
+NSFC,liver,2023,362
+NSFC,lung,2017,29
+NSFC,lung,2018,218
+NSFC,lung,2019,319
+NSFC,lung,2020,445
+NSFC,lung,2021,490
+NSFC,lung,2022,565
+NSFC,lung,2023,211
+NSFC,lymph node,2017,6
+NSFC,lymph node,2018,31
+NSFC,lymph node,2019,76
+NSFC,lymph node,2020,77
+NSFC,lymph node,2021,75
+NSFC,lymph node,2022,98
+NSFC,lymph node,2023,35
+NSFC,main bronchus,2023,1
+NSFC,muscular system,2018,1
+NSFC,muscular system,2023,1
+NSFC,ovary,2017,1
+NSFC,ovary,2018,37
+NSFC,ovary,2019,42
+NSFC,ovary,2020,56
+NSFC,ovary,2021,63
+NSFC,ovary,2022,50
+NSFC,ovary,2023,15
+NSFC,pancreas,2017,1
+NSFC,pancreas,2018,15
+NSFC,pancreas,2019,24
+NSFC,pancreas,2020,20
+NSFC,pancreas,2021,32
+NSFC,pancreas,2022,26
+NSFC,pancreas,2023,11
+NSFC,pelvis,2018,6
+NSFC,pelvis,2019,9
+NSFC,pelvis,2020,14
+NSFC,pelvis,2021,4
+NSFC,pelvis,2022,17
+NSFC,pelvis,2023,4
+NSFC,peripheral nervous system,2018,1
+NSFC,peripheral nervous system,2019,5
+NSFC,peripheral nervous system,2020,2
+NSFC,peripheral nervous system,2021,11
+NSFC,peripheral nervous system,2022,2
+NSFC,peripheral nervous system,2023,4
+NSFC,placenta,2017,3
+NSFC,placenta,2018,7
+NSFC,placenta,2019,25
+NSFC,placenta,2020,21
+NSFC,placenta,2021,29
+NSFC,placenta,2022,43
+NSFC,placenta,2023,16
+NSFC,prostate,2017,5
+NSFC,prostate,2018,30
+NSFC,prostate,2019,60
+NSFC,prostate,2020,63
+NSFC,prostate,2021,74
+NSFC,prostate,2022,95
+NSFC,prostate,2023,44
+NSFC,skeletal,2017,3
+NSFC,skeletal,2018,42
+NSFC,skeletal,2019,86
+NSFC,skeletal,2020,80
+NSFC,skeletal,2021,87
+NSFC,skeletal,2022,138
+NSFC,skeletal,2023,51
+NSFC,skin,2016,1
+NSFC,skin,2017,5
+NSFC,skin,2018,64
+NSFC,skin,2019,123
+NSFC,skin,2020,171
+NSFC,skin,2021,167
+NSFC,skin,2022,262
+NSFC,skin,2023,69
+NSFC,small intestine,2017,1
+NSFC,small intestine,2018,9
+NSFC,small intestine,2019,12
+NSFC,small intestine,2020,15
+NSFC,small intestine,2021,15
+NSFC,small intestine,2022,9
+NSFC,small intestine,2023,2
+NSFC,spinal cord,2017,6
+NSFC,spinal cord,2018,30
+NSFC,spinal cord,2019,29
+NSFC,spinal cord,2020,55
+NSFC,spinal cord,2021,77
+NSFC,spinal cord,2022,75
+NSFC,spinal cord,2023,42
+NSFC,spleen,2017,1
+NSFC,spleen,2018,29
+NSFC,spleen,2019,27
+NSFC,spleen,2020,22
+NSFC,spleen,2021,26
+NSFC,spleen,2022,20
+NSFC,spleen,2023,7
+NSFC,thymus,2017,2
+NSFC,thymus,2018,6
+NSFC,thymus,2019,11
+NSFC,thymus,2020,9
+NSFC,thymus,2021,11
+NSFC,thymus,2022,12
+NSFC,thymus,2023,3
+NSFC,trachea,2017,1
+NSFC,trachea,2018,5
+NSFC,trachea,2019,7
+NSFC,trachea,2020,10
+NSFC,trachea,2021,8
+NSFC,trachea,2022,11
+NSFC,trachea,2023,5
+NSFC,ureter,2018,8
+NSFC,ureter,2019,13
+NSFC,ureter,2020,9
+NSFC,ureter,2021,20
+NSFC,ureter,2022,21
+NSFC,ureter,2023,5
+NSFC,urinary bladder,2017,3
+NSFC,urinary bladder,2018,27
+NSFC,urinary bladder,2019,33
+NSFC,urinary bladder,2020,38
+NSFC,urinary bladder,2021,55
+NSFC,urinary bladder,2022,83
+NSFC,urinary bladder,2023,23
+NSFC,uterus,2017,2
+NSFC,uterus,2018,11
+NSFC,uterus,2019,18
+NSFC,uterus,2020,16
+NSFC,uterus,2021,20
+NSFC,uterus,2022,13
+NSFC,uterus,2023,6
+Wellcome,blood vasculature,2015,1
+Wellcome,bone marrow,1985,1
+Wellcome,bone marrow,1987,1
+Wellcome,bone marrow,1998,1
+Wellcome,bone marrow,2006,3
+Wellcome,bone marrow,2007,12
+Wellcome,bone marrow,2008,5
+Wellcome,bone marrow,2009,6
+Wellcome,bone marrow,2010,14
+Wellcome,bone marrow,2011,11
+Wellcome,bone marrow,2012,25
+Wellcome,bone marrow,2013,25
+Wellcome,bone marrow,2014,16
+Wellcome,bone marrow,2015,24
+Wellcome,bone marrow,2016,13
+Wellcome,bone marrow,2017,10
+Wellcome,bone marrow,2018,17
+Wellcome,bone marrow,2019,14
+Wellcome,bone marrow,2020,17
+Wellcome,bone marrow,2021,19
+Wellcome,bone marrow,2022,10
+Wellcome,bone marrow,2023,3
+Wellcome,brain,1975,1
+Wellcome,brain,1985,2
+Wellcome,brain,1986,1
+Wellcome,brain,1987,2
+Wellcome,brain,1988,2
+Wellcome,brain,1992,1
+Wellcome,brain,1995,1
+Wellcome,brain,1997,6
+Wellcome,brain,1998,6
+Wellcome,brain,1999,13
+Wellcome,brain,2000,12
+Wellcome,brain,2001,19
+Wellcome,brain,2002,27
+Wellcome,brain,2003,34
+Wellcome,brain,2004,32
+Wellcome,brain,2005,49
+Wellcome,brain,2006,141
+Wellcome,brain,2007,192
+Wellcome,brain,2008,178
+Wellcome,brain,2009,222
+Wellcome,brain,2010,217
+Wellcome,brain,2011,252
+Wellcome,brain,2012,363
+Wellcome,brain,2013,413
+Wellcome,brain,2014,411
+Wellcome,brain,2015,461
+Wellcome,brain,2016,389
+Wellcome,brain,2017,249
+Wellcome,brain,2018,284
+Wellcome,brain,2019,297
+Wellcome,brain,2020,409
+Wellcome,brain,2021,400
+Wellcome,brain,2022,291
+Wellcome,brain,2023,45
+Wellcome,eye,1975,1
+Wellcome,eye,1989,1
+Wellcome,eye,1995,2
+Wellcome,eye,1997,1
+Wellcome,eye,2000,2
+Wellcome,eye,2001,3
+Wellcome,eye,2002,2
+Wellcome,eye,2003,3
+Wellcome,eye,2004,3
+Wellcome,eye,2005,7
+Wellcome,eye,2006,23
+Wellcome,eye,2007,29
+Wellcome,eye,2008,32
+Wellcome,eye,2009,30
+Wellcome,eye,2010,29
+Wellcome,eye,2011,31
+Wellcome,eye,2012,28
+Wellcome,eye,2013,51
+Wellcome,eye,2014,48
+Wellcome,eye,2015,52
+Wellcome,eye,2016,20
+Wellcome,eye,2017,30
+Wellcome,eye,2018,32
+Wellcome,eye,2019,38
+Wellcome,eye,2020,27
+Wellcome,eye,2021,50
+Wellcome,eye,2022,30
+Wellcome,eye,2023,10
+Wellcome,fallopian tube,1987,1
+Wellcome,fallopian tube,2008,2
+Wellcome,fallopian tube,2012,2
+Wellcome,fallopian tube,2017,1
+Wellcome,fallopian tube,2020,1
+Wellcome,fallopian tube,2021,2
+Wellcome,heart,1973,1
+Wellcome,heart,1975,1
+Wellcome,heart,1978,1
+Wellcome,heart,1986,2
+Wellcome,heart,1987,1
+Wellcome,heart,1988,3
+Wellcome,heart,1989,4
+Wellcome,heart,1998,1
+Wellcome,heart,2000,1
+Wellcome,heart,2001,1
+Wellcome,heart,2002,2
+Wellcome,heart,2003,2
+Wellcome,heart,2004,3
+Wellcome,heart,2005,4
+Wellcome,heart,2006,16
+Wellcome,heart,2007,21
+Wellcome,heart,2008,26
+Wellcome,heart,2009,29
+Wellcome,heart,2010,52
+Wellcome,heart,2011,58
+Wellcome,heart,2012,83
+Wellcome,heart,2013,79
+Wellcome,heart,2014,97
+Wellcome,heart,2015,84
+Wellcome,heart,2016,97
+Wellcome,heart,2017,60
+Wellcome,heart,2018,84
+Wellcome,heart,2019,94
+Wellcome,heart,2020,114
+Wellcome,heart,2021,133
+Wellcome,heart,2022,89
+Wellcome,heart,2023,21
+Wellcome,kidney,1973,1
+Wellcome,kidney,1985,2
+Wellcome,kidney,1986,2
+Wellcome,kidney,1987,1
+Wellcome,kidney,1989,2
+Wellcome,kidney,1990,2
+Wellcome,kidney,1993,1
+Wellcome,kidney,1994,1
+Wellcome,kidney,1995,1
+Wellcome,kidney,1997,3
+Wellcome,kidney,1998,1
+Wellcome,kidney,2001,1
+Wellcome,kidney,2003,1
+Wellcome,kidney,2004,3
+Wellcome,kidney,2005,3
+Wellcome,kidney,2006,23
+Wellcome,kidney,2007,18
+Wellcome,kidney,2008,25
+Wellcome,kidney,2009,40
+Wellcome,kidney,2010,29
+Wellcome,kidney,2011,35
+Wellcome,kidney,2012,38
+Wellcome,kidney,2013,47
+Wellcome,kidney,2014,51
+Wellcome,kidney,2015,42
+Wellcome,kidney,2016,49
+Wellcome,kidney,2017,31
+Wellcome,kidney,2018,40
+Wellcome,kidney,2019,51
+Wellcome,kidney,2020,54
+Wellcome,kidney,2021,73
+Wellcome,kidney,2022,50
+Wellcome,kidney,2023,7
+Wellcome,knee,1974,1
+Wellcome,knee,2005,1
+Wellcome,knee,2007,1
+Wellcome,knee,2008,1
+Wellcome,knee,2009,1
+Wellcome,knee,2011,5
+Wellcome,knee,2012,2
+Wellcome,knee,2013,8
+Wellcome,knee,2014,11
+Wellcome,knee,2015,13
+Wellcome,knee,2016,8
+Wellcome,knee,2017,2
+Wellcome,knee,2018,6
+Wellcome,knee,2019,9
+Wellcome,knee,2020,7
+Wellcome,knee,2021,3
+Wellcome,knee,2022,6
+Wellcome,large intestine,2008,2
+Wellcome,large intestine,2009,3
+Wellcome,large intestine,2010,2
+Wellcome,large intestine,2014,2
+Wellcome,large intestine,2015,1
+Wellcome,large intestine,2016,1
+Wellcome,large intestine,2019,1
+Wellcome,large intestine,2022,1
+Wellcome,liver,1969,1
+Wellcome,liver,1972,1
+Wellcome,liver,1973,1
+Wellcome,liver,1975,2
+Wellcome,liver,1985,3
+Wellcome,liver,1986,2
+Wellcome,liver,1989,3
+Wellcome,liver,1997,1
+Wellcome,liver,2000,1
+Wellcome,liver,2002,1
+Wellcome,liver,2003,2
+Wellcome,liver,2004,6
+Wellcome,liver,2005,10
+Wellcome,liver,2006,20
+Wellcome,liver,2007,47
+Wellcome,liver,2008,57
+Wellcome,liver,2009,57
+Wellcome,liver,2010,72
+Wellcome,liver,2011,67
+Wellcome,liver,2012,100
+Wellcome,liver,2013,117
+Wellcome,liver,2014,137
+Wellcome,liver,2015,167
+Wellcome,liver,2016,121
+Wellcome,liver,2017,102
+Wellcome,liver,2018,111
+Wellcome,liver,2019,121
+Wellcome,liver,2020,162
+Wellcome,liver,2021,176
+Wellcome,liver,2022,125
+Wellcome,liver,2023,21
+Wellcome,lung,1972,1
+Wellcome,lung,1985,1
+Wellcome,lung,1986,1
+Wellcome,lung,1987,2
+Wellcome,lung,1988,1
+Wellcome,lung,1996,2
+Wellcome,lung,1998,3
+Wellcome,lung,1999,3
+Wellcome,lung,2000,3
+Wellcome,lung,2001,1
+Wellcome,lung,2002,1
+Wellcome,lung,2003,5
+Wellcome,lung,2004,4
+Wellcome,lung,2005,6
+Wellcome,lung,2006,18
+Wellcome,lung,2007,31
+Wellcome,lung,2008,30
+Wellcome,lung,2009,39
+Wellcome,lung,2010,35
+Wellcome,lung,2011,46
+Wellcome,lung,2012,64
+Wellcome,lung,2013,70
+Wellcome,lung,2014,84
+Wellcome,lung,2015,90
+Wellcome,lung,2016,65
+Wellcome,lung,2017,50
+Wellcome,lung,2018,83
+Wellcome,lung,2019,87
+Wellcome,lung,2020,96
+Wellcome,lung,2021,103
+Wellcome,lung,2022,88
+Wellcome,lung,2023,17
+Wellcome,lymph node,1986,1
+Wellcome,lymph node,1989,1
+Wellcome,lymph node,1999,1
+Wellcome,lymph node,2003,2
+Wellcome,lymph node,2004,1
+Wellcome,lymph node,2005,3
+Wellcome,lymph node,2006,4
+Wellcome,lymph node,2007,7
+Wellcome,lymph node,2008,6
+Wellcome,lymph node,2009,8
+Wellcome,lymph node,2010,11
+Wellcome,lymph node,2011,7
+Wellcome,lymph node,2012,7
+Wellcome,lymph node,2013,4
+Wellcome,lymph node,2014,20
+Wellcome,lymph node,2015,13
+Wellcome,lymph node,2016,11
+Wellcome,lymph node,2017,4
+Wellcome,lymph node,2018,7
+Wellcome,lymph node,2019,10
+Wellcome,lymph node,2020,12
+Wellcome,lymph node,2021,7
+Wellcome,lymph node,2022,7
+Wellcome,lymph node,2023,1
+Wellcome,lymph vasculature,2019,1
+Wellcome,lymph vasculature,2022,1
+Wellcome,muscular system,2014,1
+Wellcome,muscular system,2016,1
+Wellcome,ovary,1985,1
+Wellcome,ovary,1987,1
+Wellcome,ovary,2003,1
+Wellcome,ovary,2004,2
+Wellcome,ovary,2005,1
+Wellcome,ovary,2006,2
+Wellcome,ovary,2007,6
+Wellcome,ovary,2008,7
+Wellcome,ovary,2009,6
+Wellcome,ovary,2010,7
+Wellcome,ovary,2011,8
+Wellcome,ovary,2012,6
+Wellcome,ovary,2013,5
+Wellcome,ovary,2014,11
+Wellcome,ovary,2015,4
+Wellcome,ovary,2016,5
+Wellcome,ovary,2017,5
+Wellcome,ovary,2018,6
+Wellcome,ovary,2019,4
+Wellcome,ovary,2020,8
+Wellcome,ovary,2021,12
+Wellcome,ovary,2022,9
+Wellcome,ovary,2023,2
+Wellcome,pancreas,1975,1
+Wellcome,pancreas,1988,1
+Wellcome,pancreas,2003,1
+Wellcome,pancreas,2005,1
+Wellcome,pancreas,2007,3
+Wellcome,pancreas,2008,5
+Wellcome,pancreas,2009,4
+Wellcome,pancreas,2010,6
+Wellcome,pancreas,2011,7
+Wellcome,pancreas,2012,5
+Wellcome,pancreas,2013,10
+Wellcome,pancreas,2014,16
+Wellcome,pancreas,2015,16
+Wellcome,pancreas,2016,7
+Wellcome,pancreas,2017,7
+Wellcome,pancreas,2018,10
+Wellcome,pancreas,2019,13
+Wellcome,pancreas,2020,15
+Wellcome,pancreas,2021,9
+Wellcome,pancreas,2022,4
+Wellcome,pelvis,1986,1
+Wellcome,pelvis,2012,1
+Wellcome,pelvis,2013,1
+Wellcome,pelvis,2014,1
+Wellcome,pelvis,2015,1
+Wellcome,pelvis,2016,1
+Wellcome,peripheral nervous system,1985,1
+Wellcome,peripheral nervous system,2005,2
+Wellcome,peripheral nervous system,2007,4
+Wellcome,peripheral nervous system,2008,3
+Wellcome,peripheral nervous system,2009,6
+Wellcome,peripheral nervous system,2010,2
+Wellcome,peripheral nervous system,2011,2
+Wellcome,peripheral nervous system,2012,4
+Wellcome,peripheral nervous system,2013,3
+Wellcome,peripheral nervous system,2014,10
+Wellcome,peripheral nervous system,2015,4
+Wellcome,peripheral nervous system,2016,7
+Wellcome,peripheral nervous system,2017,4
+Wellcome,peripheral nervous system,2018,4
+Wellcome,peripheral nervous system,2019,1
+Wellcome,peripheral nervous system,2020,3
+Wellcome,peripheral nervous system,2021,5
+Wellcome,peripheral nervous system,2022,2
+Wellcome,placenta,1980,1
+Wellcome,placenta,1985,1
+Wellcome,placenta,1999,1
+Wellcome,placenta,2000,3
+Wellcome,placenta,2004,2
+Wellcome,placenta,2005,2
+Wellcome,placenta,2006,12
+Wellcome,placenta,2007,8
+Wellcome,placenta,2008,11
+Wellcome,placenta,2009,14
+Wellcome,placenta,2010,14
+Wellcome,placenta,2011,16
+Wellcome,placenta,2012,14
+Wellcome,placenta,2013,16
+Wellcome,placenta,2014,15
+Wellcome,placenta,2015,18
+Wellcome,placenta,2016,20
+Wellcome,placenta,2017,10
+Wellcome,placenta,2018,14
+Wellcome,placenta,2019,23
+Wellcome,placenta,2020,25
+Wellcome,placenta,2021,30
+Wellcome,placenta,2022,18
+Wellcome,placenta,2023,7
+Wellcome,prostate,1976,1
+Wellcome,prostate,1988,1
+Wellcome,prostate,2006,1
+Wellcome,prostate,2007,5
+Wellcome,prostate,2008,3
+Wellcome,prostate,2009,2
+Wellcome,prostate,2010,3
+Wellcome,prostate,2011,6
+Wellcome,prostate,2012,4
+Wellcome,prostate,2013,5
+Wellcome,prostate,2014,7
+Wellcome,prostate,2015,11
+Wellcome,prostate,2016,5
+Wellcome,prostate,2017,5
+Wellcome,prostate,2018,5
+Wellcome,prostate,2019,2
+Wellcome,prostate,2020,34
+Wellcome,prostate,2021,33
+Wellcome,prostate,2022,11
+Wellcome,prostate,2023,6
+Wellcome,skeletal,1998,1
+Wellcome,skeletal,1999,1
+Wellcome,skeletal,2000,2
+Wellcome,skeletal,2001,1
+Wellcome,skeletal,2003,7
+Wellcome,skeletal,2004,4
+Wellcome,skeletal,2005,10
+Wellcome,skeletal,2006,26
+Wellcome,skeletal,2007,26
+Wellcome,skeletal,2008,55
+Wellcome,skeletal,2009,54
+Wellcome,skeletal,2010,43
+Wellcome,skeletal,2011,37
+Wellcome,skeletal,2012,66
+Wellcome,skeletal,2013,89
+Wellcome,skeletal,2014,73
+Wellcome,skeletal,2015,62
+Wellcome,skeletal,2016,43
+Wellcome,skeletal,2017,45
+Wellcome,skeletal,2018,53
+Wellcome,skeletal,2019,44
+Wellcome,skeletal,2020,45
+Wellcome,skeletal,2021,55
+Wellcome,skeletal,2022,38
+Wellcome,skeletal,2023,4
+Wellcome,skin,1975,1
+Wellcome,skin,1979,1
+Wellcome,skin,1985,1
+Wellcome,skin,1986,1
+Wellcome,skin,1988,1
+Wellcome,skin,1989,1
+Wellcome,skin,2001,3
+Wellcome,skin,2002,2
+Wellcome,skin,2003,2
+Wellcome,skin,2004,4
+Wellcome,skin,2005,7
+Wellcome,skin,2006,26
+Wellcome,skin,2007,28
+Wellcome,skin,2008,35
+Wellcome,skin,2009,32
+Wellcome,skin,2010,48
+Wellcome,skin,2011,44
+Wellcome,skin,2012,71
+Wellcome,skin,2013,71
+Wellcome,skin,2014,82
+Wellcome,skin,2015,73
+Wellcome,skin,2016,47
+Wellcome,skin,2017,36
+Wellcome,skin,2018,43
+Wellcome,skin,2019,52
+Wellcome,skin,2020,65
+Wellcome,skin,2021,64
+Wellcome,skin,2022,31
+Wellcome,skin,2023,4
+Wellcome,small intestine,2003,1
+Wellcome,small intestine,2006,1
+Wellcome,small intestine,2007,4
+Wellcome,small intestine,2008,3
+Wellcome,small intestine,2009,4
+Wellcome,small intestine,2010,2
+Wellcome,small intestine,2011,4
+Wellcome,small intestine,2012,6
+Wellcome,small intestine,2013,4
+Wellcome,small intestine,2014,5
+Wellcome,small intestine,2015,8
+Wellcome,small intestine,2016,5
+Wellcome,small intestine,2017,3
+Wellcome,small intestine,2018,5
+Wellcome,small intestine,2019,5
+Wellcome,small intestine,2020,4
+Wellcome,small intestine,2021,6
+Wellcome,small intestine,2022,6
+Wellcome,small intestine,2023,1
+Wellcome,spinal cord,1985,1
+Wellcome,spinal cord,1988,1
+Wellcome,spinal cord,2003,1
+Wellcome,spinal cord,2004,1
+Wellcome,spinal cord,2005,1
+Wellcome,spinal cord,2006,13
+Wellcome,spinal cord,2007,14
+Wellcome,spinal cord,2008,17
+Wellcome,spinal cord,2009,15
+Wellcome,spinal cord,2010,18
+Wellcome,spinal cord,2011,18
+Wellcome,spinal cord,2012,24
+Wellcome,spinal cord,2013,27
+Wellcome,spinal cord,2014,27
+Wellcome,spinal cord,2015,35
+Wellcome,spinal cord,2016,16
+Wellcome,spinal cord,2017,18
+Wellcome,spinal cord,2018,25
+Wellcome,spinal cord,2019,19
+Wellcome,spinal cord,2020,23
+Wellcome,spinal cord,2021,24
+Wellcome,spinal cord,2022,17
+Wellcome,spinal cord,2023,5
+Wellcome,spleen,1973,1
+Wellcome,spleen,1988,1
+Wellcome,spleen,1989,1
+Wellcome,spleen,2003,2
+Wellcome,spleen,2004,1
+Wellcome,spleen,2005,4
+Wellcome,spleen,2006,5
+Wellcome,spleen,2007,4
+Wellcome,spleen,2008,12
+Wellcome,spleen,2009,10
+Wellcome,spleen,2010,9
+Wellcome,spleen,2011,13
+Wellcome,spleen,2012,14
+Wellcome,spleen,2013,12
+Wellcome,spleen,2014,16
+Wellcome,spleen,2015,12
+Wellcome,spleen,2016,4
+Wellcome,spleen,2017,2
+Wellcome,spleen,2018,5
+Wellcome,spleen,2019,5
+Wellcome,spleen,2020,9
+Wellcome,spleen,2021,14
+Wellcome,spleen,2022,4
+Wellcome,thymus,2002,1
+Wellcome,thymus,2003,2
+Wellcome,thymus,2004,1
+Wellcome,thymus,2005,3
+Wellcome,thymus,2006,3
+Wellcome,thymus,2007,7
+Wellcome,thymus,2008,7
+Wellcome,thymus,2009,4
+Wellcome,thymus,2010,4
+Wellcome,thymus,2011,8
+Wellcome,thymus,2012,8
+Wellcome,thymus,2013,9
+Wellcome,thymus,2014,2
+Wellcome,thymus,2015,4
+Wellcome,thymus,2016,5
+Wellcome,thymus,2017,1
+Wellcome,thymus,2018,7
+Wellcome,thymus,2020,9
+Wellcome,thymus,2021,10
+Wellcome,thymus,2022,2
+Wellcome,trachea,1969,1
+Wellcome,trachea,2003,1
+Wellcome,trachea,2004,1
+Wellcome,trachea,2006,2
+Wellcome,trachea,2008,1
+Wellcome,trachea,2009,4
+Wellcome,trachea,2010,2
+Wellcome,trachea,2011,3
+Wellcome,trachea,2012,2
+Wellcome,trachea,2013,3
+Wellcome,trachea,2014,5
+Wellcome,trachea,2015,4
+Wellcome,trachea,2016,5
+Wellcome,trachea,2017,3
+Wellcome,trachea,2018,3
+Wellcome,trachea,2019,2
+Wellcome,trachea,2021,5
+Wellcome,trachea,2022,3
+Wellcome,trachea,2023,1
+Wellcome,ureter,2006,1
+Wellcome,ureter,2008,1
+Wellcome,ureter,2010,1
+Wellcome,ureter,2011,2
+Wellcome,ureter,2012,2
+Wellcome,ureter,2013,1
+Wellcome,ureter,2014,2
+Wellcome,ureter,2015,1
+Wellcome,ureter,2017,1
+Wellcome,ureter,2018,1
+Wellcome,ureter,2019,1
+Wellcome,ureter,2020,1
+Wellcome,ureter,2022,1
+Wellcome,urinary bladder,1985,1
+Wellcome,urinary bladder,1986,5
+Wellcome,urinary bladder,2008,3
+Wellcome,urinary bladder,2009,4
+Wellcome,urinary bladder,2010,4
+Wellcome,urinary bladder,2011,2
+Wellcome,urinary bladder,2012,2
+Wellcome,urinary bladder,2013,7
+Wellcome,urinary bladder,2014,4
+Wellcome,urinary bladder,2015,1
+Wellcome,urinary bladder,2016,4
+Wellcome,urinary bladder,2017,3
+Wellcome,urinary bladder,2018,5
+Wellcome,urinary bladder,2019,3
+Wellcome,urinary bladder,2020,6
+Wellcome,urinary bladder,2021,2
+Wellcome,urinary bladder,2022,6
+Wellcome,urinary bladder,2023,1
+Wellcome,uterus,2004,1
+Wellcome,uterus,2007,2
+Wellcome,uterus,2008,2
+Wellcome,uterus,2009,5
+Wellcome,uterus,2010,6
+Wellcome,uterus,2011,3
+Wellcome,uterus,2012,2
+Wellcome,uterus,2013,2
+Wellcome,uterus,2014,2
+Wellcome,uterus,2015,5
+Wellcome,uterus,2016,7
+Wellcome,uterus,2017,2
+Wellcome,uterus,2018,5
+Wellcome,uterus,2019,5
+Wellcome,uterus,2020,8
+Wellcome,uterus,2021,12
+Wellcome,uterus,2022,9
+Wellcome,uterus,2023,1

@@ -1,0 +1,11 @@
+.DS_Store
+**/.DS_Store
+~$*
+.ipynb_checkpoints/
+__pycache__/
+
+# Large dataset files (>100MB GitHub limit)
+Raw Data/hralit.sql.gz
+Raw Data/hralit_publication.csv.gz
+Raw Data/hralit_publication_subject.csv.gz
+Raw Data/hralit_pub_funding_funder.csv.gz

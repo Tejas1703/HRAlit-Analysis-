@@ -1,0 +1,2239 @@
+organ,year,pub_count
+blood vasculature,1964,3
+blood vasculature,1966,1
+blood vasculature,1968,1
+blood vasculature,1970,1
+blood vasculature,1971,2
+blood vasculature,1972,2
+blood vasculature,1974,1
+blood vasculature,1977,5
+blood vasculature,1978,1
+blood vasculature,1979,2
+blood vasculature,1980,2
+blood vasculature,1981,1
+blood vasculature,1982,1
+blood vasculature,1983,2
+blood vasculature,1984,3
+blood vasculature,1985,2
+blood vasculature,1986,2
+blood vasculature,1987,3
+blood vasculature,1988,3
+blood vasculature,1989,4
+blood vasculature,1991,3
+blood vasculature,1992,5
+blood vasculature,1993,2
+blood vasculature,1994,4
+blood vasculature,1995,2
+blood vasculature,1996,6
+blood vasculature,1997,4
+blood vasculature,1998,6
+blood vasculature,1999,7
+blood vasculature,2000,2
+blood vasculature,2001,4
+blood vasculature,2002,3
+blood vasculature,2003,4
+blood vasculature,2004,4
+blood vasculature,2005,5
+blood vasculature,2006,5
+blood vasculature,2007,11
+blood vasculature,2008,10
+blood vasculature,2009,12
+blood vasculature,2010,9
+blood vasculature,2011,8
+blood vasculature,2012,18
+blood vasculature,2013,13
+blood vasculature,2014,10
+blood vasculature,2015,11
+blood vasculature,2016,11
+blood vasculature,2017,11
+blood vasculature,2018,13
+blood vasculature,2019,6
+blood vasculature,2020,29
+blood vasculature,2021,19
+blood vasculature,2022,7
+blood vasculature,2023,4
+bone marrow,1950,198
+bone marrow,1951,223
+bone marrow,1952,215
+bone marrow,1953,229
+bone marrow,1954,201
+bone marrow,1955,236
+bone marrow,1956,254
+bone marrow,1957,211
+bone marrow,1958,228
+bone marrow,1959,305
+bone marrow,1960,297
+bone marrow,1961,376
+bone marrow,1962,396
+bone marrow,1963,583
+bone marrow,1964,1105
+bone marrow,1965,773
+bone marrow,1966,755
+bone marrow,1967,985
+bone marrow,1968,1252
+bone marrow,1969,1330
+bone marrow,1970,1418
+bone marrow,1971,1670
+bone marrow,1972,1660
+bone marrow,1973,1686
+bone marrow,1974,1785
+bone marrow,1975,1680
+bone marrow,1976,1447
+bone marrow,1977,1578
+bone marrow,1978,1744
+bone marrow,1979,1795
+bone marrow,1980,1776
+bone marrow,1981,1920
+bone marrow,1982,1973
+bone marrow,1983,1995
+bone marrow,1984,2270
+bone marrow,1985,2511
+bone marrow,1986,2543
+bone marrow,1987,2662
+bone marrow,1988,2635
+bone marrow,1989,3030
+bone marrow,1990,3019
+bone marrow,1991,3160
+bone marrow,1992,3259
+bone marrow,1993,3408
+bone marrow,1994,3495
+bone marrow,1995,3565
+bone marrow,1996,3384
+bone marrow,1997,3293
+bone marrow,1998,3115
+bone marrow,1999,3126
+bone marrow,2000,3187
+bone marrow,2001,3206
+bone marrow,2002,3234
+bone marrow,2003,3322
+bone marrow,2004,3282
+bone marrow,2005,3411
+bone marrow,2006,3474
+bone marrow,2007,3462
+bone marrow,2008,3532
+bone marrow,2009,3558
+bone marrow,2010,3685
+bone marrow,2011,3925
+bone marrow,2012,3986
+bone marrow,2013,4208
+bone marrow,2014,4047
+bone marrow,2015,4158
+bone marrow,2016,3859
+bone marrow,2017,3563
+bone marrow,2018,3515
+bone marrow,2019,3489
+bone marrow,2020,3417
+bone marrow,2021,3438
+bone marrow,2022,2609
+bone marrow,2023,617
+brain,1950,972
+brain,1951,1065
+brain,1952,1085
+brain,1953,1314
+brain,1954,1406
+brain,1955,1392
+brain,1956,1526
+brain,1957,1581
+brain,1958,1446
+brain,1959,1657
+brain,1960,1729
+brain,1961,2173
+brain,1962,2026
+brain,1963,3203
+brain,1964,4251
+brain,1965,3903
+brain,1966,4051
+brain,1967,4705
+brain,1968,5447
+brain,1969,5741
+brain,1970,6158
+brain,1971,6853
+brain,1972,6954
+brain,1973,6978
+brain,1974,7571
+brain,1975,7861
+brain,1976,7452
+brain,1977,7736
+brain,1978,8109
+brain,1979,8726
+brain,1980,8834
+brain,1981,9254
+brain,1982,9748
+brain,1983,10042
+brain,1984,10825
+brain,1985,11185
+brain,1986,11621
+brain,1987,11340
+brain,1988,11933
+brain,1989,12184
+brain,1990,13468
+brain,1991,13489
+brain,1992,13976
+brain,1993,14326
+brain,1994,15173
+brain,1995,15069
+brain,1996,15267
+brain,1997,15854
+brain,1998,16099
+brain,1999,17081
+brain,2000,18076
+brain,2001,18008
+brain,2002,17585
+brain,2003,19202
+brain,2004,20477
+brain,2005,21894
+brain,2006,23339
+brain,2007,23697
+brain,2008,25353
+brain,2009,27103
+brain,2010,27726
+brain,2011,28738
+brain,2012,31496
+brain,2013,33731
+brain,2014,34638
+brain,2015,34984
+brain,2016,34614
+brain,2017,35493
+brain,2018,36683
+brain,2019,38282
+brain,2020,38724
+brain,2021,39990
+brain,2022,36876
+brain,2023,8699
+eye,1950,868
+eye,1951,1016
+eye,1952,1245
+eye,1953,1140
+eye,1954,1144
+eye,1955,1285
+eye,1956,1130
+eye,1957,1231
+eye,1958,1190
+eye,1959,1111
+eye,1960,1012
+eye,1961,1256
+eye,1962,1143
+eye,1963,1526
+eye,1964,2260
+eye,1965,2067
+eye,1966,2202
+eye,1967,2494
+eye,1968,2824
+eye,1969,3110
+eye,1970,2770
+eye,1971,2867
+eye,1972,3008
+eye,1973,2805
+eye,1974,2884
+eye,1975,2899
+eye,1976,2750
+eye,1977,2786
+eye,1978,2709
+eye,1979,2941
+eye,1980,2704
+eye,1981,2717
+eye,1982,2900
+eye,1983,3031
+eye,1984,2893
+eye,1985,3197
+eye,1986,3206
+eye,1987,3297
+eye,1988,3327
+eye,1989,3338
+eye,1990,3481
+eye,1991,3498
+eye,1992,3718
+eye,1993,3475
+eye,1994,3451
+eye,1995,3551
+eye,1996,3657
+eye,1997,3865
+eye,1998,3966
+eye,1999,4072
+eye,2000,4169
+eye,2001,4374
+eye,2002,4656
+eye,2003,4804
+eye,2004,4868
+eye,2005,5082
+eye,2006,5430
+eye,2007,5455
+eye,2008,5599
+eye,2009,5511
+eye,2010,5867
+eye,2011,6172
+eye,2012,6443
+eye,2013,7013
+eye,2014,7097
+eye,2015,7270
+eye,2016,7345
+eye,2017,7235
+eye,2018,7821
+eye,2019,8038
+eye,2020,8340
+eye,2021,8783
+eye,2022,8569
+eye,2023,1864
+fallopian tube,1950,68
+fallopian tube,1951,63
+fallopian tube,1952,105
+fallopian tube,1953,82
+fallopian tube,1954,84
+fallopian tube,1955,80
+fallopian tube,1956,108
+fallopian tube,1957,88
+fallopian tube,1958,78
+fallopian tube,1959,75
+fallopian tube,1960,69
+fallopian tube,1961,61
+fallopian tube,1962,85
+fallopian tube,1963,121
+fallopian tube,1964,124
+fallopian tube,1965,65
+fallopian tube,1966,99
+fallopian tube,1967,124
+fallopian tube,1968,179
+fallopian tube,1969,175
+fallopian tube,1970,189
+fallopian tube,1971,207
+fallopian tube,1972,235
+fallopian tube,1973,250
+fallopian tube,1974,267
+fallopian tube,1975,250
+fallopian tube,1976,222
+fallopian tube,1977,245
+fallopian tube,1978,239
+fallopian tube,1979,218
+fallopian tube,1980,241
+fallopian tube,1981,267
+fallopian tube,1982,242
+fallopian tube,1983,236
+fallopian tube,1984,268
+fallopian tube,1985,287
+fallopian tube,1986,279
+fallopian tube,1987,288
+fallopian tube,1988,265
+fallopian tube,1989,285
+fallopian tube,1990,284
+fallopian tube,1991,304
+fallopian tube,1992,269
+fallopian tube,1993,354
+fallopian tube,1994,319
+fallopian tube,1995,338
+fallopian tube,1996,283
+fallopian tube,1997,274
+fallopian tube,1998,283
+fallopian tube,1999,263
+fallopian tube,2000,276
+fallopian tube,2001,269
+fallopian tube,2002,267
+fallopian tube,2003,283
+fallopian tube,2004,256
+fallopian tube,2005,257
+fallopian tube,2006,255
+fallopian tube,2007,255
+fallopian tube,2008,256
+fallopian tube,2009,306
+fallopian tube,2010,279
+fallopian tube,2011,307
+fallopian tube,2012,292
+fallopian tube,2013,314
+fallopian tube,2014,328
+fallopian tube,2015,316
+fallopian tube,2016,289
+fallopian tube,2017,281
+fallopian tube,2018,248
+fallopian tube,2019,265
+fallopian tube,2020,311
+fallopian tube,2021,263
+fallopian tube,2022,241
+fallopian tube,2023,46
+heart,1950,1887
+heart,1951,2063
+heart,1952,2255
+heart,1953,2438
+heart,1954,2470
+heart,1955,2515
+heart,1956,2644
+heart,1957,2946
+heart,1958,2903
+heart,1959,3383
+heart,1960,3278
+heart,1961,3504
+heart,1962,4021
+heart,1963,5160
+heart,1964,6652
+heart,1965,5773
+heart,1966,5887
+heart,1967,6858
+heart,1968,7789
+heart,1969,8438
+heart,1970,8267
+heart,1971,9063
+heart,1972,9540
+heart,1973,9980
+heart,1974,9814
+heart,1975,9727
+heart,1976,8986
+heart,1977,9254
+heart,1978,9394
+heart,1979,9802
+heart,1980,10068
+heart,1981,10125
+heart,1982,10865
+heart,1983,11176
+heart,1984,12201
+heart,1985,12473
+heart,1986,12314
+heart,1987,12890
+heart,1988,12905
+heart,1989,13740
+heart,1990,13877
+heart,1991,13608
+heart,1992,13108
+heart,1993,13647
+heart,1994,13217
+heart,1995,13422
+heart,1996,13513
+heart,1997,13992
+heart,1998,14399
+heart,1999,14405
+heart,2000,15170
+heart,2001,15020
+heart,2002,15424
+heart,2003,16407
+heart,2004,17013
+heart,2005,17661
+heart,2006,18365
+heart,2007,19178
+heart,2008,19067
+heart,2009,19893
+heart,2010,20599
+heart,2011,21255
+heart,2012,22191
+heart,2013,23832
+heart,2014,24334
+heart,2015,24967
+heart,2016,25130
+heart,2017,25057
+heart,2018,25571
+heart,2019,26591
+heart,2020,29165
+heart,2021,30434
+heart,2022,29053
+heart,2023,6145
+kidney,1950,1138
+kidney,1951,1273
+kidney,1952,1371
+kidney,1953,1477
+kidney,1954,1522
+kidney,1955,1560
+kidney,1956,1631
+kidney,1957,1753
+kidney,1958,1671
+kidney,1959,1771
+kidney,1960,1803
+kidney,1961,2086
+kidney,1962,2260
+kidney,1963,3342
+kidney,1964,4858
+kidney,1965,4146
+kidney,1966,4356
+kidney,1967,5112
+kidney,1968,6416
+kidney,1969,7150
+kidney,1970,7363
+kidney,1971,8041
+kidney,1972,8560
+kidney,1973,8545
+kidney,1974,9135
+kidney,1975,8304
+kidney,1976,7529
+kidney,1977,7535
+kidney,1978,7707
+kidney,1979,8167
+kidney,1980,8371
+kidney,1981,8399
+kidney,1982,8630
+kidney,1983,8775
+kidney,1984,9325
+kidney,1985,9511
+kidney,1986,9485
+kidney,1987,9856
+kidney,1988,9907
+kidney,1989,10626
+kidney,1990,10414
+kidney,1991,10399
+kidney,1992,10541
+kidney,1993,10239
+kidney,1994,10652
+kidney,1995,10650
+kidney,1996,11105
+kidney,1997,10632
+kidney,1998,11023
+kidney,1999,10146
+kidney,2000,10538
+kidney,2001,10511
+kidney,2002,11353
+kidney,2003,12176
+kidney,2004,12470
+kidney,2005,13019
+kidney,2006,13245
+kidney,2007,13342
+kidney,2008,14126
+kidney,2009,14622
+kidney,2010,14962
+kidney,2011,15802
+kidney,2012,16784
+kidney,2013,17258
+kidney,2014,17858
+kidney,2015,18088
+kidney,2016,18120
+kidney,2017,18158
+kidney,2018,18499
+kidney,2019,19284
+kidney,2020,20838
+kidney,2021,21978
+kidney,2022,21163
+kidney,2023,4575
+knee,1950,101
+knee,1951,131
+knee,1952,155
+knee,1953,185
+knee,1954,206
+knee,1955,197
+knee,1956,187
+knee,1957,200
+knee,1958,212
+knee,1959,174
+knee,1960,172
+knee,1961,201
+knee,1962,209
+knee,1963,267
+knee,1964,341
+knee,1965,310
+knee,1966,327
+knee,1967,384
+knee,1968,440
+knee,1969,479
+knee,1970,553
+knee,1971,591
+knee,1972,609
+knee,1973,642
+knee,1974,674
+knee,1975,685
+knee,1976,542
+knee,1977,628
+knee,1978,609
+knee,1979,696
+knee,1980,685
+knee,1981,666
+knee,1982,790
+knee,1983,853
+knee,1984,776
+knee,1985,880
+knee,1986,947
+knee,1987,924
+knee,1988,1018
+knee,1989,1066
+knee,1990,1151
+knee,1991,1170
+knee,1992,1033
+knee,1993,1231
+knee,1994,1296
+knee,1995,1338
+knee,1996,1383
+knee,1997,1507
+knee,1998,1560
+knee,1999,1556
+knee,2000,1663
+knee,2001,1846
+knee,2002,1936
+knee,2003,2175
+knee,2004,2351
+knee,2005,2501
+knee,2006,2651
+knee,2007,2837
+knee,2008,3008
+knee,2009,3252
+knee,2010,3524
+knee,2011,3697
+knee,2012,4357
+knee,2013,4705
+knee,2014,5198
+knee,2015,5426
+knee,2016,5391
+knee,2017,5676
+knee,2018,5869
+knee,2019,6204
+knee,2020,6680
+knee,2021,7509
+knee,2022,7741
+knee,2023,1869
+large intestine,1950,38
+large intestine,1951,51
+large intestine,1952,66
+large intestine,1953,65
+large intestine,1954,66
+large intestine,1955,75
+large intestine,1956,74
+large intestine,1957,75
+large intestine,1958,96
+large intestine,1959,92
+large intestine,1960,76
+large intestine,1961,106
+large intestine,1962,92
+large intestine,1963,93
+large intestine,1964,91
+large intestine,1965,111
+large intestine,1966,109
+large intestine,1967,167
+large intestine,1968,161
+large intestine,1969,183
+large intestine,1970,175
+large intestine,1971,219
+large intestine,1972,186
+large intestine,1973,197
+large intestine,1974,212
+large intestine,1975,197
+large intestine,1976,214
+large intestine,1977,180
+large intestine,1978,153
+large intestine,1979,197
+large intestine,1980,188
+large intestine,1981,198
+large intestine,1982,164
+large intestine,1983,234
+large intestine,1984,207
+large intestine,1985,183
+large intestine,1986,222
+large intestine,1987,199
+large intestine,1988,186
+large intestine,1989,192
+large intestine,1990,168
+large intestine,1991,140
+large intestine,1992,127
+large intestine,1993,133
+large intestine,1994,132
+large intestine,1995,128
+large intestine,1996,135
+large intestine,1997,144
+large intestine,1998,113
+large intestine,1999,116
+large intestine,2000,125
+large intestine,2001,97
+large intestine,2002,102
+large intestine,2003,100
+large intestine,2004,105
+large intestine,2005,106
+large intestine,2006,104
+large intestine,2007,106
+large intestine,2008,109
+large intestine,2009,117
+large intestine,2010,107
+large intestine,2011,108
+large intestine,2012,126
+large intestine,2013,106
+large intestine,2014,106
+large intestine,2015,98
+large intestine,2016,102
+large intestine,2017,79
+large intestine,2018,77
+large intestine,2019,85
+large intestine,2020,79
+large intestine,2021,74
+large intestine,2022,48
+large intestine,2023,7
+liver,1950,1426
+liver,1951,1689
+liver,1952,2080
+liver,1953,2310
+liver,1954,2128
+liver,1955,2271
+liver,1956,2317
+liver,1957,2357
+liver,1958,2389
+liver,1959,2521
+liver,1960,2456
+liver,1961,2726
+liver,1962,3079
+liver,1963,5001
+liver,1964,6775
+liver,1965,5817
+liver,1966,6231
+liver,1967,7497
+liver,1968,9003
+liver,1969,9967
+liver,1970,10172
+liver,1971,11457
+liver,1972,12225
+liver,1973,12395
+liver,1974,12667
+liver,1975,12174
+liver,1976,11536
+liver,1977,11373
+liver,1978,11728
+liver,1979,11884
+liver,1980,12177
+liver,1981,11894
+liver,1982,12321
+liver,1983,12993
+liver,1984,13543
+liver,1985,13582
+liver,1986,13369
+liver,1987,13371
+liver,1988,13436
+liver,1989,14691
+liver,1990,14676
+liver,1991,14855
+liver,1992,14865
+liver,1993,15187
+liver,1994,15406
+liver,1995,16156
+liver,1996,16035
+liver,1997,15878
+liver,1998,16049
+liver,1999,15786
+liver,2000,16698
+liver,2001,16444
+liver,2002,17466
+liver,2003,18572
+liver,2004,19700
+liver,2005,20563
+liver,2006,21432
+liver,2007,22403
+liver,2008,23790
+liver,2009,24704
+liver,2010,26885
+liver,2011,28629
+liver,2012,31483
+liver,2013,32963
+liver,2014,35161
+liver,2015,37704
+liver,2016,37565
+liver,2017,38058
+liver,2018,39776
+liver,2019,42026
+liver,2020,46642
+liver,2021,50587
+liver,2022,49455
+liver,2023,11214
+lung,1950,1314
+lung,1951,1511
+lung,1952,1739
+lung,1953,1786
+lung,1954,1826
+lung,1955,1886
+lung,1956,1804
+lung,1957,1909
+lung,1958,1799
+lung,1959,1863
+lung,1960,1828
+lung,1961,1921
+lung,1962,2024
+lung,1963,2481
+lung,1964,3265
+lung,1965,2972
+lung,1966,3074
+lung,1967,3688
+lung,1968,4247
+lung,1969,4368
+lung,1970,4736
+lung,1971,4963
+lung,1972,4937
+lung,1973,5423
+lung,1974,5518
+lung,1975,5203
+lung,1976,4833
+lung,1977,4955
+lung,1978,5189
+lung,1979,5805
+lung,1980,5961
+lung,1981,6008
+lung,1982,6503
+lung,1983,7060
+lung,1984,7272
+lung,1985,7386
+lung,1986,7559
+lung,1987,7494
+lung,1988,7722
+lung,1989,8031
+lung,1990,8394
+lung,1991,7829
+lung,1992,8080
+lung,1993,8257
+lung,1994,8934
+lung,1995,8904
+lung,1996,9056
+lung,1997,9242
+lung,1998,9172
+lung,1999,9284
+lung,2000,9874
+lung,2001,9728
+lung,2002,9512
+lung,2003,9887
+lung,2004,10717
+lung,2005,11103
+lung,2006,11625
+lung,2007,11863
+lung,2008,12330
+lung,2009,12961
+lung,2010,14124
+lung,2011,15042
+lung,2012,16477
+lung,2013,17734
+lung,2014,18765
+lung,2015,20028
+lung,2016,19824
+lung,2017,20476
+lung,2018,21498
+lung,2019,22874
+lung,2020,26866
+lung,2021,28336
+lung,2022,27814
+lung,2023,6053
+lymph node,1950,192
+lymph node,1951,204
+lymph node,1952,212
+lymph node,1953,228
+lymph node,1954,251
+lymph node,1955,293
+lymph node,1956,243
+lymph node,1957,252
+lymph node,1958,254
+lymph node,1959,240
+lymph node,1960,195
+lymph node,1961,244
+lymph node,1962,297
+lymph node,1963,540
+lymph node,1964,794
+lymph node,1965,612
+lymph node,1966,650
+lymph node,1967,925
+lymph node,1968,1062
+lymph node,1969,1171
+lymph node,1970,1232
+lymph node,1971,1301
+lymph node,1972,1427
+lymph node,1973,1577
+lymph node,1974,1444
+lymph node,1975,1356
+lymph node,1976,1191
+lymph node,1977,1191
+lymph node,1978,1167
+lymph node,1979,1230
+lymph node,1980,1303
+lymph node,1981,1262
+lymph node,1982,1322
+lymph node,1983,1431
+lymph node,1984,1513
+lymph node,1985,1687
+lymph node,1986,1617
+lymph node,1987,1606
+lymph node,1988,1524
+lymph node,1989,1545
+lymph node,1990,1778
+lymph node,1991,1746
+lymph node,1992,1744
+lymph node,1993,1775
+lymph node,1994,1988
+lymph node,1995,1989
+lymph node,1996,2035
+lymph node,1997,2140
+lymph node,1998,2174
+lymph node,1999,2196
+lymph node,2000,2682
+lymph node,2001,2603
+lymph node,2002,2550
+lymph node,2003,2878
+lymph node,2004,2954
+lymph node,2005,2994
+lymph node,2006,3114
+lymph node,2007,3340
+lymph node,2008,3366
+lymph node,2009,3561
+lymph node,2010,3588
+lymph node,2011,3682
+lymph node,2012,4152
+lymph node,2013,4317
+lymph node,2014,4299
+lymph node,2015,4303
+lymph node,2016,4381
+lymph node,2017,4224
+lymph node,2018,4383
+lymph node,2019,4664
+lymph node,2020,4803
+lymph node,2021,5057
+lymph node,2022,4770
+lymph node,2023,1035
+lymph vasculature,1967,1
+lymph vasculature,1974,1
+lymph vasculature,1975,2
+lymph vasculature,1976,1
+lymph vasculature,1981,1
+lymph vasculature,1982,2
+lymph vasculature,1985,1
+lymph vasculature,1986,2
+lymph vasculature,1987,5
+lymph vasculature,1988,1
+lymph vasculature,1990,2
+lymph vasculature,1992,3
+lymph vasculature,1996,1
+lymph vasculature,1997,2
+lymph vasculature,1999,1
+lymph vasculature,2000,1
+lymph vasculature,2001,1
+lymph vasculature,2002,2
+lymph vasculature,2003,6
+lymph vasculature,2004,3
+lymph vasculature,2005,6
+lymph vasculature,2006,3
+lymph vasculature,2007,8
+lymph vasculature,2008,9
+lymph vasculature,2009,8
+lymph vasculature,2010,6
+lymph vasculature,2011,7
+lymph vasculature,2012,9
+lymph vasculature,2013,12
+lymph vasculature,2014,10
+lymph vasculature,2015,9
+lymph vasculature,2016,12
+lymph vasculature,2017,6
+lymph vasculature,2018,14
+lymph vasculature,2019,15
+lymph vasculature,2020,11
+lymph vasculature,2021,10
+lymph vasculature,2022,11
+lymph vasculature,2023,5
+main bronchus,1950,2
+main bronchus,1951,1
+main bronchus,1952,2
+main bronchus,1953,2
+main bronchus,1954,3
+main bronchus,1955,4
+main bronchus,1956,2
+main bronchus,1957,2
+main bronchus,1958,5
+main bronchus,1959,5
+main bronchus,1960,3
+main bronchus,1961,6
+main bronchus,1962,5
+main bronchus,1963,5
+main bronchus,1964,7
+main bronchus,1965,2
+main bronchus,1966,8
+main bronchus,1967,2
+main bronchus,1968,7
+main bronchus,1969,9
+main bronchus,1970,6
+main bronchus,1971,4
+main bronchus,1972,5
+main bronchus,1973,6
+main bronchus,1974,6
+main bronchus,1975,4
+main bronchus,1976,4
+main bronchus,1977,4
+main bronchus,1978,8
+main bronchus,1979,4
+main bronchus,1980,5
+main bronchus,1981,9
+main bronchus,1982,7
+main bronchus,1983,10
+main bronchus,1984,11
+main bronchus,1985,6
+main bronchus,1986,7
+main bronchus,1987,6
+main bronchus,1988,9
+main bronchus,1989,13
+main bronchus,1990,13
+main bronchus,1991,6
+main bronchus,1992,11
+main bronchus,1993,9
+main bronchus,1994,11
+main bronchus,1995,14
+main bronchus,1996,12
+main bronchus,1997,4
+main bronchus,1998,7
+main bronchus,1999,9
+main bronchus,2000,6
+main bronchus,2001,10
+main bronchus,2002,7
+main bronchus,2003,10
+main bronchus,2004,6
+main bronchus,2005,10
+main bronchus,2006,11
+main bronchus,2007,11
+main bronchus,2008,12
+main bronchus,2009,13
+main bronchus,2010,13
+main bronchus,2011,9
+main bronchus,2012,12
+main bronchus,2013,12
+main bronchus,2014,7
+main bronchus,2015,17
+main bronchus,2016,12
+main bronchus,2017,15
+main bronchus,2018,20
+main bronchus,2019,18
+main bronchus,2020,13
+main bronchus,2021,15
+main bronchus,2022,14
+main bronchus,2023,3
+muscular system,1950,4
+muscular system,1951,3
+muscular system,1952,9
+muscular system,1953,7
+muscular system,1954,7
+muscular system,1955,2
+muscular system,1956,6
+muscular system,1957,2
+muscular system,1958,5
+muscular system,1959,7
+muscular system,1960,14
+muscular system,1961,7
+muscular system,1962,6
+muscular system,1963,10
+muscular system,1964,12
+muscular system,1965,9
+muscular system,1966,17
+muscular system,1967,14
+muscular system,1968,19
+muscular system,1969,16
+muscular system,1970,23
+muscular system,1971,12
+muscular system,1972,13
+muscular system,1973,8
+muscular system,1974,11
+muscular system,1975,17
+muscular system,1976,14
+muscular system,1977,12
+muscular system,1978,17
+muscular system,1979,17
+muscular system,1980,13
+muscular system,1981,14
+muscular system,1982,10
+muscular system,1983,17
+muscular system,1984,23
+muscular system,1985,24
+muscular system,1986,11
+muscular system,1987,18
+muscular system,1988,22
+muscular system,1989,26
+muscular system,1990,15
+muscular system,1991,19
+muscular system,1992,14
+muscular system,1993,11
+muscular system,1994,19
+muscular system,1995,17
+muscular system,1996,22
+muscular system,1997,15
+muscular system,1998,17
+muscular system,1999,20
+muscular system,2000,20
+muscular system,2001,18
+muscular system,2002,19
+muscular system,2003,16
+muscular system,2004,14
+muscular system,2005,13
+muscular system,2006,17
+muscular system,2007,28
+muscular system,2008,28
+muscular system,2009,27
+muscular system,2010,39
+muscular system,2011,32
+muscular system,2012,36
+muscular system,2013,39
+muscular system,2014,46
+muscular system,2015,54
+muscular system,2016,51
+muscular system,2017,58
+muscular system,2018,86
+muscular system,2019,87
+muscular system,2020,107
+muscular system,2021,146
+muscular system,2022,180
+muscular system,2023,40
+ovary,1950,336
+ovary,1951,368
+ovary,1952,353
+ovary,1953,390
+ovary,1954,394
+ovary,1955,431
+ovary,1956,315
+ovary,1957,359
+ovary,1958,327
+ovary,1959,265
+ovary,1960,241
+ovary,1961,284
+ovary,1962,296
+ovary,1963,517
+ovary,1964,775
+ovary,1965,598
+ovary,1966,580
+ovary,1967,749
+ovary,1968,961
+ovary,1969,1044
+ovary,1970,1064
+ovary,1971,1138
+ovary,1972,1219
+ovary,1973,1279
+ovary,1974,1461
+ovary,1975,1270
+ovary,1976,1012
+ovary,1977,925
+ovary,1978,863
+ovary,1979,1130
+ovary,1980,992
+ovary,1981,1059
+ovary,1982,1119
+ovary,1983,1124
+ovary,1984,1221
+ovary,1985,1167
+ovary,1986,1158
+ovary,1987,1046
+ovary,1988,1064
+ovary,1989,1282
+ovary,1990,1265
+ovary,1991,1205
+ovary,1992,1157
+ovary,1993,1212
+ovary,1994,1164
+ovary,1995,1257
+ovary,1996,1234
+ovary,1997,1325
+ovary,1998,1228
+ovary,1999,1230
+ovary,2000,1277
+ovary,2001,1344
+ovary,2002,1352
+ovary,2003,1401
+ovary,2004,1453
+ovary,2005,1532
+ovary,2006,1656
+ovary,2007,1583
+ovary,2008,1643
+ovary,2009,1769
+ovary,2010,1769
+ovary,2011,1832
+ovary,2012,2039
+ovary,2013,2022
+ovary,2014,2093
+ovary,2015,2130
+ovary,2016,2051
+ovary,2017,1999
+ovary,2018,2088
+ovary,2019,2274
+ovary,2020,2347
+ovary,2021,2473
+ovary,2022,2156
+ovary,2023,508
+pancreas,1950,324
+pancreas,1951,346
+pancreas,1952,409
+pancreas,1953,389
+pancreas,1954,394
+pancreas,1955,465
+pancreas,1956,410
+pancreas,1957,424
+pancreas,1958,456
+pancreas,1959,459
+pancreas,1960,403
+pancreas,1961,456
+pancreas,1962,465
+pancreas,1963,533
+pancreas,1964,642
+pancreas,1965,565
+pancreas,1966,652
+pancreas,1967,880
+pancreas,1968,1037
+pancreas,1969,1144
+pancreas,1970,1087
+pancreas,1971,1230
+pancreas,1972,1348
+pancreas,1973,1397
+pancreas,1974,1525
+pancreas,1975,1324
+pancreas,1976,1201
+pancreas,1977,1201
+pancreas,1978,1246
+pancreas,1979,1301
+pancreas,1980,1335
+pancreas,1981,1219
+pancreas,1982,1281
+pancreas,1983,1330
+pancreas,1984,1441
+pancreas,1985,1375
+pancreas,1986,1413
+pancreas,1987,1449
+pancreas,1988,1461
+pancreas,1989,1704
+pancreas,1990,1660
+pancreas,1991,1628
+pancreas,1992,1612
+pancreas,1993,1406
+pancreas,1994,1538
+pancreas,1995,1468
+pancreas,1996,1487
+pancreas,1997,1403
+pancreas,1998,1470
+pancreas,1999,1252
+pancreas,2000,1348
+pancreas,2001,1270
+pancreas,2002,1370
+pancreas,2003,1298
+pancreas,2004,1429
+pancreas,2005,1434
+pancreas,2006,1430
+pancreas,2007,1514
+pancreas,2008,1555
+pancreas,2009,1624
+pancreas,2010,1648
+pancreas,2011,1575
+pancreas,2012,1748
+pancreas,2013,1807
+pancreas,2014,1829
+pancreas,2015,1881
+pancreas,2016,1794
+pancreas,2017,1778
+pancreas,2018,1866
+pancreas,2019,1967
+pancreas,2020,2157
+pancreas,2021,2243
+pancreas,2022,1734
+pancreas,2023,397
+pelvis,1950,204
+pelvis,1951,261
+pelvis,1952,257
+pelvis,1953,281
+pelvis,1954,277
+pelvis,1955,318
+pelvis,1956,297
+pelvis,1957,284
+pelvis,1958,269
+pelvis,1959,276
+pelvis,1960,288
+pelvis,1961,285
+pelvis,1962,259
+pelvis,1963,271
+pelvis,1964,315
+pelvis,1965,229
+pelvis,1966,199
+pelvis,1967,249
+pelvis,1968,319
+pelvis,1969,368
+pelvis,1970,329
+pelvis,1971,381
+pelvis,1972,380
+pelvis,1973,377
+pelvis,1974,485
+pelvis,1975,457
+pelvis,1976,346
+pelvis,1977,361
+pelvis,1978,389
+pelvis,1979,395
+pelvis,1980,390
+pelvis,1981,398
+pelvis,1982,378
+pelvis,1983,453
+pelvis,1984,468
+pelvis,1985,485
+pelvis,1986,430
+pelvis,1987,423
+pelvis,1988,507
+pelvis,1989,445
+pelvis,1990,461
+pelvis,1991,426
+pelvis,1992,457
+pelvis,1993,464
+pelvis,1994,443
+pelvis,1995,421
+pelvis,1996,473
+pelvis,1997,445
+pelvis,1998,459
+pelvis,1999,449
+pelvis,2000,417
+pelvis,2001,412
+pelvis,2002,462
+pelvis,2003,542
+pelvis,2004,528
+pelvis,2005,595
+pelvis,2006,602
+pelvis,2007,593
+pelvis,2008,626
+pelvis,2009,674
+pelvis,2010,658
+pelvis,2011,718
+pelvis,2012,727
+pelvis,2013,824
+pelvis,2014,834
+pelvis,2015,910
+pelvis,2016,875
+pelvis,2017,944
+pelvis,2018,890
+pelvis,2019,929
+pelvis,2020,1056
+pelvis,2021,971
+pelvis,2022,1000
+pelvis,2023,224
+peripheral nervous system,1950,34
+peripheral nervous system,1951,36
+peripheral nervous system,1952,31
+peripheral nervous system,1953,26
+peripheral nervous system,1954,28
+peripheral nervous system,1955,30
+peripheral nervous system,1956,48
+peripheral nervous system,1957,38
+peripheral nervous system,1958,42
+peripheral nervous system,1959,41
+peripheral nervous system,1960,56
+peripheral nervous system,1961,76
+peripheral nervous system,1962,86
+peripheral nervous system,1963,133
+peripheral nervous system,1964,210
+peripheral nervous system,1965,230
+peripheral nervous system,1966,149
+peripheral nervous system,1967,220
+peripheral nervous system,1968,293
+peripheral nervous system,1969,304
+peripheral nervous system,1970,337
+peripheral nervous system,1971,427
+peripheral nervous system,1972,355
+peripheral nervous system,1973,321
+peripheral nervous system,1974,394
+peripheral nervous system,1975,326
+peripheral nervous system,1976,287
+peripheral nervous system,1977,323
+peripheral nervous system,1978,305
+peripheral nervous system,1979,324
+peripheral nervous system,1980,284
+peripheral nervous system,1981,351
+peripheral nervous system,1982,378
+peripheral nervous system,1983,416
+peripheral nervous system,1984,432
+peripheral nervous system,1985,471
+peripheral nervous system,1986,450
+peripheral nervous system,1987,438
+peripheral nervous system,1988,465
+peripheral nervous system,1989,451
+peripheral nervous system,1990,486
+peripheral nervous system,1991,483
+peripheral nervous system,1992,487
+peripheral nervous system,1993,536
+peripheral nervous system,1994,583
+peripheral nervous system,1995,700
+peripheral nervous system,1996,661
+peripheral nervous system,1997,705
+peripheral nervous system,1998,732
+peripheral nervous system,1999,664
+peripheral nervous system,2000,661
+peripheral nervous system,2001,616
+peripheral nervous system,2002,564
+peripheral nervous system,2003,635
+peripheral nervous system,2004,705
+peripheral nervous system,2005,686
+peripheral nervous system,2006,754
+peripheral nervous system,2007,852
+peripheral nervous system,2008,774
+peripheral nervous system,2009,769
+peripheral nervous system,2010,745
+peripheral nervous system,2011,685
+peripheral nervous system,2012,641
+peripheral nervous system,2013,748
+peripheral nervous system,2014,772
+peripheral nervous system,2015,711
+peripheral nervous system,2016,651
+peripheral nervous system,2017,637
+peripheral nervous system,2018,632
+peripheral nervous system,2019,719
+peripheral nervous system,2020,775
+peripheral nervous system,2021,718
+peripheral nervous system,2022,653
+peripheral nervous system,2023,152
+placenta,1950,152
+placenta,1951,191
+placenta,1952,216
+placenta,1953,211
+placenta,1954,254
+placenta,1955,255
+placenta,1956,235
+placenta,1957,247
+placenta,1958,252
+placenta,1959,223
+placenta,1960,257
+placenta,1961,280
+placenta,1962,292
+placenta,1963,456
+placenta,1964,573
+placenta,1965,459
+placenta,1966,527
+placenta,1967,687
+placenta,1968,789
+placenta,1969,869
+placenta,1970,940
+placenta,1971,1041
+placenta,1972,1003
+placenta,1973,1031
+placenta,1974,1228
+placenta,1975,1018
+placenta,1976,987
+placenta,1977,1028
+placenta,1978,974
+placenta,1979,997
+placenta,1980,940
+placenta,1981,952
+placenta,1982,993
+placenta,1983,1018
+placenta,1984,1077
+placenta,1985,1149
+placenta,1986,1085
+placenta,1987,1077
+placenta,1988,1033
+placenta,1989,1200
+placenta,1990,1249
+placenta,1991,1195
+placenta,1992,1059
+placenta,1993,1127
+placenta,1994,1111
+placenta,1995,1225
+placenta,1996,1136
+placenta,1997,1125
+placenta,1998,1089
+placenta,1999,1017
+placenta,2000,1077
+placenta,2001,1136
+placenta,2002,1098
+placenta,2003,1198
+placenta,2004,1176
+placenta,2005,1186
+placenta,2006,1234
+placenta,2007,1273
+placenta,2008,1357
+placenta,2009,1359
+placenta,2010,1438
+placenta,2011,1657
+placenta,2012,1787
+placenta,2013,1880
+placenta,2014,1852
+placenta,2015,1987
+placenta,2016,2036
+placenta,2017,2049
+placenta,2018,2235
+placenta,2019,2223
+placenta,2020,2554
+placenta,2021,3076
+placenta,2022,3646
+placenta,2023,744
+prostate,1950,265
+prostate,1951,251
+prostate,1952,243
+prostate,1953,239
+prostate,1954,255
+prostate,1955,246
+prostate,1956,248
+prostate,1957,223
+prostate,1958,202
+prostate,1959,204
+prostate,1960,193
+prostate,1961,191
+prostate,1962,212
+prostate,1963,274
+prostate,1964,295
+prostate,1965,302
+prostate,1966,291
+prostate,1967,302
+prostate,1968,357
+prostate,1969,408
+prostate,1970,437
+prostate,1971,473
+prostate,1972,469
+prostate,1973,524
+prostate,1974,577
+prostate,1975,549
+prostate,1976,463
+prostate,1977,530
+prostate,1978,449
+prostate,1979,553
+prostate,1980,621
+prostate,1981,626
+prostate,1982,642
+prostate,1983,644
+prostate,1984,733
+prostate,1985,761
+prostate,1986,763
+prostate,1987,886
+prostate,1988,973
+prostate,1989,961
+prostate,1990,996
+prostate,1991,1100
+prostate,1992,1184
+prostate,1993,1500
+prostate,1994,1801
+prostate,1995,1901
+prostate,1996,2088
+prostate,1997,2371
+prostate,1998,2400
+prostate,1999,2505
+prostate,2000,2851
+prostate,2001,2786
+prostate,2002,2935
+prostate,2003,3489
+prostate,2004,3710
+prostate,2005,3934
+prostate,2006,3990
+prostate,2007,4567
+prostate,2008,4650
+prostate,2009,4710
+prostate,2010,5022
+prostate,2011,5414
+prostate,2012,6074
+prostate,2013,6435
+prostate,2014,6628
+prostate,2015,6619
+prostate,2016,6632
+prostate,2017,6962
+prostate,2018,6767
+prostate,2019,7235
+prostate,2020,7660
+prostate,2021,8299
+prostate,2022,8285
+prostate,2023,2045
+skeletal,1950,206
+skeletal,1951,337
+skeletal,1952,413
+skeletal,1953,484
+skeletal,1954,487
+skeletal,1955,505
+skeletal,1956,484
+skeletal,1957,502
+skeletal,1958,535
+skeletal,1959,537
+skeletal,1960,508
+skeletal,1961,545
+skeletal,1962,489
+skeletal,1963,407
+skeletal,1964,474
+skeletal,1965,400
+skeletal,1966,343
+skeletal,1967,401
+skeletal,1968,412
+skeletal,1969,473
+skeletal,1970,523
+skeletal,1971,499
+skeletal,1972,545
+skeletal,1973,609
+skeletal,1974,600
+skeletal,1975,636
+skeletal,1976,685
+skeletal,1977,700
+skeletal,1978,758
+skeletal,1979,751
+skeletal,1980,792
+skeletal,1981,884
+skeletal,1982,894
+skeletal,1983,1006
+skeletal,1984,1029
+skeletal,1985,1111
+skeletal,1986,1219
+skeletal,1987,1292
+skeletal,1988,1403
+skeletal,1989,1437
+skeletal,1990,1526
+skeletal,1991,1640
+skeletal,1992,1590
+skeletal,1993,1706
+skeletal,1994,2926
+skeletal,1995,4764
+skeletal,1996,5152
+skeletal,1997,5440
+skeletal,1998,6210
+skeletal,1999,6267
+skeletal,2000,6783
+skeletal,2001,7148
+skeletal,2002,7545
+skeletal,2003,7721
+skeletal,2004,7888
+skeletal,2005,7995
+skeletal,2006,7491
+skeletal,2007,7636
+skeletal,2008,7896
+skeletal,2009,8319
+skeletal,2010,8855
+skeletal,2011,8788
+skeletal,2012,9796
+skeletal,2013,9823
+skeletal,2014,9980
+skeletal,2015,10076
+skeletal,2016,9506
+skeletal,2017,9671
+skeletal,2018,10053
+skeletal,2019,10207
+skeletal,2020,10526
+skeletal,2021,10783
+skeletal,2022,10087
+skeletal,2023,2326
+skin,1950,1227
+skin,1951,1515
+skin,1952,1499
+skin,1953,1609
+skin,1954,1714
+skin,1955,1870
+skin,1956,1691
+skin,1957,1813
+skin,1958,1761
+skin,1959,1700
+skin,1960,1748
+skin,1961,1896
+skin,1962,1970
+skin,1963,2642
+skin,1964,3790
+skin,1965,3463
+skin,1966,3588
+skin,1967,4300
+skin,1968,4951
+skin,1969,5577
+skin,1970,5819
+skin,1971,6111
+skin,1972,6258
+skin,1973,6266
+skin,1974,6320
+skin,1975,6051
+skin,1976,5768
+skin,1977,5768
+skin,1978,5959
+skin,1979,6589
+skin,1980,6182
+skin,1981,6185
+skin,1982,6588
+skin,1983,6842
+skin,1984,7159
+skin,1985,7483
+skin,1986,7207
+skin,1987,7069
+skin,1988,7260
+skin,1989,7431
+skin,1990,7757
+skin,1991,7437
+skin,1992,7352
+skin,1993,7394
+skin,1994,7553
+skin,1995,7803
+skin,1996,7714
+skin,1997,7899
+skin,1998,8524
+skin,1999,8352
+skin,2000,8654
+skin,2001,8716
+skin,2002,8770
+skin,2003,9464
+skin,2004,9683
+skin,2005,10073
+skin,2006,10794
+skin,2007,11385
+skin,2008,11973
+skin,2009,12272
+skin,2010,12412
+skin,2011,12806
+skin,2012,13630
+skin,2013,14147
+skin,2014,14381
+skin,2015,14625
+skin,2016,14669
+skin,2017,14856
+skin,2018,15565
+skin,2019,16286
+skin,2020,17387
+skin,2021,17724
+skin,2022,16262
+skin,2023,3714
+small intestine,1950,147
+small intestine,1951,190
+small intestine,1952,195
+small intestine,1953,214
+small intestine,1954,223
+small intestine,1955,247
+small intestine,1956,204
+small intestine,1957,180
+small intestine,1958,244
+small intestine,1959,269
+small intestine,1960,290
+small intestine,1961,403
+small intestine,1962,386
+small intestine,1963,486
+small intestine,1964,603
+small intestine,1965,568
+small intestine,1966,679
+small intestine,1967,766
+small intestine,1968,934
+small intestine,1969,1010
+small intestine,1970,961
+small intestine,1971,1089
+small intestine,1972,1133
+small intestine,1973,1186
+small intestine,1974,1176
+small intestine,1975,1131
+small intestine,1976,1080
+small intestine,1977,1086
+small intestine,1978,1078
+small intestine,1979,1068
+small intestine,1980,900
+small intestine,1981,889
+small intestine,1982,931
+small intestine,1983,1026
+small intestine,1984,1054
+small intestine,1985,1000
+small intestine,1986,1023
+small intestine,1987,1004
+small intestine,1988,961
+small intestine,1989,1015
+small intestine,1990,1047
+small intestine,1991,1003
+small intestine,1992,936
+small intestine,1993,975
+small intestine,1994,1078
+small intestine,1995,1010
+small intestine,1996,1069
+small intestine,1997,919
+small intestine,1998,979
+small intestine,1999,936
+small intestine,2000,935
+small intestine,2001,877
+small intestine,2002,918
+small intestine,2003,942
+small intestine,2004,950
+small intestine,2005,970
+small intestine,2006,1102
+small intestine,2007,1049
+small intestine,2008,1004
+small intestine,2009,1013
+small intestine,2010,1124
+small intestine,2011,1036
+small intestine,2012,1209
+small intestine,2013,1150
+small intestine,2014,1078
+small intestine,2015,1095
+small intestine,2016,1068
+small intestine,2017,1003
+small intestine,2018,1049
+small intestine,2019,1112
+small intestine,2020,1072
+small intestine,2021,999
+small intestine,2022,707
+small intestine,2023,132
+spinal cord,1950,192
+spinal cord,1951,245
+spinal cord,1952,227
+spinal cord,1953,236
+spinal cord,1954,271
+spinal cord,1955,264
+spinal cord,1956,277
+spinal cord,1957,291
+spinal cord,1958,293
+spinal cord,1959,340
+spinal cord,1960,328
+spinal cord,1961,342
+spinal cord,1962,405
+spinal cord,1963,539
+spinal cord,1964,757
+spinal cord,1965,651
+spinal cord,1966,809
+spinal cord,1967,921
+spinal cord,1968,992
+spinal cord,1969,1158
+spinal cord,1970,1054
+spinal cord,1971,1286
+spinal cord,1972,1233
+spinal cord,1973,1370
+spinal cord,1974,1352
+spinal cord,1975,1361
+spinal cord,1976,1346
+spinal cord,1977,1396
+spinal cord,1978,1549
+spinal cord,1979,1585
+spinal cord,1980,1586
+spinal cord,1981,1707
+spinal cord,1982,1829
+spinal cord,1983,1854
+spinal cord,1984,2010
+spinal cord,1985,1998
+spinal cord,1986,2077
+spinal cord,1987,2044
+spinal cord,1988,2135
+spinal cord,1989,2217
+spinal cord,1990,2288
+spinal cord,1991,2318
+spinal cord,1992,2420
+spinal cord,1993,2590
+spinal cord,1994,2406
+spinal cord,1995,2494
+spinal cord,1996,2478
+spinal cord,1997,2503
+spinal cord,1998,2609
+spinal cord,1999,2702
+spinal cord,2000,2828
+spinal cord,2001,2798
+spinal cord,2002,2775
+spinal cord,2003,2823
+spinal cord,2004,2806
+spinal cord,2005,2936
+spinal cord,2006,3024
+spinal cord,2007,3105
+spinal cord,2008,3226
+spinal cord,2009,3478
+spinal cord,2010,3484
+spinal cord,2011,3487
+spinal cord,2012,3972
+spinal cord,2013,3990
+spinal cord,2014,4109
+spinal cord,2015,4108
+spinal cord,2016,4108
+spinal cord,2017,4262
+spinal cord,2018,4206
+spinal cord,2019,4155
+spinal cord,2020,4342
+spinal cord,2021,4588
+spinal cord,2022,4488
+spinal cord,2023,1071
+spleen,1950,198
+spleen,1951,232
+spleen,1952,304
+spleen,1953,331
+spleen,1954,344
+spleen,1955,401
+spleen,1956,342
+spleen,1957,372
+spleen,1958,345
+spleen,1959,407
+spleen,1960,332
+spleen,1961,361
+spleen,1962,425
+spleen,1963,678
+spleen,1964,1154
+spleen,1965,946
+spleen,1966,1135
+spleen,1967,1508
+spleen,1968,1798
+spleen,1969,2042
+spleen,1970,2051
+spleen,1971,2392
+spleen,1972,2650
+spleen,1973,2808
+spleen,1974,2794
+spleen,1975,2614
+spleen,1976,2180
+spleen,1977,2101
+spleen,1978,1963
+spleen,1979,2110
+spleen,1980,2108
+spleen,1981,2038
+spleen,1982,2018
+spleen,1983,1964
+spleen,1984,2024
+spleen,1985,2201
+spleen,1986,1916
+spleen,1987,1886
+spleen,1988,1779
+spleen,1989,1966
+spleen,1990,2012
+spleen,1991,1901
+spleen,1992,1874
+spleen,1993,1819
+spleen,1994,1892
+spleen,1995,1933
+spleen,1996,1894
+spleen,1997,1774
+spleen,1998,1798
+spleen,1999,1826
+spleen,2000,1974
+spleen,2001,1849
+spleen,2002,1750
+spleen,2003,1872
+spleen,2004,1922
+spleen,2005,1833
+spleen,2006,1813
+spleen,2007,1861
+spleen,2008,1854
+spleen,2009,1856
+spleen,2010,1788
+spleen,2011,1834
+spleen,2012,2027
+spleen,2013,1993
+spleen,2014,1986
+spleen,2015,1934
+spleen,2016,1798
+spleen,2017,1672
+spleen,2018,1550
+spleen,2019,1564
+spleen,2020,1468
+spleen,2021,1396
+spleen,2022,829
+spleen,2023,152
+thymus,1950,69
+thymus,1951,74
+thymus,1952,114
+thymus,1953,111
+thymus,1954,127
+thymus,1955,97
+thymus,1956,94
+thymus,1957,91
+thymus,1958,121
+thymus,1959,95
+thymus,1960,107
+thymus,1961,131
+thymus,1962,177
+thymus,1963,371
+thymus,1964,567
+thymus,1965,515
+thymus,1966,601
+thymus,1967,727
+thymus,1968,821
+thymus,1969,930
+thymus,1970,1019
+thymus,1971,1229
+thymus,1972,1324
+thymus,1973,1350
+thymus,1974,1429
+thymus,1975,1347
+thymus,1976,1000
+thymus,1977,957
+thymus,1978,932
+thymus,1979,1075
+thymus,1980,1034
+thymus,1981,1010
+thymus,1982,1007
+thymus,1983,1006
+thymus,1984,1094
+thymus,1985,1045
+thymus,1986,964
+thymus,1987,951
+thymus,1988,999
+thymus,1989,1064
+thymus,1990,1111
+thymus,1991,1074
+thymus,1992,1045
+thymus,1993,1060
+thymus,1994,1059
+thymus,1995,1061
+thymus,1996,1031
+thymus,1997,1105
+thymus,1998,1004
+thymus,1999,962
+thymus,2000,1027
+thymus,2001,1028
+thymus,2002,960
+thymus,2003,903
+thymus,2004,908
+thymus,2005,936
+thymus,2006,891
+thymus,2007,870
+thymus,2008,846
+thymus,2009,899
+thymus,2010,907
+thymus,2011,843
+thymus,2012,837
+thymus,2013,795
+thymus,2014,782
+thymus,2015,804
+thymus,2016,756
+thymus,2017,678
+thymus,2018,660
+thymus,2019,704
+thymus,2020,749
+thymus,2021,792
+thymus,2022,715
+thymus,2023,188
+trachea,1950,140
+trachea,1951,199
+trachea,1952,230
+trachea,1953,268
+trachea,1954,256
+trachea,1955,267
+trachea,1956,254
+trachea,1957,254
+trachea,1958,261
+trachea,1959,305
+trachea,1960,246
+trachea,1961,288
+trachea,1962,301
+trachea,1963,328
+trachea,1964,448
+trachea,1965,374
+trachea,1966,453
+trachea,1967,486
+trachea,1968,614
+trachea,1969,665
+trachea,1970,721
+trachea,1971,753
+trachea,1972,815
+trachea,1973,915
+trachea,1974,908
+trachea,1975,790
+trachea,1976,764
+trachea,1977,791
+trachea,1978,734
+trachea,1979,816
+trachea,1980,832
+trachea,1981,819
+trachea,1982,926
+trachea,1983,964
+trachea,1984,1041
+trachea,1985,1119
+trachea,1986,1177
+trachea,1987,1185
+trachea,1988,1223
+trachea,1989,1289
+trachea,1990,1471
+trachea,1991,1433
+trachea,1992,1503
+trachea,1993,1489
+trachea,1994,1559
+trachea,1995,1617
+trachea,1996,1611
+trachea,1997,1585
+trachea,1998,1647
+trachea,1999,1614
+trachea,2000,1680
+trachea,2001,1572
+trachea,2002,1552
+trachea,2003,1646
+trachea,2004,1681
+trachea,2005,1594
+trachea,2006,1742
+trachea,2007,1755
+trachea,2008,1788
+trachea,2009,1953
+trachea,2010,1923
+trachea,2011,1923
+trachea,2012,1849
+trachea,2013,1855
+trachea,2014,1890
+trachea,2015,1950
+trachea,2016,2040
+trachea,2017,1915
+trachea,2018,1862
+trachea,2019,1771
+trachea,2020,2250
+trachea,2021,2124
+trachea,2022,1869
+trachea,2023,383
+ureter,1950,225
+ureter,1951,240
+ureter,1952,282
+ureter,1953,290
+ureter,1954,304
+ureter,1955,324
+ureter,1956,307
+ureter,1957,293
+ureter,1958,266
+ureter,1959,268
+ureter,1960,289
+ureter,1961,280
+ureter,1962,355
+ureter,1963,436
+ureter,1964,513
+ureter,1965,419
+ureter,1966,469
+ureter,1967,560
+ureter,1968,558
+ureter,1969,691
+ureter,1970,673
+ureter,1971,697
+ureter,1972,773
+ureter,1973,794
+ureter,1974,828
+ureter,1975,775
+ureter,1976,695
+ureter,1977,728
+ureter,1978,677
+ureter,1979,666
+ureter,1980,651
+ureter,1981,605
+ureter,1982,674
+ureter,1983,780
+ureter,1984,772
+ureter,1985,806
+ureter,1986,761
+ureter,1987,837
+ureter,1988,863
+ureter,1989,821
+ureter,1990,753
+ureter,1991,733
+ureter,1992,725
+ureter,1993,718
+ureter,1994,794
+ureter,1995,723
+ureter,1996,739
+ureter,1997,810
+ureter,1998,881
+ureter,1999,742
+ureter,2000,762
+ureter,2001,792
+ureter,2002,817
+ureter,2003,864
+ureter,2004,909
+ureter,2005,832
+ureter,2006,865
+ureter,2007,972
+ureter,2008,1131
+ureter,2009,1038
+ureter,2010,1063
+ureter,2011,1061
+ureter,2012,1150
+ureter,2013,1303
+ureter,2014,1274
+ureter,2015,1212
+ureter,2016,1252
+ureter,2017,1340
+ureter,2018,1285
+ureter,2019,1365
+ureter,2020,1508
+ureter,2021,1721
+ureter,2022,1654
+ureter,2023,359
+urinary bladder,1950,326
+urinary bladder,1951,369
+urinary bladder,1952,405
+urinary bladder,1953,435
+urinary bladder,1954,408
+urinary bladder,1955,442
+urinary bladder,1956,437
+urinary bladder,1957,423
+urinary bladder,1958,372
+urinary bladder,1959,328
+urinary bladder,1960,285
+urinary bladder,1961,416
+urinary bladder,1962,508
+urinary bladder,1963,652
+urinary bladder,1964,755
+urinary bladder,1965,672
+urinary bladder,1966,625
+urinary bladder,1967,818
+urinary bladder,1968,887
+urinary bladder,1969,992
+urinary bladder,1970,1061
+urinary bladder,1971,1171
+urinary bladder,1972,1203
+urinary bladder,1973,1227
+urinary bladder,1974,1317
+urinary bladder,1975,1230
+urinary bladder,1976,1170
+urinary bladder,1977,1292
+urinary bladder,1978,1259
+urinary bladder,1979,1226
+urinary bladder,1980,1317
+urinary bladder,1981,1315
+urinary bladder,1982,1373
+urinary bladder,1983,1584
+urinary bladder,1984,1709
+urinary bladder,1985,1775
+urinary bladder,1986,1683
+urinary bladder,1987,1759
+urinary bladder,1988,1779
+urinary bladder,1989,1787
+urinary bladder,1990,1824
+urinary bladder,1991,1761
+urinary bladder,1992,1904
+urinary bladder,1993,1798
+urinary bladder,1994,1908
+urinary bladder,1995,1959
+urinary bladder,1996,1938
+urinary bladder,1997,1937
+urinary bladder,1998,1908
+urinary bladder,1999,1942
+urinary bladder,2000,2057
+urinary bladder,2001,2028
+urinary bladder,2002,2099
+urinary bladder,2003,2221
+urinary bladder,2004,2243
+urinary bladder,2005,2238
+urinary bladder,2006,2362
+urinary bladder,2007,2532
+urinary bladder,2008,2565
+urinary bladder,2009,2619
+urinary bladder,2010,2636
+urinary bladder,2011,2778
+urinary bladder,2012,2925
+urinary bladder,2013,3292
+urinary bladder,2014,3453
+urinary bladder,2015,3152
+urinary bladder,2016,3121
+urinary bladder,2017,3146
+urinary bladder,2018,3221
+urinary bladder,2019,3340
+urinary bladder,2020,3471
+urinary bladder,2021,3647
+urinary bladder,2022,3841
+urinary bladder,2023,749
+uterus,1950,744
+uterus,1951,692
+uterus,1952,492
+uterus,1953,508
+uterus,1954,633
+uterus,1955,597
+uterus,1956,503
+uterus,1957,447
+uterus,1958,449
+uterus,1959,474
+uterus,1960,368
+uterus,1961,399
+uterus,1962,438
+uterus,1963,620
+uterus,1964,710
+uterus,1965,683
+uterus,1966,715
+uterus,1967,785
+uterus,1968,1025
+uterus,1969,1129
+uterus,1970,1160
+uterus,1971,1256
+uterus,1972,1338
+uterus,1973,1316
+uterus,1974,1482
+uterus,1975,1130
+uterus,1976,997
+uterus,1977,933
+uterus,1978,886
+uterus,1979,944
+uterus,1980,958
+uterus,1981,921
+uterus,1982,875
+uterus,1983,886
+uterus,1984,857
+uterus,1985,845
+uterus,1986,882
+uterus,1987,876
+uterus,1988,925
+uterus,1989,903
+uterus,1990,893
+uterus,1991,931
+uterus,1992,917
+uterus,1993,881
+uterus,1994,802
+uterus,1995,929
+uterus,1996,840
+uterus,1997,839
+uterus,1998,916
+uterus,1999,823
+uterus,2000,897
+uterus,2001,942
+uterus,2002,934
+uterus,2003,968
+uterus,2004,964
+uterus,2005,950
+uterus,2006,974
+uterus,2007,965
+uterus,2008,935
+uterus,2009,906
+uterus,2010,867
+uterus,2011,844
+uterus,2012,944
+uterus,2013,899
+uterus,2014,970
+uterus,2015,953
+uterus,2016,918
+uterus,2017,873
+uterus,2018,966
+uterus,2019,1006
+uterus,2020,1067
+uterus,2021,1103
+uterus,2022,909
+uterus,2023,215

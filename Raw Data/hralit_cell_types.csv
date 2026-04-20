@@ -1,0 +1,1396 @@
+iri,pref_label,type
+http://purl.obolibrary.org/obo/CL_0000071,vascular endothelial cells,CT
+http://purl.obolibrary.org/obo/CL_0000071,blood endothelial cell,CT
+http://purl.obolibrary.org/obo/CL_0000071,blood vessel endothelial cell,CT
+http://purl.obolibrary.org/obo/CL_0000071,endothelial cell,CT
+http://purl.obolibrary.org/obo/CL_0000071,smooth muscle cell,CT
+http://purl.obolibrary.org/obo/CL_0002436,cd4+ t single positive thymocyte,CT
+http://purl.obolibrary.org/obo/CL_0000188,skeletal muscle cell,CT
+http://purl.obolibrary.org/obo/CL_0000188,skeletal muscle,CT
+http://purl.obolibrary.org/obo/PCL_0015037,inh l1-5 vip linc01013,CT
+http://purl.obolibrary.org/obo/CL_0000233,platelet,CT
+http://purl.obolibrary.org/obo/CL_0002586,retinal pigmented epithelial cell,CT
+http://purl.obolibrary.org/obo/CL_0002453,oligodendrocyte precursor cell,CT
+http://purl.obolibrary.org/obo/CL_0000818,transitional immature b cells,CT
+http://purl.obolibrary.org/obo/CL_0000818,transitional b cell,CT
+https://purl.org/ccf/ASCTB-TEMP_reticular-cell-of-splenic-sinusoid,reticular cell of splenic sinusoid,CT
+http://purl.obolibrary.org/obo/CL_0000882,macrophage,CT
+http://purl.obolibrary.org/obo/CL_1001131,ascending vasa recta endothelial cell,CT
+http://purl.obolibrary.org/obo/CL_0002228,primary lens fiber,CT
+http://purl.obolibrary.org/obo/CL_0002396,cd16 monocyte,CT
+http://purl.obolibrary.org/obo/CL_0000553,early megakaryocyte (mk),CT
+http://purl.obolibrary.org/obo/CL_0002543,endothelial cell,CT
+http://purl.obolibrary.org/obo/CL_0002543,venous endothelium,CT
+http://purl.obolibrary.org/obo/CL_0002543,blood endothelial cells,CT
+http://purl.obolibrary.org/obo/CL_0002543,endothelial cell of vein,CT
+http://purl.obolibrary.org/obo/CL_0000127,astrocyte,CT
+http://purl.obolibrary.org/obo/CL_4030017,distal convoluted tubule cell type 2,CT
+http://purl.obolibrary.org/obo/PCL_0015053,inh l5-6 sst bean1,CT
+http://purl.obolibrary.org/obo/CL_0000743,hypertrophic chondrocyte,CT
+http://purl.obolibrary.org/obo/CL_0000743,hypertrophic chondrocytes,CT
+http://purl.obolibrary.org/obo/CL_0019017,smooth muscle cell,CT
+http://purl.obolibrary.org/obo/PCL_0015086,exc l3 rorb otogl,CT
+http://purl.obolibrary.org/obo/PCL_0015075,exc l2 linc00507 glra3,CT
+http://purl.obolibrary.org/obo/CL_0001006,dendritic cell (dc1),CT
+http://purl.obolibrary.org/obo/CL_0001006,dendritic cell (dc2),CT
+http://purl.obolibrary.org/obo/CL_0001006,dendritic cell (monocyte-derived),CT
+http://purl.obolibrary.org/obo/CL_0001006,dendritic cell (migratory),CT
+http://purl.obolibrary.org/obo/CL_4030022,medullary fibroblast,CT
+https://purl.org/ccf/ASCTB-TEMP_astro59,astro_59,CT
+http://purl.obolibrary.org/obo/CL_0002568,mesenchymal stromal cell of wharton's jelly,CT
+https://purl.org/ccf/ASCTB-TEMP_dlnp89,dlnp_89,CT
+http://purl.obolibrary.org/obo/PCL_0015101,exc l5-6 fezf2 c9orf135-as1,CT
+https://purl.org/ccf/ASCTB-TEMP_splat425,splat_425,CT
+http://purl.obolibrary.org/obo/CL_0000186,myofibroblast,CT
+http://purl.obolibrary.org/obo/CL_0000186,myofibroblasts,CT
+http://purl.obolibrary.org/obo/CL_0000826,pro b progenitor,CT
+http://purl.obolibrary.org/obo/PCL_0015127,micro l1-6 tyrobp cd74,CT
+http://purl.obolibrary.org/obo/CL_0000175,luteal cell,CT
+http://purl.obolibrary.org/obo/CL_4028002,cap1 general capillary gcap,CT
+https://purl.org/ccf/ASCTB-TEMP_splat389,splat_389,CT
+https://purl.org/ccf/ASCTB-TEMP_amex405,amex_405,CT
+http://purl.obolibrary.org/obo/CL_0000745,horizontal cell,CT
+http://purl.obolibrary.org/obo/CL_0000746,cardiomyocyte,CT
+http://purl.obolibrary.org/obo/CL_0004253,wide field cell,CT
+http://purl.obolibrary.org/obo/PCL_0015003,inh l1-6 lamp5 aard,CT
+http://purl.obolibrary.org/obo/PCL_0015095,exc l6 themis sln,CT
+http://purl.obolibrary.org/obo/PCL_0015005,inh l1-6 lamp5 ca1,CT
+http://purl.obolibrary.org/obo/PCL_0015122,astro l1-6 fgfr3 aqp1,CT
+http://purl.obolibrary.org/obo/CL_0000970,memory b cell,CT
+http://purl.obolibrary.org/obo/CL_0002201,intercalated cell type b,CT
+http://purl.obolibrary.org/obo/CL_0001055,monocytes,CT
+https://purl.org/ccf/ASCTB-TEMP_cbi299,cbi_299,CT
+http://purl.obolibrary.org/obo/CL_0001054,cd14 monocyte,CT
+http://purl.obolibrary.org/obo/CL_0002619,adult endothelial progenitor cell,CT
+http://purl.obolibrary.org/obo/CL_0000057,fibroblast,CT
+http://purl.obolibrary.org/obo/CL_0000057,fibroblasts,CT
+http://purl.obolibrary.org/obo/CL_0010008,endothelial cell,CT
+http://purl.obolibrary.org/obo/CL_0010008,cardiac endothelial cell,CT
+http://purl.obolibrary.org/obo/CL_0002303,pigmented ciliary epithelial cell,CT
+http://purl.obolibrary.org/obo/CL_0000236,b cell,CT
+http://purl.obolibrary.org/obo/CL_0000236,b lymphocyte,CT
+https://purl.org/ccf/ASCTB-TEMP_splat313,splat_313,CT
+https://purl.org/ccf/ASCTB-TEMP_cge285,cge_285,CT
+http://purl.obolibrary.org/obo/CL_0000165,neuroendocrine,CT
+http://purl.obolibrary.org/obo/CL_0000165,neuroendocrine cell,CT
+http://purl.obolibrary.org/obo/CL_0000499,stromal cell,CT
+http://purl.obolibrary.org/obo/CL_0000499,splenic stromal cell (non-frc/non-fdc),CT
+http://purl.obolibrary.org/obo/CL_0001062,cd8 t cell effector memory cd45ra,CT
+http://purl.obolibrary.org/obo/PCL_0015088,exc l5 themis slc22a18,CT
+http://purl.obolibrary.org/obo/CL_0009111,centrocyte,CT
+http://purl.obolibrary.org/obo/CL_1000350,basal cell of epithelium of terminal bronchiole,CT
+https://purl.org/ccf/ASCTB-TEMP_oligo50,oligo_50,CT
+http://purl.obolibrary.org/obo/CL_4030011,proximal tubule cell epithelial segment 3,CT
+http://purl.obolibrary.org/obo/CL_0002153,keratinocyte (corneocyte),CT
+http://purl.obolibrary.org/obo/CL_0000096,neutrophil (normally intravascular only),CT
+https://purl.org/ccf/ASCTB-TEMP_splat238,splat_238,CT
+http://purl.obolibrary.org/obo/CL_0002620,fibroblast,CT
+https://purl.org/ccf/ASCTB-TEMP_cge294,cge_294,CT
+http://purl.obolibrary.org/obo/CL_0000097,mast cell,CT
+http://purl.obolibrary.org/obo/CL_0000097,mast cells,CT
+https://purl.org/ccf/ASCTB-TEMP_dlit144,dlit_144,CT
+http://purl.obolibrary.org/obo/CL_0002340,luminal epithelia,CT
+http://purl.obolibrary.org/obo/CL_0002341,basal epithelia,CT
+http://purl.obolibrary.org/obo/CL_4030016,distal convoluted tubule cell type 1,CT
+http://purl.obolibrary.org/obo/PCL_0015012,inh l1-2 vip htr3a,CT
+http://purl.obolibrary.org/obo/PCL_0015094,exc l6 themis linc00343,CT
+http://purl.obolibrary.org/obo/CL_0000883,macrophage,CT
+http://purl.obolibrary.org/obo/PCL_0015082,exc l3 themis enpep,CT
+http://purl.obolibrary.org/obo/CL_1001599,pancreas exocrine glandular cell,CT
+http://purl.obolibrary.org/obo/PCL_0015044,inh l5-6 pvalb sst crhr2,CT
+http://purl.obolibrary.org/obo/CL_0009011,transient amplifying cell,CT
+http://purl.obolibrary.org/obo/CL_0001071,innate lymphoid cell 3,CT
+http://purl.obolibrary.org/obo/CL_2000040,endothelium,CT
+http://purl.obolibrary.org/obo/PCL_0015110,exc l5 fezf2 csn1s1,CT
+http://purl.obolibrary.org/obo/CL_0000771,eosinophil,CT
+http://purl.obolibrary.org/obo/CL_0000771,eosinophils,CT
+http://purl.obolibrary.org/obo/CL_0009107,lymphatic endothelial cell -subcapsular sinus ceiling,CT
+http://purl.obolibrary.org/obo/CL_1000279,muscle,CT
+http://purl.obolibrary.org/obo/CL_0002313,neuroendocrine epithelia,CT
+https://purl.org/ccf/ASCTB-TEMP_dlct6b107,dlct6b_107,CT
+http://purl.obolibrary.org/obo/PCL_0015076,exc l2-3 rorb rtkn2,CT
+http://purl.obolibrary.org/obo/CL_4033030,diffuse bipolar 3b cell,CT
+https://purl.org/ccf/ASCTB-TEMP_llc275,llc_275,CT
+https://purl.org/ccf/ASCTB-TEMP_astro55,astro_55,CT
+https://purl.org/ccf/ASCTB-TEMP_bgl51,bgl_51,CT
+https://purl.org/ccf/ASCTB-TEMP_l5et113,l5et_113,CT
+http://purl.obolibrary.org/obo/PCL_0015030,inh l3-5 vip hs3st3a1,CT
+http://purl.obolibrary.org/obo/CL_0000402,cns interneuron,CT
+http://purl.obolibrary.org/obo/CL_0002138,lymphatic endothelium,CT
+http://purl.obolibrary.org/obo/CL_0002138,ilf lymphatic endothelium,CT
+http://purl.obolibrary.org/obo/CL_0002138,hepatic lymphatic endothelial cell,CT
+http://purl.obolibrary.org/obo/CL_0002138,endothelial cell of lymphatic vessel,CT
+http://purl.obolibrary.org/obo/CL_0002138,lymphatic endothelium cell,CT
+http://purl.obolibrary.org/obo/CL_0002138,lymphatic,CT
+http://purl.obolibrary.org/obo/CL_0002138,lymphatic endothelial cell,CT
+http://purl.obolibrary.org/obo/CL_0009086,endothelial cell of respiratory system lymphatic vessel,CT
+http://purl.obolibrary.org/obo/CL_0000163,endocrine,CT
+http://purl.obolibrary.org/obo/CL_0000163,endocrine lineage cell,CT
+http://purl.obolibrary.org/obo/CL_0002038,t follicular helper cell,CT
+http://purl.obolibrary.org/obo/CL_4033010,neuroendocrine cell of epithelium of lobar bronchus,CT
+http://purl.obolibrary.org/obo/CL_0000824,mature natural killer,CT
+http://purl.obolibrary.org/obo/CL_0000169,beta cell,CT
+http://purl.obolibrary.org/obo/PCL_0015043,inh l5-6 sst isx,CT
+http://purl.obolibrary.org/obo/CL_0000990,dendritic cell (classical),CT
+http://purl.obolibrary.org/obo/CL_0000990,dendritic cell type 2 (dc2),CT
+http://purl.obolibrary.org/obo/CL_0000990,conventional dc 1,CT
+http://purl.obolibrary.org/obo/CL_0000990,dendritic cell type 1 (dc1),CT
+https://purl.org/ccf/ASCTB-TEMP_dlct6b110,dlct6b_110,CT
+https://purl.org/ccf/ASCTB-TEMP_cge296,cge_296,CT
+http://purl.obolibrary.org/obo/CL_0000132,corneal endothelial cell,CT
+http://purl.obolibrary.org/obo/CL_0000788,naive b cell,CT
+http://purl.obolibrary.org/obo/PCL_0015100,exc l5 themis rgpd6,CT
+http://purl.obolibrary.org/obo/PCL_0015120,oligo l2-6 opalin fth1p3,CT
+https://purl.org/ccf/ASCTB-TEMP_dlnp87,dlnp_87,CT
+http://purl.obolibrary.org/obo/CL_0000809,double positive thymocyte,CT
+http://purl.obolibrary.org/obo/CL_0000895,naive cd4+ t cell,CT
+http://purl.obolibrary.org/obo/CL_0000895,"naive thymus-derived cd4-positive, alpha-beta t cell",CT
+http://purl.obolibrary.org/obo/CL_0000895,cd4 naive,CT
+https://purl.org/ccf/ASCTB-TEMP_perineural-cell,perineural cell,CT
+http://purl.obolibrary.org/obo/CL_1000768,connecting tubule cell,CT
+http://purl.obolibrary.org/obo/CL_0000899,th17 cell,CT
+https://purl.org/ccf/ASCTB-TEMP_url310,url_310,CT
+https://purl.org/ccf/ASCTB-TEMP_splat373,splat_373,CT
+http://purl.obolibrary.org/obo/CL_0009080,tuft cell,CT
+http://purl.obolibrary.org/obo/CL_0009080,tuft cells,CT
+https://purl.org/ccf/ASCTB-TEMP_splat354,splat_354,CT
+http://purl.obolibrary.org/obo/CL_0009073,medullary thymic epithelial cell type 3,CT
+http://purl.obolibrary.org/obo/PCL_0015114,exc l5 fezf2 nrep-as1,CT
+http://purl.obolibrary.org/obo/PCL_0015026,inh l2 vip slc6a16,CT
+https://purl.org/ccf/ASCTB-TEMP_splat409,splat_409,CT
+https://purl.org/ccf/ASCTB-TEMP_msn218,msn_218,CT
+http://purl.obolibrary.org/obo/PCL_0015050,inh l1-2 sst ccnjl,CT
+http://purl.obolibrary.org/obo/CL_0000540,dorsal inhibitory neuron 8,CT
+http://purl.obolibrary.org/obo/CL_0000540,dorsal excitatory neuron 2,CT
+http://purl.obolibrary.org/obo/CL_0000540,dorsal excitatory neuron 1,CT
+http://purl.obolibrary.org/obo/CL_0000540,dorsal excitatory neuron 11,CT
+http://purl.obolibrary.org/obo/CL_0000540,medial excitatory neuron 4,CT
+http://purl.obolibrary.org/obo/CL_0000540,medial excitatory neuron 3,CT
+http://purl.obolibrary.org/obo/CL_0000540,medial excitatory neuron 1,CT
+http://purl.obolibrary.org/obo/CL_0000540,dorsal excitatory neuron 10,CT
+http://purl.obolibrary.org/obo/CL_0000540,dorsal inhibitory neuron 1,CT
+http://purl.obolibrary.org/obo/CL_0000540,dorsal excitatory neuron 5,CT
+http://purl.obolibrary.org/obo/CL_0000540,ventral inhibitory neuron 2,CT
+http://purl.obolibrary.org/obo/CL_0000540,dorsal excitatory neuron 12,CT
+http://purl.obolibrary.org/obo/CL_0000540,ventral inhibitory neuron 1,CT
+http://purl.obolibrary.org/obo/CL_0000540,ventral excitatory neuron 3,CT
+http://purl.obolibrary.org/obo/CL_0000540,dorsal inhibitory neuron 3,CT
+http://purl.obolibrary.org/obo/CL_0000540,dorsal excitatory neuron 7,CT
+http://purl.obolibrary.org/obo/CL_0000540,dorsal inhibitory neuron 6,CT
+http://purl.obolibrary.org/obo/CL_0000540,dorsal inhibitory neuron 9,CT
+http://purl.obolibrary.org/obo/CL_0000540,dorsal excitatory neuron 6,CT
+http://purl.obolibrary.org/obo/CL_0000540,medial excitatory neuron 2,CT
+http://purl.obolibrary.org/obo/CL_0000540,ventral excitatory neuron 2,CT
+http://purl.obolibrary.org/obo/CL_0000540,ventral excitatory neuron 1,CT
+http://purl.obolibrary.org/obo/CL_0000540,medial inhibitory neuron 1,CT
+http://purl.obolibrary.org/obo/CL_0000540,dorsal excitatory neuron 8,CT
+http://purl.obolibrary.org/obo/CL_0000540,dorsal inhibitory neuron 5,CT
+http://purl.obolibrary.org/obo/CL_0000540,dorsal excitatory neuron 4,CT
+http://purl.obolibrary.org/obo/CL_0000540,dorsal excitatory neuron 9,CT
+http://purl.obolibrary.org/obo/CL_0000540,dorsal inhibitory neuron 4,CT
+http://purl.obolibrary.org/obo/CL_0000540,ventral inhibitory neuron 3,CT
+http://purl.obolibrary.org/obo/CL_0000540,dorsal excitatory neuron 3,CT
+http://purl.obolibrary.org/obo/CL_0000540,dorsal inhibitory neuron 7,CT
+http://purl.obolibrary.org/obo/CL_0000540,dorsal inhibitory neuron 2,CT
+http://purl.obolibrary.org/obo/CL_0000540,neuron,CT
+http://purl.obolibrary.org/obo/PCL_0015089,exc l5-6 themis tnfaip6,CT
+https://purl.org/ccf/ASCTB-TEMP_oligo47,oligo_47,CT
+http://purl.obolibrary.org/obo/CL_2000008,microvascular endothelial cell,CT
+https://purl.org/ccf/ASCTB-TEMP_mgl9,mgl_9,CT
+http://purl.obolibrary.org/obo/CL_0000192,smooth muscle cell,CT
+http://purl.obolibrary.org/obo/CL_0000192,smooth muscle,CT
+http://purl.obolibrary.org/obo/CL_0000192,splenic smooth muscle cell,CT
+http://purl.obolibrary.org/obo/CL_0000940,mucosal invariant t cell,CT
+http://purl.obolibrary.org/obo/CL_0000940,mucosal associated invariant t cell,CT
+https://purl.org/ccf/ASCTB-TEMP_dlct6b101,dlct6b_101,CT
+http://purl.obolibrary.org/obo/PCL_0015052,inh l1-2 sst prrt4,CT
+http://purl.obolibrary.org/obo/CL_0000158,club cell,CT
+https://purl.org/ccf/ASCTB-TEMP_astro53,astro_53,CT
+https://purl.org/ccf/ASCTB-TEMP_oligo45,oligo_45,CT
+http://purl.obolibrary.org/obo/CL_0001056,dendritic cell,CT
+http://purl.obolibrary.org/obo/CL_0001056,dendritic cell (dc),CT
+http://purl.obolibrary.org/obo/CL_0001056,conventional dendritic cell,CT
+http://purl.obolibrary.org/obo/CL_0001056,dendritic cell type 3 (dc3),CT
+http://purl.obolibrary.org/obo/CL_0001056,dendritic cell (general),CT
+http://purl.obolibrary.org/obo/CL_0000767,basophil,CT
+https://purl.org/ccf/ASCTB-TEMP_llc268,llc_268,CT
+https://purl.org/ccf/ASCTB-TEMP_dlit146,dlit_146,CT
+http://purl.obolibrary.org/obo/CL_0000557,granulocyte-macrophage progenitor cell (gmp),CT
+http://purl.obolibrary.org/obo/CL_0000503,theca cell,CT
+http://purl.obolibrary.org/obo/PCL_0015018,inh l1 sst defb108b,CT
+https://purl.org/ccf/ASCTB-TEMP_mge245,mge_245,CT
+https://purl.org/ccf/ASCTB-TEMP_dlnp96,dlnp_96,CT
+https://purl.org/ccf/ASCTB-TEMP_semilunar-type-1-cell,semilunar type 1 cell,CT
+https://purl.org/ccf/ASCTB-TEMP_ca13119,ca13_119,CT
+http://purl.obolibrary.org/obo/CL_1000324,goblet cell,CT
+http://purl.obolibrary.org/obo/CL_0002145,ciliated columnar cell of tracheobronchial tree,CT
+http://purl.obolibrary.org/obo/PCL_0015064,inh l2-5 pvalb rph3al,CT
+http://purl.obolibrary.org/obo/CL_0009089,lung pericyte,CT
+http://purl.obolibrary.org/obo/CL_0009113,t follicular regulatory cell,CT
+http://purl.obolibrary.org/obo/CL_1000344,paneth,CT
+http://purl.obolibrary.org/obo/CL_1000344,paneth cell,CT
+http://purl.obolibrary.org/obo/CL_0000545,t helper,CT
+http://purl.obolibrary.org/obo/CL_0000545,th1 cell,CT
+https://purl.org/ccf/ASCTB-TEMP_cge288,cge_288,CT
+http://purl.obolibrary.org/obo/CL_0009083,double negative thymocyte 4,CT
+https://purl.org/ccf/ASCTB-TEMP_ca4190,ca4_190,CT
+https://purl.org/ccf/ASCTB-TEMP_dec205-dc,dec205+ dc,CT
+http://purl.obolibrary.org/obo/CL_0000625,cd8+ t cell,CT
+https://purl.org/ccf/ASCTB-TEMP_dlit149,dlit_149,CT
+https://purl.org/ccf/ASCTB-TEMP_epen69,epen_69,CT
+http://purl.obolibrary.org/obo/CL_0000793,surface intraepithelial cd4+ lymphocyte,CT
+http://purl.obolibrary.org/obo/CL_1001111,descending thin limb cell,CT
+https://purl.org/ccf/ASCTB-TEMP_thex458,thex_458,CT
+https://purl.org/ccf/ASCTB-TEMP_ca13182,ca13_182,CT
+http://purl.obolibrary.org/obo/CL_1000692,fibroblast,CT
+http://purl.obolibrary.org/obo/CL_4023060,hippocampal ca1-3 neuron,CT
+http://purl.obolibrary.org/obo/CL_0002088,interstitial cell of cajal,CT
+http://purl.obolibrary.org/obo/CL_0002088,interstitial cells of cajal,CT
+http://purl.obolibrary.org/obo/PCL_0015078,exc l3 lamp5 carm1p1,CT
+http://purl.obolibrary.org/obo/PCL_0015116,exc l5-6 fezf2 ifng-as1,CT
+http://purl.obolibrary.org/obo/CL_0011005,gabaergic interneuron,CT
+http://purl.obolibrary.org/obo/PCL_0015013,inh l1-2 vip wnt4,CT
+https://purl.org/ccf/ASCTB-TEMP_splat369,splat_369,CT
+http://purl.obolibrary.org/obo/CL_0000037,hematopoetic stem cell,CT
+http://purl.obolibrary.org/obo/CL_0000037,hemopoietic stem cell (hsc),CT
+http://purl.obolibrary.org/obo/CL_0001078,group 3 innate lymphoid cell,CT
+http://purl.obolibrary.org/obo/CL_0001078,innate lymphoid cell (type 3),CT
+http://purl.obolibrary.org/obo/CL_0000242,merkel cell,CT
+http://purl.obolibrary.org/obo/CL_0000242,merkel,CT
+http://purl.obolibrary.org/obo/PCL_0015040,inh l1-6 sst npy (sst chodl),CT
+http://purl.obolibrary.org/obo/CL_0000900,cd8 naive,CT
+http://purl.obolibrary.org/obo/CL_0000900,"naive thymus-derived cd8-positive, alpha-beta t cell",CT
+http://purl.obolibrary.org/obo/CL_0000900,naive cd8+ t cell,CT
+http://purl.obolibrary.org/obo/CL_0002573,nerve,CT
+http://purl.obolibrary.org/obo/CL_0002573,nerve/schwann cell,CT
+http://purl.obolibrary.org/obo/CL_0002573,schwann cell,CT
+https://purl.org/ccf/ASCTB-TEMP_splat340,splat_340,CT
+http://purl.obolibrary.org/obo/CL_1000309,adipocyte,CT
+http://purl.obolibrary.org/obo/PCL_0015105,exc l6 fezf2 ffar4,CT
+http://purl.obolibrary.org/obo/CL_4033031,diffuse bipolar 4 cell,CT
+http://purl.obolibrary.org/obo/CL_0000749,on bipolar cell,CT
+http://purl.obolibrary.org/obo/CL_1000695,m2-macrophage,CT
+http://purl.obolibrary.org/obo/PCL_0015004,inh l1-6 lamp5 nes,CT
+https://purl.org/ccf/ASCTB-TEMP_chrp81,chrp_81,CT
+http://purl.obolibrary.org/obo/CL_0000094,granulocyte,CT
+https://purl.org/ccf/ASCTB-TEMP_splenic-perifollicular-zone-macrophage,splenic perifollicular zone macrophage,CT
+http://purl.obolibrary.org/obo/CL_0000751,rod bipolar cell,CT
+http://purl.obolibrary.org/obo/PCL_0015090,exc l3-5 rorb lnx2,CT
+http://purl.obolibrary.org/obo/CL_4028003,cap2 aerocyte capillary acap,CT
+http://purl.obolibrary.org/obo/PCL_0015047,inh l2-3 sst nmu,CT
+http://purl.obolibrary.org/obo/PCL_0015112,exc l3-5 fezf2 linc01107,CT
+https://purl.org/ccf/ASCTB-TEMP_midi443,midi_443,CT
+https://purl.org/ccf/ASCTB-TEMP_cbi306,cbi_306,CT
+http://purl.obolibrary.org/obo/CL_2000053,splenic endothelial cell,CT
+https://purl.org/ccf/ASCTB-TEMP_mgl6,mgl_6,CT
+http://purl.obolibrary.org/obo/CL_4030020,connecting tubule intercalated cell type a,CT
+http://purl.obolibrary.org/obo/CL_4030010,proximal tubule epithelial cell segment 2,CT
+http://purl.obolibrary.org/obo/CL_1000348,basal cell of epithelium of trachea,CT
+http://purl.obolibrary.org/obo/PCL_0015024,inh l1-3 vip fndc1,CT
+http://purl.obolibrary.org/obo/CL_0009105,t cell zone reticular cell,CT
+http://purl.obolibrary.org/obo/CL_0002597,smooth muscle,CT
+http://purl.obolibrary.org/obo/CL_0019032,tuft cell,CT
+https://purl.org/ccf/ASCTB-TEMP_chrp79,chrp_79,CT
+http://purl.obolibrary.org/obo/CL_0000909,non-cytotoxic cd8+ memory t cell,CT
+http://purl.obolibrary.org/obo/CL_0000909,memory cd8+ t cell,CT
+http://purl.obolibrary.org/obo/CL_0000909,cd8 t cell memory,CT
+http://purl.obolibrary.org/obo/CL_0000909,cd8+ t memory,CT
+http://purl.obolibrary.org/obo/CL_0004252,medium-field cell,CT
+http://purl.obolibrary.org/obo/CL_0000561,amacrine cell,CT
+http://purl.obolibrary.org/obo/CL_4033027,diffuse bipolar 1 (db1),CT
+http://purl.obolibrary.org/obo/CL_1000715,cortical collecting duct intercalated cell type a,CT
+http://purl.obolibrary.org/obo/CL_1000715,cortical collecting duct intercalated cell type b,CT
+https://purl.org/ccf/ASCTB-TEMP_chorionic-mesenchymal-stromal-cell-cmsc-,chorionic mesenchymal stromal cell (cmsc),CT
+https://purl.org/ccf/ASCTB-TEMP_lrl317,lrl_317,CT
+http://purl.obolibrary.org/obo/CL_0002363,keratocyte,CT
+http://purl.obolibrary.org/obo/CL_0000359,smooth muscle cell,CT
+http://purl.obolibrary.org/obo/CL_0000359,vascular smooth muscle cells,CT
+http://purl.obolibrary.org/obo/CL_0000359,vascular smooth muscle cell,CT
+http://purl.obolibrary.org/obo/CL_0000359,perivascular smooth muscle cell,CT
+http://purl.obolibrary.org/obo/PCL_0015065,inh l3 pvalb samd13,CT
+https://purl.org/ccf/ASCTB-TEMP_splat416,splat_416,CT
+http://purl.obolibrary.org/obo/CL_0002068,purkinje fiber cell,CT
+http://purl.obolibrary.org/obo/CL_0002255,endometrial stromal cell,CT
+http://purl.obolibrary.org/obo/CL_0009081,double negative thymocyte 2,CT
+http://purl.obolibrary.org/obo/PCL_0015048,inh l5-6 sst pawr,CT
+http://purl.obolibrary.org/obo/CL_0017004,telocyte (interstitial like cell of cajal),CT
+http://purl.obolibrary.org/obo/CL_0017004,telocyte,CT
+http://purl.obolibrary.org/obo/CL_0004219,a2 cell,CT
+http://purl.obolibrary.org/obo/CL_4030015,collecting duct intercalated cell type a,CT
+https://purl.org/ccf/ASCTB-TEMP_amex408,amex_408,CT
+http://purl.obolibrary.org/obo/CL_0000787,memory-like b cell,CT
+http://purl.obolibrary.org/obo/CL_0000787,memory b cell,CT
+https://purl.org/ccf/ASCTB-TEMP_splat412,splat_412,CT
+http://purl.obolibrary.org/obo/CL_1000329,tracheal goblet cell,CT
+http://purl.obolibrary.org/obo/PCL_0015083,exc l3-5 rorb tnnt2,CT
+http://purl.obolibrary.org/obo/CL_0000649,keratinocytes (spinous),CT
+http://purl.obolibrary.org/obo/CL_0000575,corneal epithelial cell,CT
+https://purl.org/ccf/ASCTB-TEMP_ca4195,ca4_195,CT
+http://purl.obolibrary.org/obo/PCL_0015009,inh l1 pax6 chrfam7a,CT
+https://purl.org/ccf/ASCTB-TEMP_interstitial-fibroblast,interstitial fibroblast,CT
+http://purl.obolibrary.org/obo/CL_0002652,ilv high endothelial venule endothelium,CT
+https://purl.org/ccf/ASCTB-TEMP_thex372,thex_372,CT
+http://purl.obolibrary.org/obo/CL_0002399,dendritic cell type 2 (dc2),CT
+http://purl.obolibrary.org/obo/CL_0002399,dendritic cell type 3 (dc3),CT
+http://purl.obolibrary.org/obo/CL_0002399,cdc2 myeloid dendritic cell,CT
+http://purl.obolibrary.org/obo/CL_0002399,conventional dc 2,CT
+http://purl.obolibrary.org/obo/CL_0002399,cdc2 cd1c-positive myeloid dendritic cell,CT
+http://purl.obolibrary.org/obo/CL_0002399,conventional dendritic cell cdc2,CT
+http://purl.obolibrary.org/obo/CL_4033022,mucus secreting cell of bronchus submucosal gland,CT
+http://purl.obolibrary.org/obo/CL_0009079,thymic interlobular fibroblast,CT
+http://purl.obolibrary.org/obo/CL_0000775,neutrophils,CT
+http://purl.obolibrary.org/obo/CL_0000775,neutrophil,CT
+http://purl.obolibrary.org/obo/CL_0000775,neutrophilic granulocyte,CT
+https://purl.org/ccf/ASCTB-TEMP_thex447,thex_447,CT
+https://purl.org/ccf/ASCTB-TEMP_mge240,mge_240,CT
+http://purl.obolibrary.org/obo/PCL_0015014,inh l1 lamp5 bmp2,CT
+http://purl.obolibrary.org/obo/CL_0000235,macrophage,CT
+http://purl.obolibrary.org/obo/CL_0000235,macrophages,CT
+http://purl.obolibrary.org/obo/CL_4033033,flat midget bipolar cell,CT
+http://purl.obolibrary.org/obo/PCL_0015063,inh l2-5 pvalb hhipl1,CT
+http://purl.obolibrary.org/obo/CL_0000128,oligodendrocyte,CT
+http://purl.obolibrary.org/obo/CL_4023061,hippocampal ca4 neuron,CT
+http://purl.obolibrary.org/obo/CL_0002059,conventional dendritic cell 1,CT
+https://purl.org/ccf/ASCTB-TEMP_splat343,splat_343,CT
+https://purl.org/ccf/ASCTB-TEMP_midi444,midi_444,CT
+http://purl.obolibrary.org/obo/PCL_0015017,inh l1 sst p4ha3,CT
+https://purl.org/ccf/ASCTB-TEMP_dlit152,dlit_152,CT
+https://purl.org/ccf/ASCTB-TEMP_lrl316,lrl_316,CT
+http://purl.obolibrary.org/obo/CL_0009018,b cell,CT
+http://purl.obolibrary.org/obo/CL_0009018,cd4+ t cell,CT
+http://purl.obolibrary.org/obo/CL_0009018,nk cell,CT
+http://purl.obolibrary.org/obo/CL_0009018,cd8+ t cell,CT
+http://purl.obolibrary.org/obo/CL_0009018,innate lymphoid cell,CT
+http://purl.obolibrary.org/obo/CL_0009018,regulatory cd4+ t cell,CT
+http://purl.obolibrary.org/obo/CL_4030019,connecting tubule intercalated cell,CT
+https://purl.org/ccf/ASCTB-TEMP_splat335,splat_335,CT
+http://purl.obolibrary.org/obo/CL_0000576,monocyte,CT
+http://purl.obolibrary.org/obo/CL_0000654,primary oocyte,CT
+http://purl.obolibrary.org/obo/PCL_0015061,inh l3-5 pvalb isg20,CT
+http://purl.obolibrary.org/obo/CL_0009078,thymic capsular fibroblast,CT
+https://purl.org/ccf/ASCTB-TEMP_cge286,cge_286,CT
+http://purl.obolibrary.org/obo/PCL_0015085,exc l5 themis vill,CT
+https://purl.org/ccf/ASCTB-TEMP_cge287,cge_287,CT
+http://purl.obolibrary.org/obo/CL_0000084,t cell,CT
+http://purl.obolibrary.org/obo/CL_0000084,t lymphocytes,CT
+http://purl.obolibrary.org/obo/CL_0000084,t lymphocyte,CT
+http://purl.obolibrary.org/obo/CL_0009112,centroblast,CT
+http://purl.obolibrary.org/obo/CL_1000351,basal cell of epithelium of respiratory bronchiole,CT
+http://purl.obolibrary.org/obo/CL_0000837,hemopoietic stem cell/multipotent progenitor (hsc/mpp),CT
+http://purl.obolibrary.org/obo/CL_0000837,multipotent progenitor cell (mpp),CT
+http://purl.obolibrary.org/obo/CL_0002224,lens epithelial cell,CT
+http://purl.obolibrary.org/obo/CL_0000049,common myeloid progenitor (cmp),CT
+http://purl.obolibrary.org/obo/CL_0000451,dendritic cell,CT
+http://purl.obolibrary.org/obo/CL_0000451,dendritic cell (dc),CT
+http://purl.obolibrary.org/obo/CL_0000451,dcs,CT
+http://purl.obolibrary.org/obo/CL_0002304,non-pigmented ciliary epithelial cell,CT
+http://purl.obolibrary.org/obo/CL_0002364,cortical thymic epithelial cell,CT
+http://purl.obolibrary.org/obo/CL_4030009,proximal tubule epithelial cell segment 1,CT
+https://purl.org/ccf/ASCTB-TEMP_mge248,mge_248,CT
+https://purl.org/ccf/ASCTB-TEMP_dlnp85,dlnp_85,CT
+http://purl.obolibrary.org/obo/CL_0000938,nk cd56bright,CT
+http://purl.obolibrary.org/obo/CL_0000938,cd56 bright natural killer,CT
+https://purl.org/ccf/ASCTB-TEMP_fbl25,fbl_25,CT
+https://purl.org/ccf/ASCTB-TEMP_fbl26,fbl_26,CT
+http://purl.obolibrary.org/obo/PCL_0015010,inh l1-6 vip slc7a6os,CT
+https://purl.org/ccf/ASCTB-TEMP_dlct6b99,dlct6b_99,CT
+https://purl.org/ccf/ASCTB-TEMP_emsn234,emsn_234,CT
+http://purl.obolibrary.org/obo/CL_0000312,keratinocyte (granular),CT
+http://purl.obolibrary.org/obo/CL_0000312,keratinocyte,CT
+http://purl.obolibrary.org/obo/PCL_0015062,inh l5 pvalb lrig3,CT
+https://purl.org/ccf/ASCTB-TEMP_splat367,splat_367,CT
+https://purl.org/ccf/ASCTB-TEMP_ulit135,ulit_135,CT
+http://purl.obolibrary.org/obo/CL_0000897,memory cd4+ t cell,CT
+http://purl.obolibrary.org/obo/CL_0000897,cd4+ t memory t cell,CT
+http://purl.obolibrary.org/obo/CL_0000897,cd4 t cell memory,CT
+http://purl.obolibrary.org/obo/CL_0000897,cd4+ memory t cell,CT
+http://purl.obolibrary.org/obo/CL_0000740,ganglion cell,CT
+https://purl.org/ccf/ASCTB-TEMP_splat380,splat_380,CT
+http://purl.obolibrary.org/obo/CL_4023009,extratelencephalic-projecting glutamatergic cortical neuron,CT
+http://purl.obolibrary.org/obo/CL_1000398,liver sinusoid endothelial cell,CT
+https://purl.org/ccf/ASCTB-TEMP_amex175,amex_175,CT
+http://purl.obolibrary.org/obo/CL_0007010,preosteoblast,CT
+http://purl.obolibrary.org/obo/CL_0002425,early thymic progenitor,CT
+http://purl.obolibrary.org/obo/PCL_0015102,exc l5-6 fezf2 filip1l,CT
+http://purl.obolibrary.org/obo/CL_0002062,alveolar type i cell,CT
+http://purl.obolibrary.org/obo/CL_4033005,serous secreting cell of bronchus submucosal gland,CT
+https://purl.org/ccf/ASCTB-TEMP_opc35,opc_35,CT
+http://purl.obolibrary.org/obo/CL_0001065,ilcs,CT
+http://purl.obolibrary.org/obo/CL_0001065,innate lyphoid cell (ilc),CT
+http://purl.obolibrary.org/obo/CL_0001065,ilc,CT
+http://purl.obolibrary.org/obo/CL_0001065,innate lymphoid cell,CT
+https://purl.org/ccf/ASCTB-TEMP_ca13169,ca13_169,CT
+http://purl.obolibrary.org/obo/CL_0002437,cd8+ t single positive thymocyte,CT
+http://purl.obolibrary.org/obo/CL_0002437,mature cd8 t cell,CT
+https://purl.org/ccf/ASCTB-TEMP_ulit128,ulit_128,CT
+https://purl.org/ccf/ASCTB-TEMP_mge257,mge_257,CT
+http://purl.obolibrary.org/obo/CL_0000066,epithelial cell,CT
+http://purl.obolibrary.org/obo/PCL_0015081,exc l2-3 rorb ptpn3,CT
+https://purl.org/ccf/ASCTB-TEMP_chrp76,chrp_76,CT
+https://purl.org/ccf/ASCTB-TEMP_astro61,astro_61,CT
+http://purl.obolibrary.org/obo/CL_0000525,syncytiotrophoblast (stb),CT
+http://purl.obolibrary.org/obo/CL_1001285,descending vasa recta endothelial cell,CT
+https://purl.org/ccf/ASCTB-TEMP_periepithelial-fibroblast,periepithelial fibroblast,CT
+http://purl.obolibrary.org/obo/CL_0000584,enterocyte,CT
+http://purl.obolibrary.org/obo/CL_0000584,enterocytes,CT
+https://purl.org/ccf/ASCTB-TEMP_tcell1,tcell_1,CT
+http://purl.obolibrary.org/obo/CL_1000849,distal convoluted tubule cell,CT
+https://purl.org/ccf/ASCTB-TEMP_ulit122,ulit_122,CT
+http://purl.obolibrary.org/obo/CL_0000434,eccrine,CT
+https://purl.org/ccf/ASCTB-TEMP_ca13181,ca13_181,CT
+http://purl.obolibrary.org/obo/CL_4033016,secondary crest myofibroblast,CT
+https://purl.org/ccf/ASCTB-TEMP_splat347,splat_347,CT
+http://purl.obolibrary.org/obo/PCL_0015055,inh l5-6 sst c4orf26,CT
+http://purl.obolibrary.org/obo/CL_1000452,parietal epithelial cell,CT
+https://purl.org/ccf/ASCTB-TEMP_astro52,astro_52,CT
+https://purl.org/ccf/ASCTB-TEMP_club-cell-of-prostatic-urethra,club cell of prostatic urethra,CT
+http://purl.obolibrary.org/obo/CL_0001035,bone cell,CT
+https://purl.org/ccf/ASCTB-TEMP_opc36,opc_36,CT
+http://purl.obolibrary.org/obo/CL_0000317,sebocyte,CT
+http://purl.obolibrary.org/obo/CL_1001474,medium spiny neuron,CT
+http://purl.obolibrary.org/obo/CL_1001474,eccentric medium spiny neuron,CT
+http://purl.obolibrary.org/obo/CL_0000129,microglial cell,CT
+http://purl.obolibrary.org/obo/CL_0000129,microglia,CT
+https://purl.org/ccf/ASCTB-TEMP_llc264,llc_264,CT
+http://purl.obolibrary.org/obo/CL_0000669,pericyte,CT
+http://purl.obolibrary.org/obo/CL_0000669,splenic pericyte,CT
+http://purl.obolibrary.org/obo/CL_0000669,pericytes,CT
+http://purl.obolibrary.org/obo/CL_0000669,pericyte cell,CT
+http://purl.obolibrary.org/obo/CL_0002605,astrocyte of the cerebral cortex,CT
+http://purl.obolibrary.org/obo/CL_0000092,osteoclasts,CT
+http://purl.obolibrary.org/obo/PCL_0015006,inh l5-6 lamp5 crabp1,CT
+http://purl.obolibrary.org/obo/CL_0000786,plasma,CT
+http://purl.obolibrary.org/obo/CL_0000786,plasma cell,CT
+http://purl.obolibrary.org/obo/CL_0000624,cd4+t cell,CT
+https://purl.org/ccf/ASCTB-TEMP_splat363,splat_363,CT
+https://purl.org/ccf/ASCTB-TEMP_l5et115,l5et_115,CT
+https://purl.org/ccf/ASCTB-TEMP_amex161,amex_161,CT
+https://purl.org/ccf/ASCTB-TEMP_splat368,splat_368,CT
+https://purl.org/ccf/ASCTB-TEMP_amex174,amex_174,CT
+http://purl.obolibrary.org/obo/PCL_0015107,exc l5-6 fezf2 cftr,CT
+http://purl.obolibrary.org/obo/CL_0019015,lung parenchyma resident eosinophil,CT
+http://purl.obolibrary.org/obo/CL_0000738,leukocyte,CT
+https://purl.org/ccf/ASCTB-TEMP_ulit134,ulit_134,CT
+http://purl.obolibrary.org/obo/CL_0000484,connective tissue type mast cell,CT
+http://purl.obolibrary.org/obo/CL_0001058,plasmacytoid dendritic cell,CT
+http://purl.obolibrary.org/obo/CL_0001058,dendritic cell (plasmatoid),CT
+http://purl.obolibrary.org/obo/CL_0001058,plasmacytoid dendritic cell (pdc),CT
+http://purl.obolibrary.org/obo/CL_0000623,nk cells,CT
+http://purl.obolibrary.org/obo/CL_0000623,natural killer cell,CT
+http://purl.obolibrary.org/obo/CL_0000623,nk,CT
+http://purl.obolibrary.org/obo/CL_0000623,nk cell,CT
+http://purl.obolibrary.org/obo/CL_0000623,natural killer (nk) cell,CT
+https://purl.org/ccf/ASCTB-TEMP_mge258,mge_258,CT
+http://purl.obolibrary.org/obo/PCL_0015033,inh l2-5 vip bspry,CT
+http://purl.obolibrary.org/obo/CL_1000412,endothelial cell of arteriole,CT
+http://purl.obolibrary.org/obo/CL_1000412,arteriole endothelial cell,CT
+http://purl.obolibrary.org/obo/CL_1000412,arteriole endothelium,CT
+https://purl.org/ccf/ASCTB-TEMP_misc164,misc_164,CT
+http://purl.obolibrary.org/obo/PCL_0015019,inh l1-3 vip cbln1,CT
+https://purl.org/ccf/ASCTB-TEMP_fbl29,fbl_29,CT
+https://purl.org/ccf/ASCTB-TEMP_cbi302,cbi_302,CT
+http://purl.obolibrary.org/obo/CL_0009069,cd8aa(ii) thymocyte,CT
+http://purl.obolibrary.org/obo/CL_0002071,absorptive,CT
+https://purl.org/ccf/ASCTB-TEMP_emsn227,emsn_227,CT
+https://purl.org/ccf/ASCTB-TEMP_misc176,misc_176,CT
+http://purl.obolibrary.org/obo/CL_4033024,airway submucosal gland duct basal cell,CT
+https://purl.org/ccf/ASCTB-TEMP_splenic-pericyte,splenic pericyte,CT
+https://purl.org/ccf/ASCTB-TEMP_misc314,misc_314,CT
+http://purl.obolibrary.org/obo/CL_4033009,goblet cell of epithelium of lobar bronchus,CT
+http://purl.obolibrary.org/obo/CL_0000815,t reg,CT
+http://purl.obolibrary.org/obo/CL_0000815,regulatory t cell,CT
+http://purl.obolibrary.org/obo/CL_0000815,t regulatory cell,CT
+http://purl.obolibrary.org/obo/CL_0000815,t regulatory,CT
+http://purl.obolibrary.org/obo/CL_0000840,transitional dendritic cell (tdc),CT
+http://purl.obolibrary.org/obo/PCL_0015073,exc l2 lamp5 kcng3,CT
+http://purl.obolibrary.org/obo/PCL_0015092,exc l5 rorb med8,CT
+https://purl.org/ccf/ASCTB-TEMP_cop38,cop_38,CT
+https://purl.org/ccf/ASCTB-TEMP_dlct6b108,dlct6b_108,CT
+https://purl.org/ccf/ASCTB-TEMP_emsn225,emsn_225,CT
+https://purl.org/ccf/ASCTB-TEMP_msn216,msn_216,CT
+http://purl.obolibrary.org/obo/CL_0000077,mesothelial cell,CT
+http://purl.obolibrary.org/obo/CL_0000077,mesothelial,CT
+http://purl.obolibrary.org/obo/CL_0002144,capillary endothelial cell,CT
+http://purl.obolibrary.org/obo/CL_0002144,capillary endothelium,CT
+http://purl.obolibrary.org/obo/PCL_0015029,inh l1-5 vip smoc1,CT
+http://purl.obolibrary.org/obo/CL_0000546,th2 cell,CT
+http://purl.obolibrary.org/obo/CL_4033034,invaginating bipolar cell,CT
+http://purl.obolibrary.org/obo/CL_0002592,smooth muscle cell,CT
+https://purl.org/ccf/ASCTB-TEMP_cop37,cop_37,CT
+http://purl.obolibrary.org/obo/CL_0001087,cd4 t cell effector memory cd45ra,CT
+http://purl.obolibrary.org/obo/PCL_0015098,exc l5-6 fezf2 or1l8,CT
+http://purl.obolibrary.org/obo/CL_4033019,blue cone bipolar cell,CT
+http://purl.obolibrary.org/obo/PCL_0015070,inh l5-6 pvalb fam150b,CT
+http://purl.obolibrary.org/obo/CL_0000980,plasmablast,CT
+http://purl.obolibrary.org/obo/PCL_0015093,exc l5 themis fgf10,CT
+http://purl.obolibrary.org/obo/PCL_0015103,exc l5-6 fezf2 sh2d1b,CT
+http://purl.obolibrary.org/obo/CL_4023189,parasol cell,CT
+https://purl.org/ccf/ASCTB-TEMP_amex156,amex_156,CT
+http://purl.obolibrary.org/obo/CL_1000413,endothelial cell,CT
+http://purl.obolibrary.org/obo/CL_1000413,blood endothelial cells,CT
+http://purl.obolibrary.org/obo/CL_1000413,endothelial cell of artery,CT
+http://purl.obolibrary.org/obo/CL_3000002,sympathetic noradrenergic nerve,CT
+http://purl.obolibrary.org/obo/CL_0000151,"germinative (epithelial) cell, sebocyte",CT
+https://purl.org/ccf/ASCTB-TEMP_amex160,amex_160,CT
+http://purl.obolibrary.org/obo/PCL_0015036,inh l1-5 vip phldb3,CT
+https://purl.org/ccf/ASCTB-TEMP_mgl12,mgl_12,CT
+http://purl.obolibrary.org/obo/CL_1001096,afferent arteriole endothelial cell,CT
+https://purl.org/ccf/ASCTB-TEMP_splat235,splat_235,CT
+http://purl.obolibrary.org/obo/CL_0012000,astrocyte of the forebrain,CT
+https://purl.org/ccf/ASCTB-TEMP_msn220,msn_220,CT
+https://purl.org/ccf/ASCTB-TEMP_astro58,astro_58,CT
+http://purl.obolibrary.org/obo/CL_4033028,diffuse bipolar 2 cell,CT
+http://purl.obolibrary.org/obo/PCL_0015121,oligo l5-6 opalin ldlrap1,CT
+http://purl.obolibrary.org/obo/CL_0002460,conventional dendritic cell 2,CT
+http://purl.obolibrary.org/obo/CL_0002576,perineurial cell,CT
+http://purl.obolibrary.org/obo/PCL_0015015,inh l1 lamp5 nmbr,CT
+https://purl.org/ccf/ASCTB-TEMP_epen74,epen_74,CT
+http://purl.obolibrary.org/obo/CL_4030013,descending thin limb cell type 2,CT
+https://purl.org/ccf/ASCTB-TEMP_splat422,splat_422,CT
+http://purl.obolibrary.org/obo/CL_1000457,mesothelial cell,CT
+http://purl.obolibrary.org/obo/CL_0009076,neuro-medullary thymic epithelial cell,CT
+http://purl.obolibrary.org/obo/CL_0009075,myo-medullary thymic epithelial cell,CT
+http://purl.obolibrary.org/obo/CL_0009071,medullary thymic epithelial cell type 1,CT
+http://purl.obolibrary.org/obo/CL_1001318,vascular smooth muscle cell/pericyte (general),CT
+https://purl.org/ccf/ASCTB-TEMP_uterine-nk-cell,uterine nk cell,CT
+http://purl.obolibrary.org/obo/CL_0009070,corticomedullary thymic epithelial cell,CT
+http://purl.obolibrary.org/obo/CL_4023073,choroid plexus cell,CT
+https://purl.org/ccf/ASCTB-TEMP_ca4197,ca4_197,CT
+http://purl.obolibrary.org/obo/CL_0000935,surface intraepithelial cd4-cd8- lymphocyte alpha/beta,CT
+http://purl.obolibrary.org/obo/CL_0000934,cytotoxic cd4 t cell,CT
+https://purl.org/ccf/ASCTB-TEMP_dlct6b111,dlct6b_111,CT
+http://purl.obolibrary.org/obo/PCL_0015077,exc l2-3 linc00507 dsg3,CT
+http://purl.obolibrary.org/obo/CL_0000750,off bipolar cell,CT
+https://purl.org/ccf/ASCTB-TEMP_chrp82,chrp_82,CT
+https://purl.org/ccf/ASCTB-TEMP_splat397,splat_397,CT
+http://purl.obolibrary.org/obo/PCL_0015059,inh l5-6 pvalb kcnip2,CT
+http://purl.obolibrary.org/obo/PCL_0015028,inh l3-5 vip igdcc3,CT
+http://purl.obolibrary.org/obo/CL_4023057,cerebellar inhibitory,CT
+http://purl.obolibrary.org/obo/CL_0000845,superficial zone b cell,CT
+http://purl.obolibrary.org/obo/CL_0000492,cd4+ t cell,CT
+https://purl.org/ccf/ASCTB-TEMP_cbi300,cbi_300,CT
+http://purl.obolibrary.org/obo/PCL_0015046,inh l3-5 sst ggtlc3,CT
+http://purl.obolibrary.org/obo/CL_0009074,medullary thymic epithelial cell type 4,CT
+https://purl.org/ccf/ASCTB-TEMP_mmb327,mmb_327,CT
+http://purl.obolibrary.org/obo/PCL_0015031,inh l5-6 vip col4a3,CT
+http://purl.obolibrary.org/obo/CL_0002196,hepatic oval cell ,CT
+https://purl.org/ccf/ASCTB-TEMP_splat388,splat_388,CT
+http://purl.obolibrary.org/obo/CL_0002225,mature fiber cell,CT
+http://purl.obolibrary.org/obo/CL_0011004,lens fiber cell,CT
+https://purl.org/ccf/ASCTB-TEMP_splat377,splat_377,CT
+http://purl.obolibrary.org/obo/CL_0002042,lymphatic endothelium,CT
+https://purl.org/ccf/ASCTB-TEMP_llc274,llc_274,CT
+https://purl.org/ccf/ASCTB-TEMP_thex452,thex_452,CT
+http://purl.obolibrary.org/obo/CL_0000136,adipocyte,CT
+http://purl.obolibrary.org/obo/CL_0000136,fat cell,CT
+https://purl.org/ccf/ASCTB-TEMP_misc116,misc_116,CT
+http://purl.obolibrary.org/obo/CL_0000744,columnar chondrocytes,CT
+http://purl.obolibrary.org/obo/CL_4033020,mucus secreting cell of trachea gland,CT
+http://purl.obolibrary.org/obo/PCL_0015097,exc l5-6 themis smyd1 (l6 it car3),CT
+http://purl.obolibrary.org/obo/PCL_0015051,inh l1-3 sst fam20a,CT
+https://purl.org/ccf/ASCTB-TEMP_amex407,amex_407,CT
+http://purl.obolibrary.org/obo/CL_0002292,glomus cell,CT
+http://purl.obolibrary.org/obo/PCL_0015069,inh l5-6 pvalb gapdhp60,CT
+http://purl.obolibrary.org/obo/CL_0000100,motor neuron,CT
+http://purl.obolibrary.org/obo/PCL_0015057,inh l5-6 sst klhl1,CT
+http://purl.obolibrary.org/obo/PCL_0015042,inh l5 sst rpl35ap11,CT
+http://purl.obolibrary.org/obo/CL_1000458,melanocyte,CT
+http://purl.obolibrary.org/obo/CL_0002262,endothelial cell of sinusoid,CT
+https://purl.org/ccf/ASCTB-TEMP_semilunar-type-3-cell,semilunar type 3 cell,CT
+https://purl.org/ccf/ASCTB-TEMP_dlit141,dlit_141,CT
+https://purl.org/ccf/ASCTB-TEMP_ca13188,ca13_188,CT
+http://purl.obolibrary.org/obo/PCL_0015056,inh l5-6 sst fbn2,CT
+http://purl.obolibrary.org/obo/PCL_0015117,exc l5-6 fezf2 lpo,CT
+http://purl.obolibrary.org/obo/PCL_0015091,exc l3-5 rorb rprm,CT
+http://purl.obolibrary.org/obo/CL_0001070,beige adipocyte,CT
+https://purl.org/ccf/ASCTB-TEMP_llc269,llc_269,CT
+https://purl.org/ccf/ASCTB-TEMP_cge279,cge_279,CT
+https://purl.org/ccf/ASCTB-TEMP_astro60,astro_60,CT
+https://purl.org/ccf/ASCTB-TEMP_vendc15,vendc_15,CT
+http://purl.obolibrary.org/obo/CL_0009077,subcapsular cortical epithelial cell,CT
+https://purl.org/ccf/ASCTB-TEMP_splat341,splat_341,CT
+http://purl.obolibrary.org/obo/PCL_0015068,inh l1-2 sst clic6,CT
+http://purl.obolibrary.org/obo/CL_4028006,adventitial fibroblast,CT
+http://purl.obolibrary.org/obo/PCL_0015074,exc l2 linc00507 atp7b,CT
+https://purl.org/ccf/ASCTB-TEMP_dlnp88,dlnp_88,CT
+https://purl.org/ccf/ASCTB-TEMP_llc270,llc_270,CT
+https://purl.org/ccf/ASCTB-TEMP_thex455,thex_455,CT
+https://purl.org/ccf/ASCTB-TEMP_thex451,thex_451,CT
+http://purl.obolibrary.org/obo/CL_0002410,pancreatic stellate cell,CT
+http://purl.obolibrary.org/obo/PCL_0015115,exc l5 fezf2 rnf144a-as1,CT
+http://purl.obolibrary.org/obo/PCL_0015087,exc l3-5 rorb linc01202,CT
+https://purl.org/ccf/ASCTB-TEMP_msn427,msn_427,CT
+http://purl.obolibrary.org/obo/PCL_0015106,exc l6 fezf2 prokr2,CT
+http://purl.obolibrary.org/obo/CL_0000876,macrophage,CT
+http://purl.obolibrary.org/obo/CL_0000876,macrophages,CT
+https://purl.org/ccf/ASCTB-TEMP_splat344,splat_344,CT
+http://purl.obolibrary.org/obo/CL_4023059,committed oligodendrocyte precursor cell,CT
+https://purl.org/ccf/ASCTB-TEMP_msn207,msn_207,CT
+http://purl.obolibrary.org/obo/CL_1000742,mesangial cell,CT
+https://purl.org/ccf/ASCTB-TEMP_subcapsular-dendritic-cell,subcapsular dendritic cell,CT
+http://purl.obolibrary.org/obo/CL_0009068,cd8aa(i) thymocyte,CT
+http://purl.obolibrary.org/obo/CL_4030028,glycinergic amacrine cell,CT
+http://purl.obolibrary.org/obo/CL_0000866,macrophage,CT
+http://purl.obolibrary.org/obo/CL_0000816,immature b cell,CT
+https://purl.org/ccf/ASCTB-TEMP_llc271,llc_271,CT
+https://purl.org/ccf/ASCTB-TEMP_splat358,splat_358,CT
+http://purl.obolibrary.org/obo/CL_4033007,tuft cell,CT
+https://purl.org/ccf/ASCTB-TEMP_midi436,midi_436,CT
+https://purl.org/ccf/ASCTB-TEMP_amex406,amex_406,CT
+https://purl.org/ccf/ASCTB-TEMP_dlit143,dlit_143,CT
+http://purl.obolibrary.org/obo/PCL_0015071,inh l5-6 pvalb mepe,CT
+http://purl.obolibrary.org/obo/CL_0000794,cytotoxic t cells,CT
+https://purl.org/ccf/ASCTB-TEMP_mgl10,mgl_10,CT
+https://purl.org/ccf/ASCTB-TEMP_cbi304,cbi_304,CT
+https://purl.org/ccf/ASCTB-TEMP_splat410,splat_410,CT
+http://purl.obolibrary.org/obo/CL_0000173,delta cell,CT
+https://purl.org/ccf/ASCTB-TEMP_splenic-red-pulp-stromal-cell,splenic red pulp stromal cell,CT
+http://purl.obolibrary.org/obo/CL_1001568,pulmonary artery endothelial cell,CT
+https://purl.org/ccf/ASCTB-TEMP_dlit142,dlit_142,CT
+http://purl.obolibrary.org/obo/CL_1000717,outer medullary collecting duct intercalated cell type a,CT
+http://purl.obolibrary.org/obo/CL_1000493,mesothelial cell of visceral pleura,CT
+http://purl.obolibrary.org/obo/CL_4028004,alveolar type 1 fibroblast cell,CT
+http://purl.obolibrary.org/obo/PCL_0015001,inh l1 lamp5 pvrl2,CT
+http://purl.obolibrary.org/obo/CL_0000798,gamma/delta t cells,CT
+http://purl.obolibrary.org/obo/CL_0000798,gamma-delta t cell,CT
+http://purl.obolibrary.org/obo/CL_0000798,gamma delta t cell,CT
+https://purl.org/ccf/ASCTB-TEMP_emsn233,emsn_233,CT
+https://purl.org/ccf/ASCTB-TEMP_vendplvap13,vendplvap_13,CT
+http://purl.obolibrary.org/obo/CL_0000115,endothelial cell,CT
+http://purl.obolibrary.org/obo/CL_0000115,endothelial,CT
+http://purl.obolibrary.org/obo/CL_0000115,endoethlial,CT
+http://purl.obolibrary.org/obo/CL_0000115,endothelial cells,CT
+http://purl.obolibrary.org/obo/CL_0000075,columnar cell ( larger cholangiocytes are more columnar) has ciliae,CT
+http://purl.obolibrary.org/obo/CL_0000653,podocyte,CT
+http://purl.obolibrary.org/obo/CL_4033029,diffuse bipolar 3a cell,CT
+https://purl.org/ccf/ASCTB-TEMP_ca4193,ca4_193,CT
+https://purl.org/ccf/ASCTB-TEMP_splat364,splat_364,CT
+http://purl.obolibrary.org/obo/CL_1000716,outer medullary collecting duct principal cell,CT
+http://purl.obolibrary.org/obo/PCL_0015002,inh l1 lamp5 rab11fip1,CT
+https://purl.org/ccf/ASCTB-TEMP_adventitial-stromal-cell,adventitial stromal cell,CT
+http://purl.obolibrary.org/obo/CL_4023072,brain vascular cell,CT
+http://purl.obolibrary.org/obo/PCL_0015034,inh l2-5 vip sox11,CT
+http://purl.obolibrary.org/obo/CL_0009106,medullary reticular cell,CT
+http://purl.obolibrary.org/obo/PCL_0015096,exc l6 themis sntg2,CT
+http://purl.obolibrary.org/obo/CL_1001005,glomerular capillary endothelial cell,CT
+http://purl.obolibrary.org/obo/CL_0000887,macrophage,CT
+https://purl.org/ccf/ASCTB-TEMP_splat413,splat_413,CT
+http://purl.obolibrary.org/obo/CL_4030018,connecting tubule principal cell,CT
+https://purl.org/ccf/ASCTB-TEMP_url297,url_297,CT
+https://purl.org/ccf/ASCTB-TEMP_msn210,msn_210,CT
+https://purl.org/ccf/ASCTB-TEMP_splat411,splat_411,CT
+http://purl.obolibrary.org/obo/CL_0000888,tingible body macrophage,CT
+http://purl.obolibrary.org/obo/CL_2000066,fibroblast,CT
+https://purl.org/ccf/ASCTB-TEMP_ulit124,ulit_124,CT
+https://purl.org/ccf/ASCTB-TEMP_splat353,splat_353,CT
+http://purl.obolibrary.org/obo/PCL_0015072,inh l1-6 pvalb col15a1 (chandelier),CT
+http://purl.obolibrary.org/obo/CL_0000905,"effector memory cd4-positive, alpha-beta t cell",CT
+http://purl.obolibrary.org/obo/CL_0004232,starburst amacrine cell,CT
+https://purl.org/ccf/ASCTB-TEMP_mmb329,mmb_329,CT
+https://purl.org/ccf/ASCTB-TEMP_mge259,mge_259,CT
+http://purl.obolibrary.org/obo/CL_0000636,muller glia,CT
+https://purl.org/ccf/ASCTB-TEMP_eomes-low-liver-nk-cell,eomes low liver nk cell,CT
+http://purl.obolibrary.org/obo/PCL_0015125,endo l2-5 nostrin srgn,CT
+http://purl.obolibrary.org/obo/PCL_0015038,inh l3-6 vip ug0898h09,CT
+http://purl.obolibrary.org/obo/PCL_0015118,opc l1-6 pdgfra col20a1,CT
+http://purl.obolibrary.org/obo/CL_0000796,surface intraepithelial cd8+ alpha beta positive alpha/beta lymphocyte,CT
+http://purl.obolibrary.org/obo/CL_0000796,surface intraepithelial cd8+ alph beta positive alpha/beta lymphocyte,CT
+https://purl.org/ccf/ASCTB-TEMP_mmb328,mmb_328,CT
+http://purl.obolibrary.org/obo/PCL_0015020,inh l1-2 vip exph5,CT
+http://purl.obolibrary.org/obo/CL_4033026,lung perichondrial fibroblast,CT
+https://purl.org/ccf/ASCTB-TEMP_thex446,thex_446,CT
+http://purl.obolibrary.org/obo/CL_1000352,basal cell of epithelium of lobular bronchiole,CT
+http://purl.obolibrary.org/obo/CL_0000442,follicular dendritic cell,CT
+http://purl.obolibrary.org/obo/CL_0000442,follicular dendritic cell (fdc),CT
+http://purl.obolibrary.org/obo/CL_4033023,airway submucosal gland collecting duct epithelial cell,CT
+http://purl.obolibrary.org/obo/CL_1000489,fibroblastic reticular cell (frc),CT
+http://purl.obolibrary.org/obo/CL_1000489,red pulp reticular cell,CT
+http://purl.obolibrary.org/obo/CL_0002337,keratinocyte stem cell,CT
+https://purl.org/ccf/ASCTB-TEMP_splat394,splat_394,CT
+https://purl.org/ccf/ASCTB-TEMP_interdigitating-dendritic-cells,interdigitating dendritic cells,CT
+https://purl.org/ccf/ASCTB-TEMP_mge251,mge_251,CT
+http://purl.obolibrary.org/obo/PCL_0015032,inh l1-5 vip cd27-as1,CT
+https://purl.org/ccf/ASCTB-TEMP_opc34,opc_34,CT
+http://purl.obolibrary.org/obo/CL_0019029,pericentral hepatocyte,CT
+https://purl.org/ccf/ASCTB-TEMP_emsn231,emsn_231,CT
+https://purl.org/ccf/ASCTB-TEMP_splat350,splat_350,CT
+http://purl.obolibrary.org/obo/CL_0009110,lymphatic endothelial cell of medulla ceiling,CT
+https://purl.org/ccf/ASCTB-TEMP_dlct6b98,dlct6b_98,CT
+http://purl.obolibrary.org/obo/CL_0000914,nk/t lymphocyte,CT
+http://purl.obolibrary.org/obo/CL_0000914,immature nkt cell,CT
+https://purl.org/ccf/ASCTB-TEMP_splat399,splat_399,CT
+https://purl.org/ccf/ASCTB-TEMP_msn209,msn_209,CT
+http://purl.obolibrary.org/obo/PCL_0015022,inh l1-2 vip ptger3,CT
+https://purl.org/ccf/ASCTB-TEMP_splat424,splat_424,CT
+http://purl.obolibrary.org/obo/CL_4023008,intratelencephalic-projecting glutamatergic cortical neuron,CT
+https://purl.org/ccf/ASCTB-TEMP_splat403,splat_403,CT
+http://purl.obolibrary.org/obo/CL_0000182,hepatocyte,CT
+http://purl.obolibrary.org/obo/CL_0000137,osteocytes,CT
+http://purl.obolibrary.org/obo/CL_0000137,osteocyte,CT
+http://purl.obolibrary.org/obo/CL_1000414,venule endothelium,CT
+http://purl.obolibrary.org/obo/CL_1000414,endothelial cell of venule,CT
+https://purl.org/ccf/ASCTB-TEMP_mgl11,mgl_11,CT
+https://purl.org/ccf/ASCTB-TEMP_dlct6b109,dlct6b_109,CT
+http://purl.obolibrary.org/obo/CL_4033032,diffuse bipolar 6 cell,CT
+http://purl.obolibrary.org/obo/CL_0019018,smooth muscle cell,CT
+http://purl.obolibrary.org/obo/CL_0019018,vascular smooth muscle cell,CT
+http://purl.obolibrary.org/obo/CL_0019018,blood vessel smooth muscle cell,CT
+http://purl.obolibrary.org/obo/CL_0002521,adipocyte,CT
+http://purl.obolibrary.org/obo/CL_0000817,precursor b cell (pre b cell),CT
+http://purl.obolibrary.org/obo/CL_1000454,collecting duct cell,CT
+http://purl.obolibrary.org/obo/CL_0000632,quiescent hepatic stellate cell,CT
+http://purl.obolibrary.org/obo/CL_0002394,dendritic cell type 1 (dc1),CT
+http://purl.obolibrary.org/obo/CL_0002394,cdc1 cd141-positive myeloid dendritic cell,CT
+http://purl.obolibrary.org/obo/CL_0002394,cdc1 myeloid dendritic cell,CT
+http://purl.obolibrary.org/obo/CL_0002394,conventional dendritic cell cdc1,CT
+http://purl.obolibrary.org/obo/CL_0009103,marginal reticular cell,CT
+https://purl.org/ccf/ASCTB-TEMP_per23,per_23,CT
+http://purl.obolibrary.org/obo/PCL_0015041,inh l3-5 sst cdh3,CT
+https://purl.org/ccf/ASCTB-TEMP_ganglion,ganglion,CT
+http://purl.obolibrary.org/obo/CL_1000691,myofibroblast,CT
+https://purl.org/ccf/ASCTB-TEMP_msn208,msn_208,CT
+https://purl.org/ccf/ASCTB-TEMP_thex459,thex_459,CT
+https://purl.org/ccf/ASCTB-TEMP_amex419,amex_419,CT
+http://purl.obolibrary.org/obo/PCL_0015124,astro l1-6 fgfr3 plcg1,CT
+https://purl.org/ccf/ASCTB-TEMP_keratinocyte-onychocyte-,keratinocyte (onychocyte),CT
+http://purl.obolibrary.org/obo/PCL_0015027,inh l1 vip klhdc8b,CT
+http://purl.obolibrary.org/obo/CL_3000001,hofbauer cell (hc),CT
+https://purl.org/ccf/ASCTB-TEMP_mmb333,mmb_333,CT
+https://purl.org/ccf/ASCTB-TEMP_lrl322,lrl_322,CT
+http://purl.obolibrary.org/obo/CL_0009072,medullary thymic epithelial cell type 2,CT
+http://purl.obolibrary.org/obo/CL_2000091,endometrial microvascular endothelial cell (emec),CT
+http://purl.obolibrary.org/obo/CL_0000523,cytotrophoblast (ctb),CT
+http://purl.obolibrary.org/obo/CL_0000945,b lineage,CT
+https://purl.org/ccf/ASCTB-TEMP_ca13183,ca13_183,CT
+http://purl.obolibrary.org/obo/PCL_0015119,oligo l3-6 opalin enpp6,CT
+http://purl.obolibrary.org/obo/CL_0000872,macrophage,CT
+http://purl.obolibrary.org/obo/PCL_0015079,oligo l2-6 opalin map6d1,CT
+http://purl.obolibrary.org/obo/CL_0000573,retinal cone cell,CT
+https://purl.org/ccf/ASCTB-TEMP_amnion-mesenchymal-stromal-cell-amsc-,amnion mesenchymal stromal cell (amsc),CT
+http://purl.obolibrary.org/obo/CL_4023012,near-projecting glutamatergic cortical neuron,CT
+https://purl.org/ccf/ASCTB-TEMP_splenic-smooth-muscle-cell,splenic smooth muscle cell,CT
+https://purl.org/ccf/ASCTB-TEMP_ca4198,ca4_198,CT
+http://purl.obolibrary.org/obo/CL_1001106,thick ascending limb cell,CT
+https://purl.org/ccf/ASCTB-TEMP_msn215,msn_215,CT
+http://purl.obolibrary.org/obo/PCL_0015108,exc l6 fezf2 klk7,CT
+http://purl.obolibrary.org/obo/CL_0000099,interneuron,CT
+http://purl.obolibrary.org/obo/CL_0009108,lymphatic endothelial cell-subcapsular sinus floor,CT
+http://purl.obolibrary.org/obo/CL_0001050,cd8+ t cell,CT
+http://purl.obolibrary.org/obo/CL_0001050,cd8 t cell effector memory,CT
+http://purl.obolibrary.org/obo/CL_0002677,regulatory t cells,CT
+https://purl.org/ccf/ASCTB-TEMP_vascular-smooth-muscle,vascular smooth muscle,CT
+https://purl.org/ccf/ASCTB-TEMP_cge276,cge_276,CT
+https://purl.org/ccf/ASCTB-TEMP_dlct6b105,dlct6b_105,CT
+https://purl.org/ccf/ASCTB-TEMP_msn221,msn_221,CT
+http://purl.obolibrary.org/obo/CL_0008036,extravillous trophoblast (endovascular),CT
+http://purl.obolibrary.org/obo/CL_0008036,extravillous trophoblast (interstitial),CT
+http://purl.obolibrary.org/obo/CL_0008036,extravillous trophoblast (evt),CT
+http://purl.obolibrary.org/obo/CL_0000875,non-classical or patrolling monocyte,CT
+http://purl.obolibrary.org/obo/CL_0000875,non classical monocyte,CT
+http://purl.obolibrary.org/obo/PCL_0015123,astro l1 fgfr3 serpini2,CT
+https://purl.org/ccf/ASCTB-TEMP_splat339,splat_339,CT
+http://purl.obolibrary.org/obo/PCL_0015058,inh l6 sst th,CT
+https://purl.org/ccf/ASCTB-TEMP_misc132,misc_132,CT
+http://purl.obolibrary.org/obo/CL_0019026,periportal hepatocyte,CT
+http://purl.obolibrary.org/obo/CL_0002565,iris pigment epithelial cell,CT
+https://purl.org/ccf/ASCTB-TEMP_catecholaminergic-neuron,catecholaminergic neuron,CT
+http://purl.obolibrary.org/obo/PCL_0015104,exc l6 fezf2 pdyn,CT
+https://purl.org/ccf/ASCTB-TEMP_endometrial-epithelial-cell,endometrial epithelial cell,CT
+https://purl.org/ccf/ASCTB-TEMP_emsn224,emsn_224,CT
+http://purl.obolibrary.org/obo/CL_0002063,alveolar type ii cell,CT
+https://purl.org/ccf/ASCTB-TEMP_cop41,cop_41,CT
+https://purl.org/ccf/ASCTB-TEMP_splat395,splat_395,CT
+http://purl.obolibrary.org/obo/CL_4033003,myoepithelial cell of bronchus submucosal gland,CT
+http://purl.obolibrary.org/obo/PCL_0015080,exc l2-3 rorb ccdc68,CT
+http://purl.obolibrary.org/obo/CL_1000308,fibroblast,CT
+http://purl.obolibrary.org/obo/CL_0000148,melanocyte,CT
+http://purl.obolibrary.org/obo/CL_0000646,keratinocyte (basal),CT
+https://purl.org/ccf/ASCTB-TEMP_dlct6b97,dlct6b_97,CT
+https://purl.org/ccf/ASCTB-TEMP_astro57,astro_57,CT
+http://purl.obolibrary.org/obo/CL_0000485,tissue resident mucosal type mast cell,CT
+https://purl.org/ccf/ASCTB-TEMP_amex158,amex_158,CT
+https://purl.org/ccf/ASCTB-TEMP_dlnp94,dlnp_94,CT
+https://purl.org/ccf/ASCTB-TEMP_ulit131,ulit_131,CT
+https://purl.org/ccf/ASCTB-TEMP_splat396,splat_396,CT
+https://purl.org/ccf/ASCTB-TEMP_ca13187,ca13_187,CT
+http://purl.obolibrary.org/obo/CL_1001428,urothelium,CT
+http://purl.obolibrary.org/obo/CL_0009109,lymphatic endothelial cell-trabeculae,CT
+http://purl.obolibrary.org/obo/CL_1000850,macula densa cell,CT
+http://purl.obolibrary.org/obo/PCL_0015008,inh l1 pax6 mir101-1,CT
+http://purl.obolibrary.org/obo/CL_0000910,t cytotoxic cell,CT
+http://purl.obolibrary.org/obo/CL_0000910,cytotoxic t cell,CT
+http://purl.obolibrary.org/obo/CL_0000910,t killer,CT
+https://purl.org/ccf/ASCTB-TEMP_dg204,dg_204,CT
+http://purl.obolibrary.org/obo/CL_0000050,megakaryocyte-erythroid-mast cell progenitor (memp),CT
+https://purl.org/ccf/ASCTB-TEMP_splat387,splat_387,CT
+http://purl.obolibrary.org/obo/PCL_0015111,exc l3-5 fezf2 asgr2,CT
+http://purl.obolibrary.org/obo/CL_0011031,monocyte-derived dc,CT
+http://purl.obolibrary.org/obo/CL_1001099,efferent arteriole endothelial cell,CT
+http://purl.obolibrary.org/obo/PCL_0015113,exc l5 fezf2 pkd2l1,CT
+http://purl.obolibrary.org/obo/CL_0002604,hippocampal astrocyte,CT
+http://purl.obolibrary.org/obo/PCL_0015126,vlmc l1-5 pdgfra colec12,CT
+https://purl.org/ccf/ASCTB-TEMP_astro63,astro_63,CT
+https://purl.org/ccf/ASCTB-TEMP_misc168,misc_168,CT
+https://purl.org/ccf/ASCTB-TEMP_epen65,epen_65,CT
+https://purl.org/ccf/ASCTB-TEMP_ca13185,ca13_185,CT
+http://purl.obolibrary.org/obo/CL_0002332,ciliated cell of the bronchus,CT
+http://purl.obolibrary.org/obo/CL_0002536,amnion epithelial cell (aec),CT
+https://purl.org/ccf/ASCTB-TEMP_ulit129,ulit_129,CT
+http://purl.obolibrary.org/obo/PCL_0015007,inh l3-6 pax6 linc01497,CT
+https://purl.org/ccf/ASCTB-TEMP_amex172,amex_172,CT
+https://purl.org/ccf/ASCTB-TEMP_midi438,midi_438,CT
+http://purl.obolibrary.org/obo/CL_0000091,kupffer cell,CT
+http://purl.obolibrary.org/obo/PCL_0015021,inh l1-3 vip hspb6,CT
+http://purl.obolibrary.org/obo/CL_0000232,erythrocytes,CT
+http://purl.obolibrary.org/obo/CL_0000860,classical inflammatory monocyte,CT
+http://purl.obolibrary.org/obo/CL_0000874,macrophage,CT
+http://purl.obolibrary.org/obo/CL_0000874,red pulp macrophage,CT
+http://purl.obolibrary.org/obo/CL_4030021,intercalated cell type b,CT
+http://purl.obolibrary.org/obo/CL_0009016,epithelial stem cell,CT
+https://purl.org/ccf/ASCTB-TEMP_dg201,dg_201,CT
+http://purl.obolibrary.org/obo/CL_0000915,surface intraepithelial cd8+ alph alpha positive alpha/beta lymphocyte,CT
+http://purl.obolibrary.org/obo/CL_0000915,surface intraepithelial cd8+ alpha alpha positive alpha/beta lymphocyte,CT
+http://purl.obolibrary.org/obo/CL_4023064,cge interneuron,CT
+https://purl.org/ccf/ASCTB-TEMP_emsn223,emsn_223,CT
+http://purl.obolibrary.org/obo/CL_0000764,mid erythroid,CT
+http://purl.obolibrary.org/obo/CL_0000764,late erythroid,CT
+http://purl.obolibrary.org/obo/CL_0000764,erythroid,CT
+http://purl.obolibrary.org/obo/CL_0000764,early erythroid,CT
+https://purl.org/ccf/ASCTB-TEMP_cop43,cop_43,CT
+https://purl.org/ccf/ASCTB-TEMP_thex456,thex_456,CT
+https://purl.org/ccf/ASCTB-TEMP_splat348,splat_348,CT
+https://purl.org/ccf/ASCTB-TEMP_oligo44,oligo_44,CT
+https://purl.org/ccf/ASCTB-TEMP_portal-fibroblast,portal fibroblast,CT
+https://purl.org/ccf/ASCTB-TEMP_splat362,splat_362,CT
+http://purl.obolibrary.org/obo/PCL_0015023,inh l1-2 vip scml4,CT
+https://purl.org/ccf/ASCTB-TEMP_splat391,splat_391,CT
+http://purl.obolibrary.org/obo/CL_4033008,vein endothelial cell of respiratory system,CT
+http://purl.obolibrary.org/obo/CL_4023188,midget cell,CT
+https://purl.org/ccf/ASCTB-TEMP_ca13179,ca13_179,CT
+https://purl.org/ccf/ASCTB-TEMP_cge291,cge_291,CT
+https://purl.org/ccf/ASCTB-TEMP_glutamic-acid-decarboxylase-65-cell,glutamic acid decarboxylase 65 cell,CT
+https://purl.org/ccf/ASCTB-TEMP_emsn230,emsn_230,CT
+http://purl.obolibrary.org/obo/CL_0000784,plasmacytoid dendritic cell,CT
+http://purl.obolibrary.org/obo/CL_1000597,papillary tip epithelial cell,CT
+http://purl.obolibrary.org/obo/CL_0000648,juxtaglomerular granular cell (renin positive),CT
+https://purl.org/ccf/ASCTB-TEMP_vendac14,vendac_14,CT
+https://purl.org/ccf/ASCTB-TEMP_misc165,misc_165,CT
+http://purl.obolibrary.org/obo/CL_1000714,cortical collecting duct principal cell,CT
+https://purl.org/ccf/ASCTB-TEMP_splat366,splat_366,CT
+http://purl.obolibrary.org/obo/CL_0000542,lymphocyte,CT
+http://purl.obolibrary.org/obo/CL_0009009,paneth,CT
+https://purl.org/ccf/ASCTB-TEMP_astro54,astro_54,CT
+https://purl.org/ccf/ASCTB-TEMP_mge241,mge_241,CT
+https://purl.org/ccf/ASCTB-TEMP_splat400,splat_400,CT
+https://purl.org/ccf/ASCTB-TEMP_midi439,midi_439,CT
+https://purl.org/ccf/ASCTB-TEMP_splenic-stromal-sheath-cell,splenic stromal sheath cell,CT
+http://purl.obolibrary.org/obo/CL_0000748,bipolar cell,CT
+https://purl.org/ccf/ASCTB-TEMP_emsn222,emsn_222,CT
+http://purl.obolibrary.org/obo/CL_0001069,innate lymphoid cell 2,CT
+http://purl.obolibrary.org/obo/CL_0000836,promyelocyte,CT
+https://purl.org/ccf/ASCTB-TEMP_msn217,msn_217,CT
+http://purl.obolibrary.org/obo/CL_0002457,langerhans cell,CT
+http://purl.obolibrary.org/obo/CL_4023074,mammillary body neuron,CT
+https://purl.org/ccf/ASCTB-TEMP_splat421,splat_421,CT
+https://purl.org/ccf/ASCTB-TEMP_midi434,midi_434,CT
+http://purl.obolibrary.org/obo/CL_0000921,inkt,CT
+http://purl.obolibrary.org/obo/CL_1000322,pancreatic goblet cell,CT
+http://purl.obolibrary.org/obo/PCL_0015016,inh l1 pvalb sst asic4,CT
+https://purl.org/ccf/ASCTB-TEMP_splat423,splat_423,CT
+http://purl.obolibrary.org/obo/CL_1000718,inner medullary collecting duct cell,CT
+http://purl.obolibrary.org/obo/CL_0002275,pp cell,CT
+https://purl.org/ccf/ASCTB-TEMP_fbl28,fbl_28,CT
+http://purl.obolibrary.org/obo/CL_0000814,natural killer t cell,CT
+http://purl.obolibrary.org/obo/CL_0000814,mature nk t cell,CT
+http://purl.obolibrary.org/obo/CL_0000814,nk lymphocytes,CT
+https://purl.org/ccf/ASCTB-TEMP_ulit120,ulit_120,CT
+https://purl.org/ccf/ASCTB-TEMP_misc166,misc_166,CT
+http://purl.obolibrary.org/obo/PCL_0015045,inh l3-5 sst or5ah1p,CT
+https://purl.org/ccf/ASCTB-TEMP_dlnp86,dlnp_86,CT
+https://purl.org/ccf/ASCTB-TEMP_dlnp92,dlnp_92,CT
+http://purl.obolibrary.org/obo/CL_0000065,ependymal cell,CT
+https://purl.org/ccf/ASCTB-TEMP_dg200,dg_200,CT
+https://purl.org/ccf/ASCTB-TEMP_amex157,amex_157,CT
+https://purl.org/ccf/ASCTB-TEMP_lrl315,lrl_315,CT
+https://purl.org/ccf/ASCTB-TEMP_msn219,msn_219,CT
+https://purl.org/ccf/ASCTB-TEMP_dg202,dg_202,CT
+http://purl.obolibrary.org/obo/CL_0000171,alpha cell,CT
+http://purl.obolibrary.org/obo/CL_0008024,endocrine cell,CT
+https://purl.org/ccf/ASCTB-TEMP_amex153,amex_153,CT
+https://purl.org/ccf/ASCTB-TEMP_per22,per_22,CT
+http://purl.obolibrary.org/obo/CL_0000212,absorptive,CT
+http://purl.obolibrary.org/obo/CL_0000244,transitional,CT
+http://purl.obolibrary.org/obo/CL_4033025,perichondrial fibroblast,CT
+https://purl.org/ccf/ASCTB-TEMP_epen67,epen_67,CT
+https://purl.org/ccf/ASCTB-TEMP_misc167,misc_167,CT
+https://purl.org/ccf/ASCTB-TEMP_ulit123,ulit_123,CT
+https://purl.org/ccf/ASCTB-TEMP_ulit133,ulit_133,CT
+https://purl.org/ccf/ASCTB-TEMP_splat415,splat_415,CT
+http://purl.obolibrary.org/obo/CL_0000942,plasmacytoid dendritic cell,CT
+https://purl.org/ccf/ASCTB-TEMP_epen66,epen_66,CT
+http://purl.obolibrary.org/obo/CL_1001607,articular chondrocyte,CT
+https://purl.org/ccf/ASCTB-TEMP_astro62,astro_62,CT
+https://purl.org/ccf/ASCTB-TEMP_cge283,cge_283,CT
+https://purl.org/ccf/ASCTB-TEMP_cge293,cge_293,CT
+https://purl.org/ccf/ASCTB-TEMP_semilunar-cell,semilunar cell,CT
+https://purl.org/ccf/ASCTB-TEMP_mge236,mge_236,CT
+https://purl.org/ccf/ASCTB-TEMP_vendvc16,vendvc_16,CT
+https://purl.org/ccf/ASCTB-TEMP_splat334,splat_334,CT
+https://purl.org/ccf/ASCTB-TEMP_midi433,midi_433,CT
+https://purl.org/ccf/ASCTB-TEMP_mge246,mge_246,CT
+https://purl.org/ccf/ASCTB-TEMP_splat378,splat_378,CT
+https://purl.org/ccf/ASCTB-TEMP_venda18,venda_18,CT
+https://purl.org/ccf/ASCTB-TEMP_vsmc19,vsmc_19,CT
+http://purl.obolibrary.org/obo/PCL_0015109,exc l6 fezf2 pogk,CT
+https://purl.org/ccf/ASCTB-TEMP_mgl4,mgl_4,CT
+http://purl.obolibrary.org/obo/CL_2000062,placental microvascular endothelial cells,CT
+http://purl.obolibrary.org/obo/PCL_0015011,inh l2 pax6 frem2,CT
+http://purl.obolibrary.org/obo/CL_4033018,lung megakaryocyte,CT
+https://purl.org/ccf/ASCTB-TEMP_ca13189,ca13_189,CT
+https://purl.org/ccf/ASCTB-TEMP_lrl318,lrl_318,CT
+https://purl.org/ccf/ASCTB-TEMP_thex454,thex_454,CT
+https://purl.org/ccf/ASCTB-TEMP_cbi305,cbi_305,CT
+http://purl.obolibrary.org/obo/CL_0002207,tuft cell,CT
+https://purl.org/ccf/ASCTB-TEMP_thex448,thex_448,CT
+https://purl.org/ccf/ASCTB-TEMP_midi440,midi_440,CT
+https://purl.org/ccf/ASCTB-TEMP_splat351,splat_351,CT
+http://purl.obolibrary.org/obo/PCL_0015039,inh l3-5 vip tac3,CT
+https://purl.org/ccf/ASCTB-TEMP_url309,url_309,CT
+https://purl.org/ccf/ASCTB-TEMP_misc401,misc_401,CT
+https://purl.org/ccf/ASCTB-TEMP_splat237,splat_237,CT
+https://purl.org/ccf/ASCTB-TEMP_cop75,cop_75,CT
+https://purl.org/ccf/ASCTB-TEMP_l5et117,l5et_117,CT
+https://purl.org/ccf/ASCTB-TEMP_dlnp90,dlnp_90,CT
+https://purl.org/ccf/ASCTB-TEMP_fbl31,fbl_31,CT
+http://purl.obolibrary.org/obo/CL_2000067,fibroblast,CT
+https://purl.org/ccf/ASCTB-TEMP_oligo48,oligo_48,CT
+https://purl.org/ccf/ASCTB-TEMP_splat374,splat_374,CT
+http://purl.obolibrary.org/obo/CL_4023068,thalamic excitatory neuron,CT
+http://purl.obolibrary.org/obo/CL_0009104,b cell zone reticular cell,CT
+http://purl.obolibrary.org/obo/PCL_0015084,exc l3-5 rorb lama4,CT
+https://purl.org/ccf/ASCTB-TEMP_mge247,mge_247,CT
+https://purl.org/ccf/ASCTB-TEMP_mantle-zone-b-cell,mantle zone b cell,CT
+https://purl.org/ccf/ASCTB-TEMP_hillock-cell-of-prostatic-urethra,hillock cell of prostatic urethra,CT
+https://purl.org/ccf/ASCTB-TEMP_amex154,amex_154,CT
+https://purl.org/ccf/ASCTB-TEMP_chrp78,chrp_78,CT
+http://purl.obolibrary.org/obo/CL_0002208,tuft cell,CT
+http://purl.obolibrary.org/obo/CL_0002557,fibroblast of pulmonary artery,CT
+https://purl.org/ccf/ASCTB-TEMP_dlit145,dlit_145,CT
+http://purl.obolibrary.org/obo/CL_0002079,ductal cell,CT
+https://purl.org/ccf/ASCTB-TEMP_ca13186,ca13_186,CT
+https://purl.org/ccf/ASCTB-TEMP_splat382,splat_382,CT
+http://purl.obolibrary.org/obo/PCL_0015060,inh l5-6 pvalb zfpm2-as1,CT
+https://purl.org/ccf/ASCTB-TEMP_splenic-littoral-cell,splenic littoral cell,CT
+http://purl.obolibrary.org/obo/CL_0000583,alveolar macrophage,CT
+http://purl.obolibrary.org/obo/CL_0000778,mononuclear osteoclast,CT
+https://purl.org/ccf/ASCTB-TEMP_ca13163,ca13_163,CT
+http://purl.obolibrary.org/obo/CL_0019019,tracheobronchial smooth muscle,CT
+http://purl.obolibrary.org/obo/CL_0019019,tracheobronchial smooth muscle cell,CT
+https://purl.org/ccf/ASCTB-TEMP_midi435,midi_435,CT
+https://purl.org/ccf/ASCTB-TEMP_mmb330,mmb_330,CT
+https://purl.org/ccf/ASCTB-TEMP_splat398,splat_398,CT
+http://purl.obolibrary.org/obo/CL_0000779,multinuclear osteoclast,CT
+http://purl.obolibrary.org/obo/CL_0009114,monocytoid b cell,CT
+https://purl.org/ccf/ASCTB-TEMP_splat432,splat_432,CT
+https://purl.org/ccf/ASCTB-TEMP_vsmc20,vsmc_20,CT
+https://purl.org/ccf/ASCTB-TEMP_midi441,midi_441,CT
+http://purl.obolibrary.org/obo/PCL_0015066,inh l1-2 pvalb cdk20,CT
+https://purl.org/ccf/ASCTB-TEMP_amex171,amex_171,CT
+https://purl.org/ccf/ASCTB-TEMP_prostate-perictye,prostate perictye,CT
+http://purl.obolibrary.org/obo/CL_0000559,promonocyte,CT
+https://purl.org/ccf/ASCTB-TEMP_splat349,splat_349,CT
+http://purl.obolibrary.org/obo/CL_0002574,stromal cell,CT
+http://purl.obolibrary.org/obo/CL_0000913,"effector memory cd8-positive, alpha-beta t cell",CT
+https://purl.org/ccf/ASCTB-TEMP_mgl7,mgl_7,CT
+https://purl.org/ccf/ASCTB-TEMP_thex450,thex_450,CT
+http://purl.obolibrary.org/obo/CL_0000526,neuron cell,CT
+http://purl.obolibrary.org/obo/PCL_0015099,exc l5 themis linc01116,CT
+http://purl.obolibrary.org/obo/CL_4030012,descending thin limb cell type 1,CT
+https://purl.org/ccf/ASCTB-TEMP_lrl320,lrl_320,CT
+https://purl.org/ccf/ASCTB-TEMP_llc266,llc_266,CT
+https://purl.org/ccf/ASCTB-TEMP_splat375,splat_375,CT
+https://purl.org/ccf/ASCTB-TEMP_cbi307,cbi_307,CT
+https://purl.org/ccf/ASCTB-TEMP_oligo40,oligo_40,CT
+https://purl.org/ccf/ASCTB-TEMP_cge282,cge_282,CT
+https://purl.org/ccf/ASCTB-TEMP_mmb323,mmb_323,CT
+http://purl.obolibrary.org/obo/CL_1000321,goblet,CT
+https://purl.org/ccf/ASCTB-TEMP_splat379,splat_379,CT
+https://purl.org/ccf/ASCTB-TEMP_splat342,splat_342,CT
+https://purl.org/ccf/ASCTB-TEMP_emsn228,emsn_228,CT
+https://purl.org/ccf/ASCTB-TEMP_ulit121,ulit_121,CT
+http://purl.obolibrary.org/obo/CL_0002591,smooth muscle cell of the pulmonary artery,CT
+https://purl.org/ccf/ASCTB-TEMP_msn213,msn_213,CT
+https://purl.org/ccf/ASCTB-TEMP_midi437,midi_437,CT
+https://purl.org/ccf/ASCTB-TEMP_ca13180,ca13_180,CT
+http://purl.obolibrary.org/obo/CL_1000487,prostate smooth muscle,CT
+https://purl.org/ccf/ASCTB-TEMP_splat359,splat_359,CT
+https://purl.org/ccf/ASCTB-TEMP_basal-cell-of-prostatic-urethra,basal cell of prostatic urethra,CT
+https://purl.org/ccf/ASCTB-TEMP_per21,per_21,CT
+http://purl.obolibrary.org/obo/CL_0009082,double negative thymocyte 3,CT
+https://purl.org/ccf/ASCTB-TEMP_mgl5,mgl_5,CT
+https://purl.org/ccf/ASCTB-TEMP_splat390,splat_390,CT
+http://purl.obolibrary.org/obo/CL_0002306,proximal tubule epithelial cell,CT
+https://purl.org/ccf/ASCTB-TEMP_dlnp95,dlnp_95,CT
+http://purl.obolibrary.org/obo/CL_0000644,bergmann glial cell,CT
+http://purl.obolibrary.org/obo/CL_0000877,tingible body macrophage,CT
+https://purl.org/ccf/ASCTB-TEMP_splat365,splat_365,CT
+https://purl.org/ccf/ASCTB-TEMP_splat376,splat_376,CT
+https://purl.org/ccf/ASCTB-TEMP_mge249,mge_249,CT
+https://purl.org/ccf/ASCTB-TEMP_thex449,thex_449,CT
+http://purl.obolibrary.org/obo/PCL_0015054,inh l5-6 sst dnajc14,CT
+https://purl.org/ccf/ASCTB-TEMP_b-cell,b cell,CT
+http://purl.obolibrary.org/obo/CL_4023039,amygdala excitatory neuron,CT
+http://purl.obolibrary.org/obo/CL_1001431,collecting duct principal cell,CT
+https://purl.org/ccf/ASCTB-TEMP_epen71,epen_71,CT
+http://purl.obolibrary.org/obo/CL_0002329,basal epithelial cell of tracheobronchial tree,CT
+https://purl.org/ccf/ASCTB-TEMP_cge277,cge_277,CT
+http://purl.obolibrary.org/obo/CL_1001107,ascending thin limb cell,CT
+https://purl.org/ccf/ASCTB-TEMP_oligo46,oligo_46,CT
+http://purl.obolibrary.org/obo/CL_0001067,natural killer cell / innate lymphoid cell 1,CT
+https://purl.org/ccf/ASCTB-TEMP_placental-stromal-cell-psc-,placental stromal cell (psc),CT
+http://purl.obolibrary.org/obo/CL_1000331,serous cell of epithelium of bronchus,CT
+http://purl.obolibrary.org/obo/CL_0000509,gastrin cell,CT
+http://purl.obolibrary.org/obo/CL_1000325,goblet,CT
+https://purl.org/ccf/ASCTB-TEMP_llc267,llc_267,CT
+https://purl.org/ccf/ASCTB-TEMP_dlct6b104,dlct6b_104,CT
+https://purl.org/ccf/ASCTB-TEMP_splat420,splat_420,CT
+https://purl.org/ccf/ASCTB-TEMP_mmb332,mmb_332,CT
+http://purl.obolibrary.org/obo/CL_1000330,serous cell of epithelium of trachea,CT
+http://purl.obolibrary.org/obo/CL_0010012,cerebral cortex neuron,CT
+https://purl.org/ccf/ASCTB-TEMP_dlit148,dlit_148,CT
+https://purl.org/ccf/ASCTB-TEMP_amex159,amex_159,CT
+http://purl.obolibrary.org/obo/CL_4030014,descending thin limb cell type 3,CT
+http://purl.obolibrary.org/obo/CL_0000844,germinal center b cell,CT
+https://purl.org/ccf/ASCTB-TEMP_cge295,cge_295,CT
+https://purl.org/ccf/ASCTB-TEMP_subepithelial-membrane,subepithelial membrane,CT
+http://purl.obolibrary.org/obo/CL_0005019,epsilon cell,CT
+http://purl.obolibrary.org/obo/CL_2000054,pit cell,CT
+https://purl.org/ccf/ASCTB-TEMP_msn212,msn_212,CT
+https://purl.org/ccf/ASCTB-TEMP_splat370,splat_370,CT
+https://purl.org/ccf/ASCTB-TEMP_epen68,epen_68,CT
+https://purl.org/ccf/ASCTB-TEMP_dlct6b103,dlct6b_103,CT
+http://purl.obolibrary.org/obo/CL_0000287,photoreceptor,CT
+https://purl.org/ccf/ASCTB-TEMP_vendv17,vendv_17,CT
+http://purl.obolibrary.org/obo/CL_1000417,myoepithelial,CT
+http://purl.obolibrary.org/obo/CL_1000417,myoepithelial cell,CT
+https://purl.org/ccf/ASCTB-TEMP_mge262,mge_262,CT
+https://purl.org/ccf/ASCTB-TEMP_splat371,splat_371,CT
+http://purl.obolibrary.org/obo/CL_0000577,enterochromaffin cell,CT
+https://purl.org/ccf/ASCTB-TEMP_ca4191,ca4_191,CT
+https://purl.org/ccf/ASCTB-TEMP_splat431,splat_431,CT
+http://purl.obolibrary.org/obo/CL_0002095,hilar cell,CT
+https://purl.org/ccf/ASCTB-TEMP_capsule-mesenchymal-stromal-cell,capsule mesenchymal stromal cell,CT
+https://purl.org/ccf/ASCTB-TEMP_mono3,mono_3,CT
+https://purl.org/ccf/ASCTB-TEMP_cge289,cge_289,CT
+https://purl.org/ccf/ASCTB-TEMP_splat385,splat_385,CT
+https://purl.org/ccf/ASCTB-TEMP_tbet-low-liver-nk-cell,tbet low liver nk cell,CT
+https://purl.org/ccf/ASCTB-TEMP_dlnp93,dlnp_93,CT
+http://purl.obolibrary.org/obo/PCL_0015025,inh l1-3 vip chrna2,CT
+https://purl.org/ccf/ASCTB-TEMP_amex162,amex_162,CT
+https://purl.org/ccf/ASCTB-TEMP_oligo49,oligo_49,CT
+https://purl.org/ccf/ASCTB-TEMP_ca13184,ca13_184,CT
+https://purl.org/ccf/ASCTB-TEMP_thex460,thex_460,CT
+https://purl.org/ccf/ASCTB-TEMP_url311,url_311,CT
+http://purl.obolibrary.org/obo/CL_0002193,myelocyte,CT
+https://purl.org/ccf/ASCTB-TEMP_splat336,splat_336,CT
+https://purl.org/ccf/ASCTB-TEMP_misc177,misc_177,CT
+https://purl.org/ccf/ASCTB-TEMP_mge260,mge_260,CT
+https://purl.org/ccf/ASCTB-TEMP_llc273,llc_273,CT
+https://purl.org/ccf/ASCTB-TEMP_emsn229,emsn_229,CT
+http://purl.obolibrary.org/obo/CL_0000604,retinal rod cell,CT
+http://purl.obolibrary.org/obo/CL_0000062,osteoblasts,CT
+http://purl.obolibrary.org/obo/CL_0000062,osteoblast,CT
+http://purl.obolibrary.org/obo/CL_0011103,sympathetic neuron,CT
+https://purl.org/ccf/ASCTB-TEMP_url308,url_308,CT
+https://purl.org/ccf/ASCTB-TEMP_mge242,mge_242,CT
+https://purl.org/ccf/ASCTB-TEMP_mge250,mge_250,CT
+http://purl.obolibrary.org/obo/CL_0000972,memory b cell,CT
+http://purl.obolibrary.org/obo/CL_0000972,switched b cell,CT
+https://purl.org/ccf/ASCTB-TEMP_bcell0,bcell_0,CT
+https://purl.org/ccf/ASCTB-TEMP_emsn232,emsn_232,CT
+https://purl.org/ccf/ASCTB-TEMP_cbi301,cbi_301,CT
+https://purl.org/ccf/ASCTB-TEMP_perineurial-cells,perineurial cells,CT
+https://purl.org/ccf/ASCTB-TEMP_lympho-myeloid-progenitor-cell-lmpp-,lympho-myeloid progenitor cell (lmpp),CT
+https://purl.org/ccf/ASCTB-TEMP_chrp80,chrp_80,CT
+https://purl.org/ccf/ASCTB-TEMP_splat352,splat_352,CT
+http://purl.obolibrary.org/obo/PCL_0015067,inh l2 pvalb frzb,CT
+https://purl.org/ccf/ASCTB-TEMP_lrl319,lrl_319,CT
+https://purl.org/ccf/ASCTB-TEMP_msn430,msn_430,CT
+https://purl.org/ccf/ASCTB-TEMP_cytotoxic-memory-t-cell,cytotoxic memory t cell,CT
+https://purl.org/ccf/ASCTB-TEMP_mge254,mge_254,CT
+https://purl.org/ccf/ASCTB-TEMP_msn214,msn_214,CT
+https://purl.org/ccf/ASCTB-TEMP_misc170,misc_170,CT
+https://purl.org/ccf/ASCTB-TEMP_url312,url_312,CT
+http://purl.obolibrary.org/obo/CL_1001109,cortical thick ascending limb cell,CT
+https://purl.org/ccf/ASCTB-TEMP_splat360,splat_360,CT
+https://purl.org/ccf/ASCTB-TEMP_mmb331,mmb_331,CT
+https://purl.org/ccf/ASCTB-TEMP_l5et118,l5et_118,CT
+https://purl.org/ccf/ASCTB-TEMP_cge280,cge_280,CT
+http://purl.obolibrary.org/obo/CL_1001108,medullary thick ascending limb cell,CT
+https://purl.org/ccf/ASCTB-TEMP_uterine-macrophage,uterine macrophage,CT
+http://purl.obolibrary.org/obo/CL_0017000,pulmonary ionocyte,CT
+https://purl.org/ccf/ASCTB-TEMP_cge278,cge_278,CT
+https://purl.org/ccf/ASCTB-TEMP_mge256,mge_256,CT
+https://purl.org/ccf/ASCTB-TEMP_dlit150,dlit_150,CT
+https://purl.org/ccf/ASCTB-TEMP_splat355,splat_355,CT
+https://purl.org/ccf/ASCTB-TEMP_mge244,mge_244,CT
+https://purl.org/ccf/ASCTB-TEMP_splat338,splat_338,CT
+https://purl.org/ccf/ASCTB-TEMP_cge292,cge_292,CT
+https://purl.org/ccf/ASCTB-TEMP_msn211,msn_211,CT
+https://purl.org/ccf/ASCTB-TEMP_splat414,splat_414,CT
+https://purl.org/ccf/ASCTB-TEMP_mmb325,mmb_325,CT
+https://purl.org/ccf/ASCTB-TEMP_dlit137,dlit_137,CT
+https://purl.org/ccf/ASCTB-TEMP_dg203,dg_203,CT
+https://purl.org/ccf/ASCTB-TEMP_ulit125,ulit_125,CT
+https://purl.org/ccf/ASCTB-TEMP_dlct6b112,dlct6b_112,CT
+http://purl.obolibrary.org/obo/CL_4033021,myoepithelial cell of trachea gland,CT
+https://purl.org/ccf/ASCTB-TEMP_ca4196,ca4_196,CT
+https://purl.org/ccf/ASCTB-TEMP_mge243,mge_243,CT
+https://purl.org/ccf/ASCTB-TEMP_thex453,thex_453,CT
+https://purl.org/ccf/ASCTB-TEMP_splat429,splat_429,CT
+http://purl.obolibrary.org/obo/CL_0000802,surface intraepithelial cd8+ lymphocyte gamma/delta,CT
+http://purl.obolibrary.org/obo/CL_0019028,mid zone hepatocyte,CT
+http://purl.obolibrary.org/obo/PCL_0015049,inh l5-6 sst pik3cd,CT
+http://purl.obolibrary.org/obo/CL_0000041,eosinophil,CT
+https://purl.org/ccf/ASCTB-TEMP_cop39,cop_39,CT
+https://purl.org/ccf/ASCTB-TEMP_ca4192,ca4_192,CT
+https://purl.org/ccf/ASCTB-TEMP_mmb324,mmb_324,CT
+http://purl.obolibrary.org/obo/CL_4033017,bronchiolar smooth muscle cell,CT
+https://purl.org/ccf/ASCTB-TEMP_splat384,splat_384,CT
+http://purl.obolibrary.org/obo/CL_0001203,cd8+ liver-resident memory t cell,CT
+https://purl.org/ccf/ASCTB-TEMP_fbl24,fbl_24,CT
+http://purl.obolibrary.org/obo/CL_1001033,peritubular capillary endothelial cell,CT
+http://purl.obolibrary.org/obo/CL_0000034,stem cell,CT
+http://purl.obolibrary.org/obo/CL_0002064,acinar cell,CT
+http://purl.obolibrary.org/obo/CL_0002350,endocardial,CT
+http://purl.obolibrary.org/obo/CL_0002350,endocardial cell,CT
+http://purl.obolibrary.org/obo/CL_0000051,common lymphoid progenitor (clp),CT
+https://purl.org/ccf/ASCTB-TEMP_dg199,dg_199,CT
+https://purl.org/ccf/ASCTB-TEMP_mmb326,mmb_326,CT
+https://purl.org/ccf/ASCTB-TEMP_mge255,mge_255,CT
+https://purl.org/ccf/ASCTB-TEMP_dlit140,dlit_140,CT
+https://purl.org/ccf/ASCTB-TEMP_dlnp91,dlnp_91,CT
+https://purl.org/ccf/ASCTB-TEMP_mge252,mge_252,CT
+https://purl.org/ccf/ASCTB-TEMP_emsn226,emsn_226,CT
+http://purl.obolibrary.org/obo/CL_2000059,endothelia,CT
+http://purl.obolibrary.org/obo/PCL_0015035,inh l3-6 vip zim2-as1,CT
+http://purl.obolibrary.org/obo/CL_0000682,m cell,CT
+http://purl.obolibrary.org/obo/CL_0000556,megakaryocyte (mk),CT
+https://purl.org/ccf/ASCTB-TEMP_dlct6b106,dlct6b_106,CT
+https://purl.org/ccf/ASCTB-TEMP_fbl27,fbl_27,CT
+https://purl.org/ccf/ASCTB-TEMP_llc272,llc_272,CT
+http://purl.obolibrary.org/obo/CL_1000477,pacemaker cardiomyocyte,CT
+http://purl.obolibrary.org/obo/CL_1000477,pacemaker cell,CT
+https://purl.org/ccf/ASCTB-TEMP_cop42,cop_42,CT
+https://purl.org/ccf/ASCTB-TEMP_mgl8,mgl_8,CT
+http://purl.obolibrary.org/obo/CL_0008034,mural cell,CT
+https://purl.org/ccf/ASCTB-TEMP_dlit147,dlit_147,CT
+https://purl.org/ccf/ASCTB-TEMP_cge290,cge_290,CT
+https://purl.org/ccf/ASCTB-TEMP_splat417,splat_417,CT
+https://purl.org/ccf/ASCTB-TEMP_dlct6b100,dlct6b_100,CT
+https://purl.org/ccf/ASCTB-TEMP_cbi298,cbi_298,CT
+https://purl.org/ccf/ASCTB-TEMP_llc265,llc_265,CT
+https://purl.org/ccf/ASCTB-TEMP_splat402,splat_402,CT
+https://purl.org/ccf/ASCTB-TEMP_midi442,midi_442,CT
+https://purl.org/ccf/ASCTB-TEMP_emsn426,emsn_426,CT
+https://purl.org/ccf/ASCTB-TEMP_splat345,splat_345,CT
+https://purl.org/ccf/ASCTB-TEMP_splat392,splat_392,CT
+https://purl.org/ccf/ASCTB-TEMP_transitional-principal-intercalated-cell,transitional principal-intercalated cell,CT
+https://purl.org/ccf/ASCTB-TEMP_thex445,thex_445,CT
+https://purl.org/ccf/ASCTB-TEMP_splat386,splat_386,CT
+http://purl.obolibrary.org/obo/CL_0000711,cumulus granulosa cell,CT
+https://purl.org/ccf/ASCTB-TEMP_opc32,opc_32,CT
+https://purl.org/ccf/ASCTB-TEMP_dlct6b102,dlct6b_102,CT
+https://purl.org/ccf/ASCTB-TEMP_splat361,splat_361,CT
+https://purl.org/ccf/ASCTB-TEMP_misc404,misc_404,CT
+https://purl.org/ccf/ASCTB-TEMP_splat393,splat_393,CT
+https://purl.org/ccf/ASCTB-TEMP_fbl30,fbl_30,CT
+http://purl.obolibrary.org/obo/CL_0000453,langerhans,CT
+http://purl.obolibrary.org/obo/CL_0000453,langerhans cells,CT
+https://purl.org/ccf/ASCTB-TEMP_cge284,cge_284,CT
+http://purl.obolibrary.org/obo/CL_4023079,midbrain-derived inhibitory neuron,CT
+http://purl.obolibrary.org/obo/CL_1000271,lung ciliated cell,CT
+http://purl.obolibrary.org/obo/CL_0002080,centroacinar cell,CT
+https://purl.org/ccf/ASCTB-TEMP_splat428,splat_428,CT
+http://purl.obolibrary.org/obo/CL_4023063,mge derived interneuron,CT
+https://purl.org/ccf/ASCTB-TEMP_thex457,thex_457,CT
+https://purl.org/ccf/ASCTB-TEMP_pericryptal-fibroblastic-sheath,pericryptal fibroblastic sheath,CT
+https://purl.org/ccf/ASCTB-TEMP_ulit138,ulit_138,CT
+https://purl.org/ccf/ASCTB-TEMP_opc33,opc_33,CT
+https://purl.org/ccf/ASCTB-TEMP_nkcell2,nkcell_2,CT
+https://purl.org/ccf/ASCTB-TEMP_splat381,splat_381,CT
+https://purl.org/ccf/ASCTB-TEMP_hepatic-progenitor-cell,hepatic progenitor cell,CT
+https://purl.org/ccf/ASCTB-TEMP_splat383,splat_383,CT
+https://purl.org/ccf/ASCTB-TEMP_msn206,msn_206,CT
+https://purl.org/ccf/ASCTB-TEMP_lrl321,lrl_321,CT
+http://purl.obolibrary.org/obo/CL_1001432,collecting duct intercalated cell,CT
+https://purl.org/ccf/ASCTB-TEMP_splat418,splat_418,CT
+https://purl.org/ccf/ASCTB-TEMP_splat346,splat_346,CT
+https://purl.org/ccf/ASCTB-TEMP_epen70,epen_70,CT
+https://purl.org/ccf/ASCTB-TEMP_dlit151,dlit_151,CT
+https://purl.org/ccf/ASCTB-TEMP_ca4194,ca4_194,CT
+https://purl.org/ccf/ASCTB-TEMP_ulit127,ulit_127,CT
+https://purl.org/ccf/ASCTB-TEMP_cbi303,cbi_303,CT
+https://purl.org/ccf/ASCTB-TEMP_epen72,epen_72,CT
+http://purl.obolibrary.org/obo/CL_0002585,endothelial cell,CT
+https://purl.org/ccf/ASCTB-TEMP_splat356,splat_356,CT
+https://purl.org/ccf/ASCTB-TEMP_mge253,mge_253,CT
+https://purl.org/ccf/ASCTB-TEMP_cge281,cge_281,CT
+http://purl.obolibrary.org/obo/CL_1000326,goblet,CT
+https://purl.org/ccf/ASCTB-TEMP_astro56,astro_56,CT
+https://purl.org/ccf/ASCTB-TEMP_mge263,mge_263,CT
+https://purl.org/ccf/ASCTB-TEMP_ulit130,ulit_130,CT
+https://purl.org/ccf/ASCTB-TEMP_mge239,mge_239,CT
+https://purl.org/ccf/ASCTB-TEMP_l5et114,l5et_114,CT
+https://purl.org/ccf/ASCTB-TEMP_splat357,splat_357,CT
+https://purl.org/ccf/ASCTB-TEMP_a8-bistratified-small-field-cell,a8 bistratified small-field cell,CT
+http://purl.obolibrary.org/obo/CL_0000033,apocrine,CT
+https://purl.org/ccf/ASCTB-TEMP_dlct6b84,dlct6b_84,CT
+http://purl.obolibrary.org/obo/CL_0000241,cuboidal cell (small cholangiocytes are cuboidal),CT
+http://purl.obolibrary.org/obo/CL_1001433,ductal epithelial cell,CT
+https://purl.org/ccf/ASCTB-TEMP_splat337,splat_337,CT
+https://purl.org/ccf/ASCTB-TEMP_mge261,mge_261,CT
+https://purl.org/ccf/ASCTB-TEMP_chrp77,chrp_77,CT
+http://purl.obolibrary.org/obo/CL_0000036,epithelial stem cells,CT
+https://purl.org/ccf/ASCTB-TEMP_marrow-adipocytes,marrow adipocytes,CT
+http://purl.obolibrary.org/obo/CL_0000146,simple columnar epithelial cell,CT
+http://purl.obolibrary.org/obo/CL_0000146,columnar,CT
+http://purl.obolibrary.org/obo/CL_0000240,squamous,CT
+https://purl.org/ccf/ASCTB-TEMP_nerve,nerve,CT
+https://purl.org/ccf/ASCTB-TEMP_perivascular-cells,perivascular cells,CT
+http://purl.obolibrary.org/obo/CL_0000679,glutamatergic neuron,CT
+https://purl.org/ccf/ASCTB-TEMP_prehypertrophic-chondrocytes,prehypertrophic chondrocytes,CT
+https://purl.org/ccf/ASCTB-TEMP_preosteoclasts,preosteoclasts,CT
+https://purl.org/ccf/ASCTB-TEMP_sinusoidal-cells,sinusoidal cells,CT
+http://purl.obolibrary.org/obo/CL_0002598,bronchial smooth muscle cell,CT
+https://purl.org/ccf/ASCTB-TEMP_polyaxonal-amacrine-cell,polyaxonal amacrine cell,CT
+http://purl.obolibrary.org/obo/CL_0012001,neuron of the forebrain,CT
+http://purl.obolibrary.org/obo/CL_0019002,lung perichondrial fibroblast,CT
+http://purl.obolibrary.org/obo/CL_0019002,tracheobronchial chondrocyte,CT
+http://purl.obolibrary.org/obo/CL_0019003,tracheobronchial goblet cell,CT
+http://purl.obolibrary.org/obo/CL_1000223,lung neuroendocrine cell,CT
+http://purl.obolibrary.org/obo/CL_1000708,fibroblast,CT
+http://purl.obolibrary.org/obo/CL_1000708,myofibroblast,CT
+http://purl.obolibrary.org/obo/CL_1000708,smooth muscle,CT
+http://purl.obolibrary.org/obo/CL_1000708,endothelium,CT
+http://purl.obolibrary.org/obo/CL_1001319,fibroblast,CT
+http://purl.obolibrary.org/obo/CL_1001319,myofibroblast,CT
+https://purl.org/ccf/ASCTB-TEMP_deep-superficial,deep superficial,CT
+https://purl.org/ccf/ASCTB-TEMP_rounded-chondrocytes,rounded chondrocytes,CT
+https://purl.org/ccf/ASCTB-TEMP_vascular-endothelial-cells,vascular endothelial cells,CT
+http://purl.obolibrary.org/obo/CL_4023062,hippocampal dentate gyrus neuron,CT
+http://purl.obolibrary.org/obo/LMHA_00142,ciliated cell of terminal ciliated ducts of submucosal glands,CT
+https://purl.org/ccf/ASCTB-TEMP_activated-stellate-cell,activated stellate cell,CT
+https://purl.org/ccf/ASCTB-TEMP_airway-deuterosomal-cell,airway deuterosomal cell,CT
+https://purl.org/ccf/ASCTB-TEMP_airway-submucosal-gland-ciliated-duct-cell,airway submucosal gland ciliated duct cell,CT
+https://purl.org/ccf/ASCTB-TEMP_airway-submucosal-gland-ciliated-duct-cells,airway submucosal gland ciliated duct cells,CT
+https://purl.org/ccf/ASCTB-TEMP_alveolar-macrophage-ccl3-,alveolar macrophage ccl3+,CT
+https://purl.org/ccf/ASCTB-TEMP_alveolar-macrophage-mt-positive,alveolar macrophage mt-positive,CT
+https://purl.org/ccf/ASCTB-TEMP_alveolar-macrophage-proliferating,alveolar macrophage proliferating,CT
+https://purl.org/ccf/ASCTB-TEMP_amex155,amex_155,CT
+https://purl.org/ccf/ASCTB-TEMP_amex173,amex_173,CT
+https://purl.org/ccf/ASCTB-TEMP_astro64,astro_64,CT
+https://purl.org/ccf/ASCTB-TEMP_autonomic-neuronal-cells,autonomic neuronal cells,CT
+https://purl.org/ccf/ASCTB-TEMP_basal-cell-of-bladder-urothelium,basal cell of bladder urothelium,CT
+https://purl.org/ccf/ASCTB-TEMP_basal-cell-of-ureter-urothelium,basal cell of ureter urothelium,CT
+https://purl.org/ccf/ASCTB-TEMP_bche-butyrylcholinesterase-cell,bche (butyrylcholinesterase) cell,CT
+https://purl.org/ccf/ASCTB-TEMP_bone-lining-cells,bone lining cells,CT
+https://purl.org/ccf/ASCTB-TEMP_cd4-t,cd4+ t,CT
+https://purl.org/ccf/ASCTB-TEMP_cd4-t-cell,cd4+ t-cell,CT
+https://purl.org/ccf/ASCTB-TEMP_cd4-t-cell-resident-memory,cd4+ t cell resident memory,CT
+https://purl.org/ccf/ASCTB-TEMP_cd8-t,cd8+ t,CT
+https://purl.org/ccf/ASCTB-TEMP_cd8-t-cell-effector-memory,cd8 t cell effector memory,CT
+https://purl.org/ccf/ASCTB-TEMP_cd8-t-cell-resident-memory,cd8+ t cell resident memory,CT
+https://purl.org/ccf/ASCTB-TEMP_cd8-t-cells,cd8+ t-cells,CT
+https://purl.org/ccf/ASCTB-TEMP_cd8-trm-residence-memory-,cd8 trm (residence memory),CT
+https://purl.org/ccf/ASCTB-TEMP_ciliated-epithelial-cell,ciliated epithelial cell,CT
+https://purl.org/ccf/ASCTB-TEMP_columnar-ovarian-surface-epithelial-cell,columnar ovarian surface epithelial cell,CT
+https://purl.org/ccf/ASCTB-TEMP_corpus-luteum-endothelial-cell,corpus luteum endothelial cell,CT
+https://purl.org/ccf/ASCTB-TEMP_corpus-luteum-macrophage,corpus luteum macrophage,CT
+https://purl.org/ccf/ASCTB-TEMP_dendritic-cell,dendritic cell,CT
+https://purl.org/ccf/ASCTB-TEMP_detrusor-smooth-muscle-cell-of-bladder,detrusor smooth muscle cell of bladder,CT
+https://purl.org/ccf/ASCTB-TEMP_detrusor-smooth-muscle-cell-of-ureter,detrusor smooth muscle cell of ureter,CT
+https://purl.org/ccf/ASCTB-TEMP_dg205,dg_205,CT
+https://purl.org/ccf/ASCTB-TEMP_dlit136,dlit_136,CT
+https://purl.org/ccf/ASCTB-TEMP_dlit139,dlit_139,CT
+https://purl.org/ccf/ASCTB-TEMP_dlnp83,dlnp_83,CT
+https://purl.org/ccf/ASCTB-TEMP_dpt-fibroblast-cell-of-bladder,dpt+ fibroblast cell of bladder,CT
+https://purl.org/ccf/ASCTB-TEMP_dpt-fibroblast-cell-of-ureter,dpt+ fibroblast cell of ureter,CT
+https://purl.org/ccf/ASCTB-TEMP_endocervical-epithelial-cell,endocervical epithelial cell,CT
+https://purl.org/ccf/ASCTB-TEMP_endothelial-cell,endothelial cell,CT
+https://purl.org/ccf/ASCTB-TEMP_endothelial-cell-of-bladder,endothelial cell of bladder,CT
+https://purl.org/ccf/ASCTB-TEMP_endothelial-cell-of-ureter,endothelial cell of ureter,CT
+https://purl.org/ccf/ASCTB-TEMP_epen73,epen_73,CT
+https://purl.org/ccf/ASCTB-TEMP_epithelial-cell,epithelial cell,CT
+https://purl.org/ccf/ASCTB-TEMP_epithelial-stem-cells,epithelial stem cells,CT
+https://purl.org/ccf/ASCTB-TEMP_fibroblast,fibroblast,CT
+https://purl.org/ccf/ASCTB-TEMP_fibroblast-mesenchymal-cell,fibroblast-mesenchymal cell,CT
+https://purl.org/ccf/ASCTB-TEMP_flat-epithelial-cells,flat epithelial cells,CT
+https://purl.org/ccf/ASCTB-TEMP_flattened-cuboidal-ovarian-surface-epithelial-cell,flattened cuboidal ovarian surface epithelial cell,CT
+https://purl.org/ccf/ASCTB-TEMP_glandular-epithelial-cell,glandular epithelial cell,CT
+https://purl.org/ccf/ASCTB-TEMP_glial-cell,glial cell,CT
+https://purl.org/ccf/ASCTB-TEMP_immune-cell,immune cell,CT
+https://purl.org/ccf/ASCTB-TEMP_innate-lymphoid-cell,innate lymphoid cell,CT
+https://purl.org/ccf/ASCTB-TEMP_intercalary-cell,intercalary cell,CT
+https://purl.org/ccf/ASCTB-TEMP_intermediate-cell-of-bladder-urothelium,intermediate cell of bladder urothelium,CT
+https://purl.org/ccf/ASCTB-TEMP_intermediate-cell-of-ureter-urothelium,intermediate cell of ureter urothelium,CT
+https://purl.org/ccf/ASCTB-TEMP_interstitial-macrophage,interstitial macrophage,CT
+https://purl.org/ccf/ASCTB-TEMP_langerhans-cell,langerhans cell,CT
+https://purl.org/ccf/ASCTB-TEMP_limbal-stem-cells,limbal stem cells,CT
+https://purl.org/ccf/ASCTB-TEMP_lipofibroblast-cell-of-bladder,lipofibroblast cell of bladder,CT
+https://purl.org/ccf/ASCTB-TEMP_lipofibroblast-cell-of-ureter,lipofibroblast cell of ureter,CT
+https://purl.org/ccf/ASCTB-TEMP_low-columnar-epithelial-cell,low columnar epithelial cell,CT
+https://purl.org/ccf/ASCTB-TEMP_lower-rhombic-lip-neuron,lower rhombic lip neuron,CT
+https://purl.org/ccf/ASCTB-TEMP_luminal-epithelial-cell,luminal epithelial cell,CT
+https://purl.org/ccf/ASCTB-TEMP_lymphatic,lymphatic,CT
+https://purl.org/ccf/ASCTB-TEMP_lymphatics,lymphatics,CT
+https://purl.org/ccf/ASCTB-TEMP_lymphocyte,lymphocyte,CT
+https://purl.org/ccf/ASCTB-TEMP_m1-like-macrophage,m1-like macrophage,CT
+https://purl.org/ccf/ASCTB-TEMP_m2-like-macrophage,m2-like macrophage,CT
+https://purl.org/ccf/ASCTB-TEMP_macrophage,macrophage,CT
+https://purl.org/ccf/ASCTB-TEMP_mast-cell,mast cell,CT
+https://purl.org/ccf/ASCTB-TEMP_mature-cd8-t-cell,mature cd8 t cell,CT
+https://purl.org/ccf/ASCTB-TEMP_migratory-dendritic-cell,migratory dendritic cell,CT
+https://purl.org/ccf/ASCTB-TEMP_misc178,misc_178,CT
+https://purl.org/ccf/ASCTB-TEMP_monocyte,monocyte,CT
+https://purl.org/ccf/ASCTB-TEMP_monocyte-derived-cell,monocyte derived cell,CT
+https://purl.org/ccf/ASCTB-TEMP_muscle,muscle,CT
+https://purl.org/ccf/ASCTB-TEMP_myeloid-progenitor-mop-,myeloid progenitor (mop),CT
+https://purl.org/ccf/ASCTB-TEMP_myofibroblast-cell-of-bladder,myofibroblast cell of bladder,CT
+https://purl.org/ccf/ASCTB-TEMP_myofibroblast-cell-of-ureter,myofibroblast cell of ureter,CT
+https://purl.org/ccf/ASCTB-TEMP_natural-killer-cell,natural killer cell,CT
+https://purl.org/ccf/ASCTB-TEMP_nerves,nerves,CT
+https://purl.org/ccf/ASCTB-TEMP_neutrophil,neutrophil,CT
+https://purl.org/ccf/ASCTB-TEMP_nonmucinous-cuboidal-epithelial-cell,nonmucinous cuboidal epithelial cell,CT
+https://purl.org/ccf/ASCTB-TEMP_pericyte-cell-of-bladder,pericyte cell of bladder,CT
+https://purl.org/ccf/ASCTB-TEMP_pericyte-cell-of-ureter,pericyte cell of ureter,CT
+https://purl.org/ccf/ASCTB-TEMP_perivascular-support-cell,perivascular support cell,CT
+https://purl.org/ccf/ASCTB-TEMP_pi16-fibroblast-cell-of-bladder,pi16+ fibroblast cell of bladder,CT
+https://purl.org/ccf/ASCTB-TEMP_pi16-fibroblast-cell-of-ureter,pi16+ fibroblast cell of ureter,CT
+https://purl.org/ccf/ASCTB-TEMP_plasma-cell,plasma cell,CT
+https://purl.org/ccf/ASCTB-TEMP_pre-antral-follicle-granulosa-cell,pre-antral follicle granulosa cell,CT
+https://purl.org/ccf/ASCTB-TEMP_quiescent-stellate-cell,quiescent stellate cell,CT
+https://purl.org/ccf/ASCTB-TEMP_regulatory-cd4-t,regulatory cd4+ t,CT
+https://purl.org/ccf/ASCTB-TEMP_residual-hypertrophic-chondrocytes,residual hypertrophic chondrocytes,CT
+https://purl.org/ccf/ASCTB-TEMP_respiratory-suprabasal-cell,respiratory suprabasal cell,CT
+https://purl.org/ccf/ASCTB-TEMP_secretory-epithelial-cell,secretory epithelial cell,CT
+https://purl.org/ccf/ASCTB-TEMP_sox9-epithelial-cell,sox9+ epithelial cell,CT
+https://purl.org/ccf/ASCTB-TEMP_stroma-type-i-cell,stroma type i cell,CT
+https://purl.org/ccf/ASCTB-TEMP_stroma-type-ii-cell,stroma type ii cell,CT
+https://purl.org/ccf/ASCTB-TEMP_stroma-type-iii-cell,stroma type iii cell,CT
+https://purl.org/ccf/ASCTB-TEMP_stroma-type-iv-cell,stroma type iv cell,CT
+https://purl.org/ccf/ASCTB-TEMP_stroma-type-v-cell,stroma type v cell,CT
+https://purl.org/ccf/ASCTB-TEMP_stromal-cell,stromal cell,CT
+https://purl.org/ccf/ASCTB-TEMP_superficial-cell-of-bladder-urothelium,superficial cell of bladder urothelium,CT
+https://purl.org/ccf/ASCTB-TEMP_superficial-cell-of-ureter-urothelium,superficial cell of ureter urothelium,CT
+https://purl.org/ccf/ASCTB-TEMP_t-cell,t cell,CT
+https://purl.org/ccf/ASCTB-TEMP_tall-columnar-epithelial-cell,tall columnar epithelial cell,CT
+https://purl.org/ccf/ASCTB-TEMP_ulit126,ulit_126,CT
+https://purl.org/ccf/ASCTB-TEMP_upper-rhombic-lip-neuron,upper rhombic lip neuron,CT
+https://purl.org/ccf/ASCTB-TEMP_uterine-dendritic-cells,uterine dendritic cells,CT
+https://purl.org/ccf/ASCTB-TEMP_uterine-natural-killer-cell,uterine natural killer cell,CT
+https://purl.org/ccf/ASCTB-TEMP_uterine-smooth-muscle-type-i-cell,uterine smooth muscle type i cell,CT
+https://purl.org/ccf/ASCTB-TEMP_uterine-smooth-muscle-type-ii-cell,uterine smooth muscle type ii cell,CT
+https://purl.org/ccf/ASCTB-TEMP_valve-interstitial-cell,valve interstitial cell,CT
+https://purl.org/ccf/ASCTB-TEMP_vascular-smooth-muscle-cell-of-bladder,vascular smooth muscle cell of bladder,CT
+https://purl.org/ccf/ASCTB-TEMP_vascular-smooth-muscle-cell-of-ureter,vascular smooth muscle cell of ureter,CT

@@ -1,0 +1,58 @@
+organ,dataset_count,organ_clean
+Anterior left ventricle,3,anterior left ventricle
+"Breast, Left",2,"breast, left"
+"Breast, Right",1,"breast, right"
+Gastrocnemius - Left,3,gastrocnemius - left
+Inferior segment of left upper lobe,3,inferior segment of left upper lobe
+"Leg, left",3,"leg, left"
+Non-nodular region,4,non-nodular region
+"Squamous region, above gastroesophageal junction",6,"squamous region, above gastroesophageal junction"
+adipose tissue,39,adipose tissue
+adrenal gland,2,adrenal gland
+bladder,14,bladder
+bladder organ,21,bladder organ
+blood,1788,blood
+bone marrow,24,bone marrow
+brain,1666,brain
+breast,225,breast
+central nervous system,84,central nervous system
+colon,24,colon
+endocrine gland,17,endocrine gland
+esophagogastric junction,59,esophagogastric junction
+esophagus,77,esophagus
+exocrine gland,24,exocrine gland
+eye,256,eye
+fallopian tube,69,fallopian tube
+gallbladder,1,gallbladder
+heart,49,heart
+kidney,161,kidney
+kidney (left),234,kidney
+kidney (right),230,kidney
+knee (left),1,knee
+knee (right),5,knee
+large intestine,264,large intestine
+"large intestine,small intestine",1,"large intestine,small intestine"
+liver,89,liver
+lung,404,lung
+lung (right),102,lung
+lymph node,55,lymph node
+musculature,37,musculature
+nose,47,nose
+omentum,3,omentum
+ovary,6,ovary
+pancreas,46,pancreas
+pleura,1,pleura
+prostate gland,73,prostate gland
+respiratory system,113,respiratory system
+skin,12,skin
+skin of body,46,skin of body
+small intestine,307,small intestine
+"small intestine,large intestine",3,"small intestine,large intestine"
+spinal cord,134,spinal cord
+spleen,68,spleen
+stomach,122,stomach
+thymus,25,thymus
+tongue,27,tongue
+ureter,1,ureter
+uterus,239,uterus
+vasculature,17,vasculature
