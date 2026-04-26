@@ -49,6 +49,11 @@ HRAlit-Analysis/
 ├── preaggregate_inst_collabs.py        # Script to build institution collaboration CSV from raw data
 ├── README.md
 ├── .gitignore
+├── LICENSE                             # Apache 2.0 for code
+├── NOTICE                              # Project-level attribution notice
+├── DATA_NOTICE.md                      # Data-use terms for HRAlit-derived data assets
+├── CITATION.cff                        # Machine-readable citation metadata
+├── dataset_statistics.md               # Full stats and slide-ready insights
 │
 ├── Pre-Aggregated Data/                # Pre-aggregated datasets used by the dashboard
 │   ├── sankey_funder_organ_year.csv
@@ -138,14 +143,28 @@ jupyter notebook "Visualization Notebooks/"
 
 ---
 
+## Useful Links
+
+- Live dashboard: https://huggingface.co/spaces/Tejas1703/hralit-dashboard
+- Code license: [LICENSE](LICENSE)
+- Project notice: [NOTICE](NOTICE)
+- Data notice: [DATA_NOTICE.md](DATA_NOTICE.md)
+- Citation file: [CITATION.cff](CITATION.cff)
+- Dataset statistics: [dataset_statistics.md](dataset_statistics.md)
+- Root dashboard app: [app.py](app.py)
+- Pre-aggregation script: [preaggregate_inst_collabs.py](preaggregate_inst_collabs.py)
+
+---
+
 ## Data Source
 
 All data is sourced from the **HRAlit Database** (Kong & Börner, 2024) — a curated collection of publications, funding records, author affiliations, and institutional metadata related to the Human Reference Atlas.
 
-- **Publications:** ~384K records (1950–2023)
-- **Organs:** 6 primary organs tracked (brain, liver, heart, kidney, lung, skin)
-- **Funders:** 11 major agencies (NIH, MRC, NSFC, Wellcome, DFG, HHMI, CIHR, BHF, JSPS, NSF, and more)
-- **Institutions:** Global coverage across 25+ countries
+- **Full database:** 22 tables, about 20.9M records
+- **Raw CSVs in this workspace:** 14 tables, 82,801 rows
+- **Pre-aggregated dashboard tables:** 12 tables, 338,016 rows
+
+For a full breakdown of rows, organs, funders, collaborations, and file sizes, see [dataset_statistics.md](dataset_statistics.md).
 
 ---
 
@@ -163,6 +182,42 @@ Developed as part of the Indiana University Information Visualization course (E5
 
 ---
 
+## How to Cite This Project
+
+If you use the code, dashboard, or derived analyses, please cite the repository and the source HRAlit publication.
+
+```text
+Athkia, Tejas Sarma, Sarrthak, Jonathan Browning, and Jaswanth. HRAlit Analysis. GitHub repository, 2026.
+https://github.com/Tejas1703/HRAlit-Analysis
+```
+
+```text
+Kong, Y., Börner, K. Publication, funding, and experimental data in support of Human Reference Atlas construction and usage. Scientific Data 11, 574 (2024).
+https://doi.org/10.1038/s41597-024-03416-8
+```
+
+If you use the underlying HRAlit data, also cite the Figshare dataset:
+
+```text
+Figshare DOI: 10.6084/m9.figshare.24580669.v2
+```
+
+The machine-readable citation metadata is available in [CITATION.cff](CITATION.cff).
+
+---
+
 ## License
 
-This project is for academic and research purposes. The underlying HRAlit data is subject to its original licensing terms.
+This repository contains two different kinds of assets:
+
+- **Code**: this repository's code is licensed under **Apache 2.0**. See [LICENSE](LICENSE).
+- **Data**: do **not** assume Apache 2.0 covers the HRAlit tables. See [DATA_NOTICE.md](DATA_NOTICE.md) for the data-use terms and restrictions.
+
+If any files are proprietary or redistributed under restricted terms, keep them separate from the code license and document the data-use rules clearly in the repo. A common pattern is:
+
+- `LICENSE` for the code
+- `DATA_NOTICE.md` or a dedicated data notice for the dataset terms
+- `NOTICE` for attribution and project-level notices
+- `CITATION.cff` for citation metadata
+
+This project is for academic and research use. The HRAlit data remains subject to its original licensing terms and the additional guidance in [DATA_NOTICE.md](DATA_NOTICE.md).

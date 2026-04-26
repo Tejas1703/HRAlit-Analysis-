@@ -1,0 +1,8 @@
+HRAlit Analysis
+Copyright 2026 The HRAlit Analysis contributors
+
+This repository contains software for interactive analysis and visualization of the Human Reference Atlas (HRA) literature database.
+
+Code in this repository is licensed under the Apache License 2.0. See LICENSE.
+
+The HRAlit data files and derived dataset assets are not relicensed by this notice. They remain subject to the original HRAlit / Figshare source terms and any applicable third-party restrictions. See DATA_NOTICE.md for details.
