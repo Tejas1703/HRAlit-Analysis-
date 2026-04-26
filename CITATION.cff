@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this software or the HRAlit-derived analyses, please cite the repository and the source HRAlit publication."
+title: "HRAlit Analysis"
+type: software
+authors:
+  - name: Athkia
+  - given-names: Tejas
+    family-names: Sarma
+  - name: Sarrthak
+  - given-names: Jonathan
+    family-names: Browning
+  - name: Jaswanth
+keywords:
+  - Human Reference Atlas
+  - HRAlit
+  - Streamlit
+  - data visualization
+  - bibliometrics
+license: Apache-2.0
+repository-code: "https://github.com/Tejas1703/HRAlit-Analysis"
+url: "https://huggingface.co/spaces/Tejas1703/hralit-dashboard"
+identifiers:
+  - type: doi
+    value: "10.6084/m9.figshare.24580669.v2"
+abstract: "Interactive visualization and analysis of the Human Reference Atlas literature database, including publication trends, funding flows, global collaborations, and institutional research networks."
