@@ -53,7 +53,7 @@ st.markdown("""
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # DATA LOADING
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-DATA_DIR = os.path.join(os.path.dirname(__file__), 'Pre-Aggregated Data')
+DATA_DIR = os.path.join(os.path.dirname(__file__), 'data')
 
 @st.cache_data
 def load_data():
@@ -82,7 +82,7 @@ def load_data():
     d['organ_yearly'] = {}
     for organ in d['all_organs_trends']:
         organ_data = d['trends'][d['trends']['organ'] == organ].set_index('year')['pub_count']
-        d['organ_yearly'][organ] = {y: organ_data.get(y, 0) for y in range(1950, 2022)}
+        d['organ_yearly'][organ] = {y: organ_data.get(y, 0) for y in range(1950, 2023)}
     
     # Load world boundaries GeoJSON for map basemap
     geo_path = os.path.join(DATA_DIR, 'world_boundaries.json')
@@ -150,7 +150,7 @@ def render_sankey(data):
     st.sidebar.markdown("### 🔗 Sankey Filters")
     sel_funders = st.sidebar.multiselect("Funders", data['all_funders'], default=data['all_funders'][:6], key='s_f')
     sel_organs = st.sidebar.multiselect("Organs", data['all_organs_sankey'], default=data['all_organs_sankey'][:6], key='s_o')
-    yr = st.sidebar.slider("Year Range", 1950, 2021, (2000, 2021), key='s_yr')
+    yr = st.sidebar.slider("Year Range", 1950, 2022, (2000, 2022), key='s_yr')
     show_flow_labels = st.sidebar.checkbox("Show Labels", value=True, key='s_labels')
     
     if not sel_funders or not sel_organs:
@@ -273,7 +273,7 @@ def render_trends(data):
             st.session_state['t_o'] = desired
     
     sel = st.sidebar.multiselect("Organs", all_organs, default=all_organs[:5], key='t_o')
-    yr = st.sidebar.slider("Year Range", 1950, 2021, (1950, 2021), key='t_yr')
+    yr = st.sidebar.slider("Year Range", 1950, 2022, (1950, 2022), key='t_yr')
     fc = st.sidebar.checkbox("Show Forecast", value=True, key='t_fc')
     fc_n = st.sidebar.slider("Forecast Years", 1, 10, 5, key='t_fn') if fc else 0
     
@@ -285,7 +285,7 @@ def render_trends(data):
     if not sel: st.warning("Select at least one organ."); return
     
     organ_yearly = data['organ_yearly']
-    yr_range = list(range(max(yr[0],1950), min(yr[1]+1,2022)))
+    yr_range = list(range(max(yr[0],1950), min(yr[1]+1,2023)))
     forecast_range = list(range(yr[1]+1, yr[1]+1+fc_n)) if fc else []
     cmap_tab = plt.cm.get_cmap('tab20', len(all_organs))
     
@@ -296,7 +296,7 @@ def render_trends(data):
         if organ not in organ_yearly: continue
         organ_colors[organ] = ORGAN_COLORS.get(organ, cmap_tab(all_organs.index(organ) if organ in all_organs else 0))
         if fc and len(forecast_range) > 0:
-            ts = max(yr[0], yr[1]-19); ty = list(range(ts, yr[1]+1)); tc = [organ_yearly[organ].get(y,0) for y in ty]
+            ts = max(yr[0], yr[1]-19); ty = list(range(ts, yr[1])); tc = [organ_yearly[organ].get(y,0) for y in ty]
             X = np.array(ty).reshape(-1,1); y_a = np.array(tc)
             poly = PolynomialFeatures(degree=2); Xp = poly.fit_transform(X)
             model = LinearRegression(); model.fit(Xp, y_a)
@@ -320,11 +320,12 @@ def render_trends(data):
                 ax.fill_between(fc_yrs, np.maximum(yp_s-ci_s,0), yp_s+ci_s, color=color, alpha=0.12)
         if fc and fc_years_to_show > 0:
             ax.axvline(x=yr[1]+0.5, color='#7a8c9e', linewidth=1.5, linestyle=':', alpha=0.7)
-            ax.text(yr[1]+0.5, ax.get_ylim()[1]*0.95, '  Today', fontsize=10, color='#7a8c9e', fontstyle='italic', va='top')
+            ax.axvline(x=2026, color='#7a8c9e', linewidth=1.5, linestyle='-', alpha=0.7)
+            ax.text(2026, ax.get_ylim()[1]*0.95, '  Today', fontsize=10, color='#7a8c9e', fontstyle='italic', va='top')
         ax.set_xlabel('Year', fontsize=12, fontweight='bold', color='#e0e0e0'); ax.set_ylabel('Publication Count', fontsize=12, fontweight='bold', color='#e0e0e0')
         # Set consistent axis limits for animation
         all_x = yr_range + forecast_range
-        ax.set_xlim(min(all_x)-1, max(all_x)+1); ax.set_ylim(bottom=0); ax.grid(True)
+        ax.set_xlim(min(all_x)-1, max(all_x)+3); ax.set_ylim(bottom=0); ax.grid(True)
         ncol = 2 if len(sel) > 8 else 1
         ax.legend(loc='upper left', fontsize=8 if len(sel)>8 else 9, framealpha=0.3, edgecolor='#2d4059', facecolor=DARK_BG, labelcolor='#e0e0e0', ncol=ncol)
         title = f'Publication Trends: {", ".join(o.title() for o in sel[:3])}' + (f' + {len(sel)-3} more' if len(sel) > 3 else '')
@@ -366,20 +367,21 @@ def render_heatmap(data):
     sel_label = st.sidebar.selectbox("Country", list(co.keys()), key='h_c')
     sel_country = co[sel_label]
     n_inst = st.sidebar.slider("Top N Institutions", 3, 20, 10, key='h_n')
-    yr = st.sidebar.slider("Year Range", 2000, 2021, (2000, 2021), key='h_yr')
-    sel_funders = st.sidebar.multiselect("Funders", data['all_funders_heat'], default=data['all_funders_heat'], key='h_f')
+    yr = st.sidebar.slider("Year Range", 2000, 2022, (2000, 2022), key='h_yr')
+    #sel_funders = st.sidebar.multiselect("Funders", data['all_funders_heat'], default=data['all_funders_heat'], key='h_f')
     
     df = data['heatmap']
     mask = (df['country']==sel_country) & (df['year']>=yr[0]) & (df['year']<=yr[1])
-    if sel_funders: mask = mask & (df['funder'].isin(sel_funders))
+    #if sel_funders: mask = mask & (df['funder'].isin(sel_funders))
     filtered = df[mask]
     
     if len(filtered) == 0:
         st.warning(f"No data for {COUNTRY_NAMES.get(sel_country,sel_country)} in {yr[0]}–{yr[1]}"); return
     
     top_insts = filtered.groupby('institution')['pub_count'].sum().sort_values(ascending=False).head(n_inst).index.tolist()
-    avail_funders = sel_funders if sel_funders else filtered.groupby('funder')['pub_count'].sum().sort_values(ascending=False).index.tolist()
-    
+    #avail_funders = sel_funders if sel_funders else filtered.groupby('funder')['pub_count'].sum().sort_values(ascending=False).index.tolist()[:10]
+    avail_funders = filtered.groupby('funder')['pub_count'].sum().sort_values(ascending=False).index.tolist()[:10]
+
     mat = filtered[filtered['institution'].isin(top_insts)].groupby(['institution','funder'])['pub_count'].sum().unstack(fill_value=0)
     mat = mat.reindex(index=top_insts, columns=avail_funders).fillna(0)
     mat = mat.loc[:, mat.sum() > 0]
@@ -396,13 +398,13 @@ def render_heatmap(data):
             if v > 0: ax.text(j,i,f'{v:,}',ha='center',va='center',fontsize=8,fontweight='bold',color='black' if v>d.max()*0.55 else 'white')
     short = [n[:35]+'...' if len(n)>35 else n for n in mat.index]
     ax.set_yticks(range(len(short))); ax.set_yticklabels(short, fontsize=9)
-    ax.set_xticks(range(len(mat.columns))); ax.set_xticklabels(mat.columns, fontsize=10, fontweight='bold', rotation=30, ha='right')
+    ax.set_xticks(range(len(mat.columns))); ax.set_xticklabels([label[:50] for label in mat.columns], fontsize=10, fontweight='bold', rotation=30, ha='right')
     for i in range(d.shape[0]+1): ax.axhline(i-0.5, color='#2d4059', linewidth=0.3)
     for j in range(d.shape[1]+1): ax.axvline(j-0.5, color='#2d4059', linewidth=0.3)
     cbar = plt.colorbar(im, ax=ax, shrink=0.6, pad=0.02)
     cbar.set_label('Co-linked Publications', fontsize=10, color='#e0e0e0'); cbar.ax.tick_params(colors='#7a8c9e', labelsize=9)
     total = int(filtered['pub_count'].sum())
-    ax.set_title(f'{COUNTRY_NAMES.get(sel_country,sel_country)} — Top {len(mat)} Institutions × Funders ({yr[0]}–{yr[1]})\n{total:,} funded publications', fontsize=13, fontweight='bold', pad=15)
+    ax.set_title(f'{COUNTRY_NAMES.get(sel_country,sel_country)} — Top {len(mat)} Institutions × Funders ({yr[0]}–{yr[1]})\n{total:,} funded publications - Institution Pairs', fontsize=13, fontweight='bold', pad=15)
     plt.tight_layout(); st.pyplot(fig); plt.close(fig)
     
     c1,c2,c3 = st.columns(3)
@@ -457,7 +459,7 @@ def _draw_geo_map(ax, data, ac, top_edges, fi, min_auth, show_labels, title_str)
                         if len(ring) > 2:
                             patches.append(MplPolygon(ring, closed=True))
         if patches:
-            pc = PatchCollection(patches, facecolor='#0f1c2e', edgecolor='#2d4059', linewidth=0.3, alpha=0.9, zorder=1)
+            pc = PatchCollection(patches, facecolor="#203552", edgecolor='#2d4059', linewidth=1, alpha=1, zorder=1)
             ax.add_collection(pc)
     max_edge = top_edges.max() if len(top_edges) > 0 else 1
     for (c1,c2), count in top_edges.items():
@@ -529,7 +531,7 @@ def render_geo(data):
     time_mode = st.sidebar.radio("Time Mode", ["Range", "Step-Through"], key='g_tm', horizontal=True)
     if time_mode == "Step-Through":
         window = st.sidebar.select_slider("Window Size", options=[1,3,5], value=3, key='g_win')
-        current_year = st.sidebar.slider("Year", 1950+window, 2023, 2021, key='g_sy')
+        current_year = st.sidebar.slider("Year", 1950+window, 2023, 2022, key='g_sy')
         yr_start, yr_end = current_year - window + 1, current_year
     else:
         yr_range = st.sidebar.slider("Year Range", 1950, 2023, (2018, 2023), key='g_yr')
@@ -619,10 +621,13 @@ def render_inst_collab(data):
     edges = df.apply(normalize_row, axis=1, result_type='expand')
     edges.columns = ['inst_a', 'inst_b', 'collab_count']
     edges = edges.groupby(['inst_a','inst_b'])['collab_count'].sum().reset_index()
+    total_collabs = int(edges['collab_count'].sum())
     
     # Get top institutions per country
     top_a = edges.groupby('inst_a')['collab_count'].sum().sort_values(ascending=False).head(top_n).index.tolist()
+    top_a_totals = edges.groupby('inst_a')['collab_count'].sum().sort_values(ascending=False).head(top_n)
     top_b = edges.groupby('inst_b')['collab_count'].sum().sort_values(ascending=False).head(top_n).index.tolist()
+    top_b_totals = edges.groupby('inst_b')['collab_count'].sum().sort_values(ascending=False).head(top_n)
     edges = edges[edges['inst_a'].isin(top_a) & edges['inst_b'].isin(top_b)]
     
     if len(edges) == 0:
@@ -641,7 +646,7 @@ def render_inst_collab(data):
     totals_b = edges.groupby('inst_b')['collab_count'].sum()
     
     max_count = edges['collab_count'].max()
-    total_collabs = int(edges['collab_count'].sum())
+    #total_collabs = int(edges['collab_count'].sum())
     label_a = COUNTRY_NAMES.get(country_a, country_a)
     label_b = COUNTRY_NAMES.get(country_b, country_b)
     
@@ -670,7 +675,7 @@ def render_inst_collab(data):
     # Draw nodes — Country A (left, blue)
     node_x_a = [x_left] * n_a
     node_y_a = [y_a[inst] for inst in top_a]
-    node_text_a = [f"<b>{inst}</b><br>Total co-pubs: {int(totals_a.get(inst, 0)):,}" for inst in top_a]
+    node_text_a = [f"<b>{inst}</b><br>Total co-pubs with {label_b}: {int(top_a_totals.get(inst, 0)):,}" for inst in top_a]
     fig.add_trace(go.Scatter(
         x=node_x_a, y=node_y_a, mode='markers',
         marker=dict(size=14, color='#60a5fa', line=dict(width=1.5, color='white')),
@@ -680,7 +685,7 @@ def render_inst_collab(data):
     # Draw nodes — Country B (right, red)
     node_x_b = [x_right] * n_b
     node_y_b = [y_b[inst] for inst in top_b]
-    node_text_b = [f"<b>{inst}</b><br>Total co-pubs: {int(totals_b.get(inst, 0)):,}" for inst in top_b]
+    node_text_b = [f"<b>{inst}</b><br>Total co-pubs with {label_a}: {int(top_b_totals.get(inst, 0)):,}" for inst in top_b]
     fig.add_trace(go.Scatter(
         x=node_x_b, y=node_y_b, mode='markers',
         marker=dict(size=14, color='#ef4444', line=dict(width=1.5, color='white')),
@@ -688,10 +693,10 @@ def render_inst_collab(data):
     ))
     
     # Institution name annotations (left — right-aligned)
-    for inst in top_a:
+    for i, inst in enumerate(top_a):
         y = y_a[inst]
         short = inst[:40] + '...' if len(inst) > 40 else inst
-        total = int(totals_a.get(inst, 0))
+        total = int(top_a_totals.get(inst, 0))
         fig.add_annotation(
             x=x_left, y=y, xanchor='right', yanchor='middle',
             text=f"<b>{short}</b>  ({total:,})",
@@ -703,7 +708,7 @@ def render_inst_collab(data):
     for inst in top_b:
         y = y_b[inst]
         short = inst[:40] + '...' if len(inst) > 40 else inst
-        total = int(totals_b.get(inst, 0))
+        total = int(top_b_totals.get(inst, 0))
         fig.add_annotation(
             x=x_right, y=y, xanchor='left', yanchor='middle',
             text=f"({total:,})  <b>{short}</b>",
@@ -722,7 +727,7 @@ def render_inst_collab(data):
     fig_height = max(500, max(n_a, n_b) * 55)
     fig.update_layout(
         title=dict(
-            text=f"Institution Collaborations: {label_a} ↔ {label_b}<br><sup>{total_collabs:,} co-publications  •  {len(top_a)} × {len(top_b)} institutions</sup>",
+            text=f"Top Institution Collaborations: {label_a} ↔ {label_b}<br><sup>{total_collabs:,} co-publications</sup>",
             font=dict(size=16, color='white'),
             x=0.5, xanchor='center',
         ),
@@ -770,7 +775,7 @@ def main():
         render_sankey(data)
     with tab2:
         st.markdown("#### Publication Count Trends with Forecast")
-        st.caption("Historical trends from 1950–2021 with polynomial regression forecast. Click ▶ Animate to watch trends grow.")
+        st.caption("Historical trends from 1950–2022 with polynomial regression forecast. Click ▶ Animate to watch trends grow.")
         render_trends(data)
     with tab3:
         st.markdown("#### Top Institutions × Funders by Country")
@@ -791,3 +796,12 @@ def main():
 if __name__ == '__main__':
     main()
 
+
+### Changes:
+# 1. Heatmap - change data file to include all funders, changed grouping of NIH to get anything with 'NIH' in string, 
+# change avail_funders line, comment out select funders box and references to it, instead taking top 10 per country.
+# Limit length of title funder title to 50 characters
+
+# 2. Institution-Institution Colab Network - Changed totals next to institution names to be total for all collaborations with other country
+
+# 3. Change year to max year to 2023 from 2021, except for trend data, which requires complete year data for accurate predictions.
